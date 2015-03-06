@@ -1,0 +1,115 @@
+User chosed to go second -- at 11:06:36 AM
+agent melded: 0.8 -- at 11:06:37 AM
+User smiled -- at 11:06:38 AM
+agent discarded: 0.4 -- at 11:06:43 AM
+User laughed -- at 11:06:49 AM
+User selected response: Not gonna tell you! -- at 11:06:52 AM
+User smiled -- at 11:07:05 AM
+User laughed -- at 11:07:10 AM
+User smiled -- at 11:07:13 AM
+User laughed -- at 11:07:14 AM
+User discarded: 0.4 -- at 11:07:16 AM
+User stopped laughing -- at 11:07:22 AM
+User smiled -- at 11:07:24 AM
+agent discarded: 0.4 -- at 11:07:26 AM
+User stopped smiling -- at 11:07:40 AM
+User laughed -- at 11:07:49 AM
+User melded: 0.8 -- at 11:07:58 AM
+User layoff: 0.6 -- at 11:08:04 AM
+User smiled -- at 11:08:13 AM
+User laughed -- at 11:08:14 AM
+User stopped laughing -- at 11:08:15 AM
+User discarded: 0.4 -- at 11:08:21 AM
+User selected response: Here I go, meld! -- at 11:08:31 AM
+Agent Responded:  -- at 11:08:31 AM
+agent discarded: 0.4 -- at 11:08:35 AM
+User laughed -- at 11:08:46 AM
+User selected response: I like playing with you -- at 11:08:47 AM
+Agent Responded: I have to do more melds then -- at 11:08:47 AM
+User smiled -- at 11:08:55 AM
+User layoff: 0.6 -- at 11:08:57 AM
+User laughed -- at 11:09:01 AM
+User stopped laughing -- at 11:09:04 AM
+User discarded: 0.4 -- at 11:09:06 AM
+User smiled -- at 11:09:08 AM
+User selected response: Thanks -- at 11:09:13 AM
+User laughed -- at 11:09:14 AM
+agent laid off: 0.6 -- at 11:09:14 AM
+User smiled -- at 11:09:15 AM
+User laughed -- at 11:09:17 AM
+User smiled -- at 11:09:18 AM
+agent discarded: 0.4 -- at 11:09:20 AM
+User laughed -- at 11:09:23 AM
+User selected response: Nice -- at 11:09:30 AM
+User smiled -- at 11:09:33 AM
+User laughed -- at 11:09:37 AM
+User stopped laughing -- at 11:09:46 AM
+User discarded: 0.4 -- at 11:09:47 AM
+User laughed -- at 11:09:50 AM
+User stopped laughing -- at 11:09:51 AM
+agent discarded: 0.4 -- at 11:09:53 AM
+User laughed -- at 11:10:04 AM
+User selected response: You do play very well -- at 11:10:05 AM
+Agent Responded: Then we should play more! -- at 11:10:05 AM
+User smiled -- at 11:10:06 AM
+User laughed -- at 11:10:07 AM
+User stopped laughing -- at 11:10:14 AM
+User smiled -- at 11:10:15 AM
+User stopped smiling -- at 11:10:16 AM
+User discarded: 0.4 -- at 11:10:16 AM
+User selected response: Well do your best -- at 11:10:25 AM
+User laughed -- at 11:10:26 AM
+agent melded: 0.8 -- at 11:10:26 AM
+User stopped laughing -- at 11:10:31 AM
+agent discarded: 0.4 -- at 11:10:32 AM
+User laughed -- at 11:10:33 AM
+User smiled -- at 11:10:35 AM
+User stopped smiling -- at 11:10:37 AM
+User laughed -- at 11:10:37 AM
+User smiled -- at 11:10:38 AM
+User stopped smiling -- at 11:10:39 AM
+User selected response: Good job -- at 11:10:41 AM
+User laughed -- at 11:10:52 AM
+User smiled -- at 11:10:58 AM
+User laughed -- at 11:10:59 AM
+User stopped laughing -- at 11:11:13 AM
+User melded: 0.8 -- at 11:11:14 AM
+User smiled -- at 11:11:19 AM
+User discarded: 0.4 -- at 11:11:25 AM
+User stopped smiling -- at 11:11:26 AM
+User selected response: I know -- at 11:11:34 AM
+agent discarded: 0.4 -- at 11:11:35 AM
+User smiled -- at 11:11:36 AM
+User stopped smiling -- at 11:11:40 AM
+User smiled -- at 11:11:44 AM
+User stopped smiling -- at 11:11:46 AM
+User selected response: Me too -- at 11:11:48 AM
+User discarded: 0.4 -- at 11:12:00 AM
+agent discarded: 0.4 -- at 11:12:02 AM
+User smiled -- at 11:12:13 AM
+User selected response: I like playing with you -- at 11:12:15 AM
+Agent Responded: I learn from smart people like you -- at 11:12:15 AM
+User stopped smiling -- at 11:12:19 AM
+User layoff: 0.6 -- at 11:12:25 AM
+User discarded: 0.4 -- at 11:12:34 AM
+User selected response: Thanks -- at 11:12:41 AM
+agent laid off: 0.6 -- at 11:12:42 AM
+agent discarded: 0.4 -- at 11:12:48 AM
+User smiled -- at 11:12:52 AM
+User laughed -- at 11:12:55 AM
+User selected response: Nice -- at 11:12:57 AM
+User smiled -- at 11:12:58 AM
+User stopped smiling -- at 11:13:03 AM
+User discarded: 0.4 -- at 11:13:10 AM
+agent discarded: 0.4 -- at 11:13:15 AM
+User selected response: I like playing with you -- at 11:13:25 AM
+Agent Responded: Then we should play more! -- at 11:13:25 AM
+User smiled -- at 11:13:30 AM
+User layoff: 0.6 -- at 11:13:35 AM
+User stopped smiling -- at 11:13:37 AM
+User discarded: 0.4 -- at 11:13:38 AM
+User laughed -- at 11:13:40 AM
+User smiled -- at 11:13:46 AM
+User laughed -- at 11:13:46 AM
+User smiled -- at 11:13:47 AM
+User laughed -- at 11:13:48 AM

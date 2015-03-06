@@ -1,0 +1,23 @@
+User chosed to go second -- at 2:11:16 PM 
+agent melded: 0.8 -- at 2:11:17 PM 
+agent discarded: 0.4 -- at 2:11:23 PM 
+User selected response: Yes -- at 2:11:35 PM 
+User discarded: 0.4 -- at 2:13:39 PM 
+User selected response: You too -- at 2:13:51 PM 
+agent laid off: 0.6 -- at 2:13:52 PM 
+agent discarded: 0.4 -- at 2:13:58 PM 
+User selected response: Good job on lay off -- at 2:14:16 PM 
+Agent Responded:  -- at 2:14:16 PM 
+User discarded: 0.4 -- at 2:14:37 PM 
+agent discarded: 0.4 -- at 2:14:39 PM 
+User selected response: I like playing with you -- at 2:14:55 PM 
+Agent Responded: Yes! -- at 2:14:55 PM 
+User discarded: 0.4 -- at 2:15:45 PM 
+User selected response: Don't forget the toppings, I had jalapeno -- at 2:16:05 PM 
+agent discarded: 0.4 -- at 2:16:06 PM 
+User discarded: 0.4 -- at 2:17:01 PM 
+User selected response: Oh really? tell me, who made you? -- at 2:17:11 PM 
+agent melded: 0.8 -- at 2:17:12 PM 
+agent discarded: 0.4 -- at 2:17:18 PM 
+User selected response: Good meld -- at 2:17:30 PM 
+Agent Responded: Then we should play more! -- at 2:17:30 PM 

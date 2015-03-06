@@ -1,0 +1,106 @@
+Mar 01, 2014 2:10:58 PM edu.wpi.always.srummy.SrummyPlugin main
+INFO: Rummy by s19 - Condition: 3
+Mar 01, 2014 2:11:16 PM edu.wpi.always.srummy.StartGamingSequence$2 run
+INFO: User chosed to go second
+Mar 01, 2014 2:11:17 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent melded: 0.8
+Mar 01, 2014 2:11:23 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Mar 01, 2014 2:11:24 PM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 6
+Mar 01, 2014 2:11:27 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Mar 01, 2014 2:11:27 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Not really
+Mar 01, 2014 2:11:27 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Yes
+Mar 01, 2014 2:11:27 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Not sure
+Mar 01, 2014 2:11:35 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Yes
+Mar 01, 2014 2:12:00 PM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Mar 01, 2014 2:13:39 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Mar 01, 2014 2:13:42 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Mar 01, 2014 2:13:42 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Thank you, you do too
+Mar 01, 2014 2:13:42 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Thanks, you can learn!
+Mar 01, 2014 2:13:42 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: You too
+Mar 01, 2014 2:13:51 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: You too
+Mar 01, 2014 2:13:52 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent laid off: 0.6
+Mar 01, 2014 2:13:58 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Mar 01, 2014 2:14:00 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a agent move are:
+Mar 01, 2014 2:14:00 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Good job on lay off
+Mar 01, 2014 2:14:00 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Lay offs are very helpful
+Mar 01, 2014 2:14:00 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Keep the cards, why lay off?
+Mar 01, 2014 2:14:16 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments$1 run
+INFO: User selected response: Good job on lay off
+Mar 01, 2014 2:14:16 PM edu.wpi.always.srummy.StartGamingSequence$AgentResponds enter
+INFO: Agent Responded: 
+Mar 01, 2014 2:14:37 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Mar 01, 2014 2:14:39 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Mar 01, 2014 2:14:45 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a agent move are:
+Mar 01, 2014 2:14:45 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: You do play very well
+Mar 01, 2014 2:14:45 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: I like playing with you
+Mar 01, 2014 2:14:55 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments$1 run
+INFO: User selected response: I like playing with you
+Mar 01, 2014 2:14:55 PM edu.wpi.always.srummy.StartGamingSequence$AgentResponds enter
+INFO: Agent Responded: Yes!
+Mar 01, 2014 2:15:45 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Mar 01, 2014 2:15:48 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Mar 01, 2014 2:15:48 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: At least I eat!
+Mar 01, 2014 2:15:48 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: It was so delicious, you should, oh wait, you can't
+Mar 01, 2014 2:15:48 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Don't forget the toppings, I had jalapeno
+Mar 01, 2014 2:16:05 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Don't forget the toppings, I had jalapeno
+Mar 01, 2014 2:16:06 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Mar 01, 2014 2:17:01 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Mar 01, 2014 2:17:05 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Mar 01, 2014 2:17:05 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Oh really? tell me, who made you?
+Mar 01, 2014 2:17:05 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Bragging won't get you to win Madam agent
+Mar 01, 2014 2:17:05 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: How intelligent can a toaster be anyway?
+Mar 01, 2014 2:17:11 PM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Oh really? tell me, who made you?
+Mar 01, 2014 2:17:12 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent melded: 0.8
+Mar 01, 2014 2:17:18 PM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Mar 01, 2014 2:17:19 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a agent move are:
+Mar 01, 2014 2:17:19 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: I can do a better meld!
+Mar 01, 2014 2:17:19 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: These melds are not gonna make you win
+Mar 01, 2014 2:17:19 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Good meld
+Mar 01, 2014 2:17:30 PM edu.wpi.always.srummy.StartGamingSequence$HumanComments$1 run
+INFO: User selected response: Good meld
+Mar 01, 2014 2:17:30 PM edu.wpi.always.srummy.StartGamingSequence$AgentResponds enter
+INFO: Agent Responded: Then we should play more!

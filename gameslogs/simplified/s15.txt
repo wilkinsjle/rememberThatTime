@@ -1,0 +1,56 @@
+User chosed to go second -- at 3:10:51 PM 
+agent discarded: 0.4 -- at 3:10:52 PM 
+User laughed -- at 3:11:02 PM 
+User smiled -- at 3:11:05 PM 
+User selected response: Not gonna tell you! -- at 3:11:08 PM 
+User laughed -- at 3:11:10 PM 
+User melded: 0.8 -- at 3:11:17 PM 
+User discarded: 0.4 -- at 3:11:20 PM 
+User selected response: Haha, sure! -- at 3:11:30 PM 
+agent discarded: 0.4 -- at 3:11:31 PM 
+User smiled -- at 3:11:39 PM 
+User discarded: 0.4 -- at 3:11:47 PM 
+agent discarded: 0.4 -- at 3:11:49 PM 
+User stopped smiling -- at 3:11:56 PM 
+User discarded: 0.4 -- at 3:12:03 PM 
+agent discarded: 0.4 -- at 3:12:16 PM 
+User laughed -- at 3:12:28 PM 
+User selected response: It was so delicious, you should, oh wait, you can't -- at 3:12:40 PM 
+User melded: 0.8 -- at 3:12:48 PM 
+User discarded: 0.4 -- at 3:12:50 PM 
+User selected response: Thanks -- at 3:12:58 PM 
+agent discarded: 0.4 -- at 3:12:59 PM 
+User selected response: I like playing with you -- at 3:13:10 PM 
+Agent Responded:  -- at 3:13:10 PM 
+User discarded: 0.4 -- at 3:13:19 PM 
+agent discarded: 0.4 -- at 3:13:24 PM 
+User smiled -- at 3:13:29 PM 
+User laughed -- at 3:13:30 PM 
+User smiled -- at 3:13:31 PM 
+User stopped smiling -- at 3:13:31 PM 
+User selected response: Bragging won't get you to win Madam agent -- at 3:13:43 PM 
+User discarded: 0.4 -- at 3:13:50 PM 
+agent discarded: 0.4 -- at 3:13:51 PM 
+User selected response: You do play very well -- at 3:14:05 PM 
+Agent Responded: I am very happy to hear that -- at 3:14:05 PM 
+User discarded: 0.4 -- at 3:14:15 PM 
+User selected response: It's just a game -- at 3:14:23 PM 
+agent melded: 0.8 -- at 3:14:24 PM 
+agent discarded: 0.4 -- at 3:14:30 PM 
+User selected response: Good meld -- at 3:14:36 PM 
+Agent Responded: I learn from smart people like you -- at 3:14:36 PM 
+User discarded: 0.4 -- at 3:14:43 PM 
+agent discarded: 0.4 -- at 3:14:48 PM 
+User selected response: At least I eat! -- at 3:15:07 PM 
+User discarded: 0.4 -- at 3:15:12 PM 
+agent discarded: 0.4 -- at 3:15:14 PM 
+User selected response: It was so delicious, you should, oh wait, you can't -- at 3:15:26 PM 
+User melded: 0.8 -- at 3:15:35 PM 
+User discarded: 0.4 -- at 3:15:37 PM 
+User selected response: Too soon to say -- at 3:15:45 PM 
+agent discarded: 0.4 -- at 3:15:46 PM 
+User selected response: Oh really? tell me, who made you? -- at 3:15:59 PM 
+User layoff: 0.6 -- at 3:16:06 PM 
+User discarded: 0.4 -- at 3:16:07 PM 
+Game Over - comment chosen by user: I finally win. Good game. -- at 3:16:14 PM 
+User smiled -- at 3:16:21 PM 

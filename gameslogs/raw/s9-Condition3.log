@@ -1,0 +1,466 @@
+Feb 26, 2014 11:10:30 AM edu.wpi.always.srummy.SrummyPlugin main
+INFO: Rummy by s9 - Condition: 3
+Feb 26, 2014 11:10:43 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:10:43 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:10:52 AM edu.wpi.always.srummy.StartGamingSequence$2 run
+INFO: User chosed to go second
+Feb 26, 2014 11:10:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:10:53 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 61
+Feb 26, 2014 11:10:53 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent melded: 0.8
+Feb 26, 2014 11:10:54 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:10:59 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:11:01 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Not really
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Yes
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Not sure
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 15
+Feb 26, 2014 11:11:04 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 38
+Feb 26, 2014 11:11:05 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 78
+Feb 26, 2014 11:11:06 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:11:06 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 51
+Feb 26, 2014 11:11:07 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 92
+Feb 26, 2014 11:11:07 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 24
+Feb 26, 2014 11:11:08 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 75
+Feb 26, 2014 11:11:09 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Not sure
+Feb 26, 2014 11:11:10 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 66
+Feb 26, 2014 11:11:12 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 73
+Feb 26, 2014 11:11:14 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 94
+Feb 26, 2014 11:11:16 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 80
+Feb 26, 2014 11:11:20 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 32
+Feb 26, 2014 11:11:21 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 44
+Feb 26, 2014 11:11:23 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User melded: 0.8
+Feb 26, 2014 11:11:27 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:11:29 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 36
+Feb 26, 2014 11:11:29 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 18
+Feb 26, 2014 11:11:31 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:11:33 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 16
+Feb 26, 2014 11:11:34 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:11:35 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Feb 26, 2014 11:11:35 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Aha!
+Feb 26, 2014 11:11:35 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Thanks
+Feb 26, 2014 11:11:35 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Well try to learn!
+Feb 26, 2014 11:11:35 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 14
+Feb 26, 2014 11:11:36 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 29
+Feb 26, 2014 11:11:36 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 22
+Feb 26, 2014 11:11:37 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 4
+Feb 26, 2014 11:11:39 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Thanks
+Feb 26, 2014 11:11:40 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 84
+Feb 26, 2014 11:11:40 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:11:44 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:11:46 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 8
+Feb 26, 2014 11:11:49 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 4
+Feb 26, 2014 11:11:50 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 22
+Feb 26, 2014 11:11:50 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 26
+Feb 26, 2014 11:11:51 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 56
+Feb 26, 2014 11:11:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 63
+Feb 26, 2014 11:11:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 94
+Feb 26, 2014 11:11:53 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:11:53 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 37
+Feb 26, 2014 11:11:54 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 1
+Feb 26, 2014 11:11:54 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 58
+Feb 26, 2014 11:11:55 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User melded: 0.8
+Feb 26, 2014 11:11:55 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 32
+Feb 26, 2014 11:11:57 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 4
+Feb 26, 2014 11:11:59 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 42
+Feb 26, 2014 11:12:01 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 18
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 22
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a human move are:
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Here I go, meld!
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: I got good cards!
+Feb 26, 2014 11:12:02 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Best meld ever!
+Feb 26, 2014 11:12:03 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 48
+Feb 26, 2014 11:12:04 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 29
+Feb 26, 2014 11:12:05 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 17
+Feb 26, 2014 11:12:08 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 74
+Feb 26, 2014 11:12:10 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:12:11 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 61
+Feb 26, 2014 11:12:16 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a agent move are:
+Feb 26, 2014 11:12:16 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: You do play very well
+Feb 26, 2014 11:12:16 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: I like playing with you
+Feb 26, 2014 11:12:20 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 37
+Feb 26, 2014 11:12:20 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments$1 run
+INFO: User selected response: You do play very well
+Feb 26, 2014 11:12:20 AM edu.wpi.always.srummy.StartGamingSequence$AgentResponds enter
+INFO: Agent Responded: 
+Feb 26, 2014 11:12:20 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 50
+Feb 26, 2014 11:12:21 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 97
+Feb 26, 2014 11:12:21 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 80
+Feb 26, 2014 11:12:22 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 85
+Feb 26, 2014 11:12:23 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:12:24 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 40
+Feb 26, 2014 11:12:25 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:12:25 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 83
+Feb 26, 2014 11:12:26 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:12:27 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:12:27 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 25
+Feb 26, 2014 11:12:28 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 27
+Feb 26, 2014 11:12:28 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 38
+Feb 26, 2014 11:12:29 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:12:29 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:12:30 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 1
+Feb 26, 2014 11:12:31 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 25
+Feb 26, 2014 11:12:32 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 2
+Feb 26, 2014 11:12:32 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 26
+Feb 26, 2014 11:12:33 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:12:33 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User melded: 0.8
+Feb 26, 2014 11:12:34 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 8
+Feb 26, 2014 11:12:34 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 60
+Feb 26, 2014 11:12:35 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 29
+Feb 26, 2014 11:12:35 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 24
+Feb 26, 2014 11:12:35 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:12:37 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 87
+Feb 26, 2014 11:12:38 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 56
+Feb 26, 2014 11:12:38 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 21
+Feb 26, 2014 11:12:39 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Feb 26, 2014 11:12:39 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: I know
+Feb 26, 2014 11:12:39 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Too soon to say
+Feb 26, 2014 11:12:39 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Fingers crossed
+Feb 26, 2014 11:12:41 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 4
+Feb 26, 2014 11:12:43 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Too soon to say
+Feb 26, 2014 11:12:43 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 6
+Feb 26, 2014 11:12:43 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 48
+Feb 26, 2014 11:12:44 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 46
+Feb 26, 2014 11:12:44 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:12:44 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 6
+Feb 26, 2014 11:12:45 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 60
+Feb 26, 2014 11:12:45 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 81
+Feb 26, 2014 11:12:46 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 21
+Feb 26, 2014 11:12:47 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:12:48 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 74
+Feb 26, 2014 11:12:49 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 44
+Feb 26, 2014 11:12:50 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 22
+Feb 26, 2014 11:12:51 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:12:51 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 61
+Feb 26, 2014 11:12:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 36
+Feb 26, 2014 11:12:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 29
+Feb 26, 2014 11:12:53 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:12:54 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 37
+Feb 26, 2014 11:13:08 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:13:12 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Feb 26, 2014 11:13:12 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Show me what you can do!
+Feb 26, 2014 11:13:12 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Well go ahead
+Feb 26, 2014 11:13:12 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Good
+Feb 26, 2014 11:13:12 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 27
+Feb 26, 2014 11:13:13 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 14
+Feb 26, 2014 11:13:14 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:13:14 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 60
+Feb 26, 2014 11:13:15 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 61
+Feb 26, 2014 11:13:15 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 70
+Feb 26, 2014 11:13:17 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Show me what you can do!
+Feb 26, 2014 11:13:17 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:13:18 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 63
+Feb 26, 2014 11:13:18 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 80
+Feb 26, 2014 11:13:18 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent laid off: 0.6
+Feb 26, 2014 11:13:19 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:13:19 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 90
+Feb 26, 2014 11:13:21 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 85
+Feb 26, 2014 11:13:22 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 77
+Feb 26, 2014 11:13:23 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 70
+Feb 26, 2014 11:13:24 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 98
+Feb 26, 2014 11:13:24 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 6
+Feb 26, 2014 11:13:24 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:13:25 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 54
+Feb 26, 2014 11:13:25 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: User Comment Options on a agent move are:
+Feb 26, 2014 11:13:25 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Good job on lay off
+Feb 26, 2014 11:13:25 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Keep the cards, why lay off?
+Feb 26, 2014 11:13:25 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments <init>
+INFO: Lay offs are very helpful
+Feb 26, 2014 11:13:26 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 60
+Feb 26, 2014 11:13:28 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 78
+Feb 26, 2014 11:13:30 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 54
+Feb 26, 2014 11:13:31 AM edu.wpi.always.srummy.StartGamingSequence$HumanComments$1 run
+INFO: User selected response: Good job on lay off
+Feb 26, 2014 11:13:31 AM edu.wpi.always.srummy.StartGamingSequence$AgentResponds enter
+INFO: Agent Responded: Thank you very much, you too
+Feb 26, 2014 11:13:32 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 15
+Feb 26, 2014 11:13:32 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 63
+Feb 26, 2014 11:13:35 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:13:37 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 33
+Feb 26, 2014 11:13:37 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 88
+Feb 26, 2014 11:13:38 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 73
+Feb 26, 2014 11:13:38 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 75
+Feb 26, 2014 11:13:40 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 48
+Feb 26, 2014 11:13:41 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 32
+Feb 26, 2014 11:13:42 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 44
+Feb 26, 2014 11:13:42 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 22
+Feb 26, 2014 11:13:46 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:13:46 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:13:47 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 34
+Feb 26, 2014 11:13:49 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 77
+Feb 26, 2014 11:13:49 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 44
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: User Response Options are:
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Well go ahead
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Show me what you can do!
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds <init>
+INFO: Good
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 2
+Feb 26, 2014 11:13:50 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 21
+Feb 26, 2014 11:13:51 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 15
+Feb 26, 2014 11:13:52 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 33
+Feb 26, 2014 11:13:53 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 68
+Feb 26, 2014 11:13:55 AM edu.wpi.always.srummy.StartGamingSequence$HumanResponds$1 run
+INFO: User selected response: Good
+Feb 26, 2014 11:13:56 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: agent discarded: 0.4
+Feb 26, 2014 11:13:57 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 65
+Feb 26, 2014 11:13:57 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 17
+Feb 26, 2014 11:13:58 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:13:58 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 78
+Feb 26, 2014 11:14:00 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 25
+Feb 26, 2014 11:14:00 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 45
+Feb 26, 2014 11:14:01 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 27
+Feb 26, 2014 11:14:01 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 8
+Feb 26, 2014 11:14:02 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 9
+Feb 26, 2014 11:14:03 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 71
+Feb 26, 2014 11:14:03 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 36
+Feb 26, 2014 11:14:04 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 16
+Feb 26, 2014 11:14:04 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 88
+Feb 26, 2014 11:14:06 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 12
+Feb 26, 2014 11:14:07 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 0
+Feb 26, 2014 11:14:07 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 45
+Feb 26, 2014 11:14:08 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 2
+Feb 26, 2014 11:14:09 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 18
+Feb 26, 2014 11:14:09 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 41
+Feb 26, 2014 11:14:10 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 58
+Feb 26, 2014 11:14:11 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 21
+Feb 26, 2014 11:14:12 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 36
+Feb 26, 2014 11:14:12 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User layoff: 0.6
+Feb 26, 2014 11:14:12 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 35
+Feb 26, 2014 11:14:13 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 40
+Feb 26, 2014 11:14:14 AM edu.wpi.always.srummy.SrummyClient receivedMessage
+INFO: User discarded: 0.4
+Feb 26, 2014 11:14:14 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueByHuman <init>
+INFO: Game Over, human wins.
+Feb 26, 2014 11:14:14 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueByHuman <init>
+INFO: Game Over - comment options by user: 
+Feb 26, 2014 11:14:14 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueByHuman <init>
+INFO: I finally win. Good game.
+Feb 26, 2014 11:14:14 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueByHuman <init>
+INFO: Did you see that?  I won!
+Feb 26, 2014 11:14:20 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 75
+Feb 26, 2014 11:14:22 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 71
+Feb 26, 2014 11:14:24 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 97
+Feb 26, 2014 11:14:25 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueByHuman$1 run
+INFO: Game Over - comment chosen by user: I finally win. Good game.
+Feb 26, 2014 11:14:25 AM edu.wpi.always.srummy.StartGamingSequence$gameOverDialogueResponseByAgent enter
+INFO: Game over, Agent Responded: Yes!
+Feb 26, 2014 11:14:26 AM edu.wpi.always.srummy.SrummySchema logTheHappinessValue
+INFO: Happiness value: 100
+Feb 26, 2014 11:14:28 AM edu.wpi.always.srummy.StartGamingSequence$gameOver enter
+INFO: Participant conclusion, end of log

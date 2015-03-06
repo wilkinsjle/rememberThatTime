@@ -1,0 +1,69 @@
+User chosed to go second -- at 4:36:56 PM 
+agent melded: 0.8 -- at 4:36:57 PM 
+agent melded: 0.8 -- at 4:37:04 PM 
+agent discarded: 0.4 -- at 4:37:06 PM 
+User smiled -- at 4:37:17 PM 
+User selected response: Terrible! -- at 4:37:19 PM 
+User discarded: 0.4 -- at 4:37:32 PM 
+User stopped smiling -- at 4:37:34 PM 
+User selected response: Well do your best -- at 4:37:43 PM 
+agent discarded: 0.4 -- at 4:37:44 PM 
+User discarded: 0.4 -- at 4:38:03 PM 
+agent discarded: 0.4 -- at 4:38:05 PM 
+User discarded: 0.4 -- at 4:38:40 PM 
+agent discarded: 0.4 -- at 4:38:47 PM 
+User selected response: Don't forget the toppings, I had jalapeno -- at 4:39:14 PM 
+User smiled -- at 4:39:17 PM 
+User discarded: 0.4 -- at 4:39:34 PM 
+User stopped smiling -- at 4:39:35 PM 
+agent discarded: 0.4 -- at 4:39:36 PM 
+User selected response: Well do your best -- at 4:39:49 PM 
+User melded: 0.8 -- at 4:40:11 PM 
+User discarded: 0.4 -- at 4:40:18 PM 
+User selected response: Here I go, meld! -- at 4:40:26 PM 
+Agent Responded:  -- at 4:40:26 PM 
+agent discarded: 0.4 -- at 4:40:30 PM 
+User selected response: Me too -- at 4:40:44 PM 
+User smiled -- at 4:40:50 PM 
+User discarded: 0.4 -- at 4:40:52 PM 
+agent discarded: 0.4 -- at 4:40:54 PM 
+User stopped smiling -- at 4:40:54 PM 
+User selected response: You do play very well -- at 4:41:04 PM 
+Agent Responded: I have to do more melds then -- at 4:41:04 PM 
+User smiled -- at 4:41:11 PM 
+User discarded: 0.4 -- at 4:41:22 PM 
+User stopped smiling -- at 4:41:23 PM 
+User smiled -- at 4:41:27 PM 
+User stopped smiling -- at 4:41:27 PM 
+User selected response: Show me what you can do! -- at 4:41:28 PM 
+agent discarded: 0.4 -- at 4:41:29 PM 
+User selected response: You do play very well -- at 4:41:40 PM 
+Agent Responded: Thank you very much, you too -- at 4:41:40 PM 
+User smiled -- at 4:41:53 PM 
+User melded: 0.8 -- at 4:41:53 PM 
+User stopped smiling -- at 4:41:55 PM 
+User discarded: 0.4 -- at 4:41:56 PM 
+User selected response: I got good cards! -- at 4:42:00 PM 
+Agent Responded: Thank you very much, you too -- at 4:42:00 PM 
+agent laid off: 0.6 -- at 4:42:04 PM 
+agent discarded: 0.4 -- at 4:42:10 PM 
+User selected response: Wait for my moves -- at 4:42:19 PM 
+User smiled -- at 4:42:20 PM 
+User stopped smiling -- at 4:42:23 PM 
+User discarded: 0.4 -- at 4:42:29 PM 
+agent discarded: 0.4 -- at 4:42:31 PM 
+User selected response: It is fun to play with you -- at 4:42:43 PM 
+User discarded: 0.4 -- at 4:42:49 PM 
+User smiled -- at 4:42:49 PM 
+User stopped smiling -- at 4:42:50 PM 
+agent discarded: 0.4 -- at 4:42:50 PM 
+User selected response: You do play very well -- at 4:43:01 PM 
+Agent Responded: Hey, not so soon! -- at 4:43:01 PM 
+User discarded: 0.4 -- at 4:43:10 PM 
+agent discarded: 0.4 -- at 4:43:22 PM 
+User selected response: You do play very well -- at 4:43:32 PM 
+Agent Responded: I learn from smart people like you -- at 4:43:32 PM 
+User discarded: 0.4 -- at 4:43:39 PM 
+agent melded: 0.8 -- at 4:43:41 PM 
+agent discarded: 0.4 -- at 4:43:47 PM 
+Game Over - comment chosen by user: Good meld -- at 4:43:54 PM 

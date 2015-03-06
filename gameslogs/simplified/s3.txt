@@ -1,0 +1,109 @@
+User laughed -- at 3:17:37 PM 
+User smiled -- at 3:17:38 PM 
+User stopped smiling -- at 3:17:47 PM 
+User chosed to go second -- at 3:17:50 PM 
+agent melded: 0.8 -- at 3:17:51 PM 
+agent discarded: 0.4 -- at 3:17:57 PM 
+User laughed -- at 3:18:01 PM 
+User smiled -- at 3:18:05 PM 
+User laughed -- at 3:18:05 PM 
+User stopped laughing -- at 3:18:08 PM 
+User smiled -- at 3:18:11 PM 
+User layoff: 0.6 -- at 3:18:14 PM 
+User stopped smiling -- at 3:18:14 PM 
+User smiled -- at 3:18:15 PM 
+User selected response: Not really -- at 3:18:19 PM 
+User stopped smiling -- at 3:18:29 PM 
+User discarded: 0.4 -- at 3:18:38 PM 
+User laughed -- at 3:18:41 PM 
+agent laid off: 0.6 -- at 3:18:50 PM 
+User smiled -- at 3:18:51 PM 
+User laughed -- at 3:18:53 PM 
+User smiled -- at 3:18:54 PM 
+agent laid off: 0.6 -- at 3:18:56 PM 
+agent discarded: 0.4 -- at 3:18:57 PM 
+User stopped smiling -- at 3:18:59 PM 
+User selected response: Good job on lay off -- at 3:19:03 PM 
+Agent Responded:  -- at 3:19:03 PM 
+User smiled -- at 3:19:05 PM 
+User stopped smiling -- at 3:19:07 PM 
+User melded: 0.8 -- at 3:19:11 PM 
+User discarded: 0.4 -- at 3:19:24 PM 
+agent laid off: 0.6 -- at 3:19:29 PM 
+agent discarded: 0.4 -- at 3:19:35 PM 
+User selected response: Good job on lay off -- at 3:19:45 PM 
+Agent Responded: Yes! -- at 3:19:45 PM 
+User melded: 0.8 -- at 3:19:55 PM 
+User discarded: 0.4 -- at 3:19:59 PM 
+User laughed -- at 3:20:05 PM 
+User smiled -- at 3:20:06 PM 
+User selected response: Haha, I am gonna win -- at 3:20:07 PM 
+User stopped smiling -- at 3:20:07 PM 
+agent discarded: 0.4 -- at 3:20:08 PM 
+User discarded: 0.4 -- at 3:20:23 PM 
+User selected response: Well do your best -- at 3:20:30 PM 
+agent discarded: 0.4 -- at 3:20:31 PM 
+User selected response: You do play very well -- at 3:20:41 PM 
+Agent Responded: I know -- at 3:20:41 PM 
+User laughed -- at 3:20:45 PM 
+User smiled -- at 3:20:49 PM 
+User stopped smiling -- at 3:20:51 PM 
+User layoff: 0.6 -- at 3:20:53 PM 
+User smiled -- at 3:20:58 PM 
+User stopped smiling -- at 3:20:59 PM 
+User discarded: 0.4 -- at 3:20:59 PM 
+User laughed -- at 3:21:04 PM 
+User selected response: Yes! -- at 3:21:06 PM 
+agent discarded: 0.4 -- at 3:21:07 PM 
+User smiled -- at 3:21:08 PM 
+User laughed -- at 3:21:08 PM 
+User smiled -- at 3:21:11 PM 
+User laughed -- at 3:21:12 PM 
+User smiled -- at 3:21:14 PM 
+User laughed -- at 3:21:15 PM 
+User stopped laughing -- at 3:21:16 PM 
+User discarded: 0.4 -- at 3:21:25 PM 
+User selected response: I like playing with you -- at 3:21:30 PM 
+Agent Responded: I learn from smart people like you -- at 3:21:30 PM 
+agent discarded: 0.4 -- at 3:21:34 PM 
+User laughed -- at 3:21:43 PM 
+User selected response: Me too -- at 3:21:46 PM 
+User stopped laughing -- at 3:21:46 PM 
+User discarded: 0.4 -- at 3:21:56 PM 
+agent discarded: 0.4 -- at 3:22:00 PM 
+User selected response: I like playing with you -- at 3:22:09 PM 
+Agent Responded: Then we should play more! -- at 3:22:09 PM 
+User discarded: 0.4 -- at 3:22:17 PM 
+User smiled -- at 3:22:19 PM 
+agent discarded: 0.4 -- at 3:22:30 PM 
+User stopped smiling -- at 3:22:32 PM 
+User laughed -- at 3:22:42 PM 
+User stopped laughing -- at 3:22:43 PM 
+User layoff: 0.6 -- at 3:22:45 PM 
+User discarded: 0.4 -- at 3:22:53 PM 
+agent discarded: 0.4 -- at 3:23:00 PM 
+User discarded: 0.4 -- at 3:23:16 PM 
+agent discarded: 0.4 -- at 3:23:20 PM 
+User discarded: 0.4 -- at 3:23:45 PM 
+agent discarded: 0.4 -- at 3:23:48 PM 
+User smiled -- at 3:23:51 PM 
+User stopped smiling -- at 3:23:52 PM 
+User discarded: 0.4 -- at 3:24:00 PM 
+agent discarded: 0.4 -- at 3:24:04 PM 
+User discarded: 0.4 -- at 3:24:17 PM 
+agent discarded: 0.4 -- at 3:24:18 PM 
+User selected response: You do play very well -- at 3:24:28 PM 
+Agent Responded: I am very happy to hear that -- at 3:24:28 PM 
+User discarded: 0.4 -- at 3:24:36 PM 
+User selected response: I like playing with you -- at 3:24:39 PM 
+Agent Responded: I learn from smart people like you -- at 3:24:39 PM 
+agent discarded: 0.4 -- at 3:24:43 PM 
+User selected response: You do play very well -- at 3:24:52 PM 
+Agent Responded: Thanks, I like it too -- at 3:24:52 PM 
+User discarded: 0.4 -- at 3:25:00 PM 
+agent discarded: 0.4 -- at 3:25:01 PM 
+User discarded: 0.4 -- at 3:25:19 PM 
+User laughed -- at 3:25:25 PM 
+User smiled -- at 3:25:36 PM 
+User stopped smiling -- at 3:25:36 PM 
+User laughed -- at 3:25:39 PM 
