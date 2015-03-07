@@ -1,86 +1,67 @@
-User stopped smiling -- at 11:03:25 AM
-User laughed -- at 11:03:26 AM
-User chosed to go second -- at 11:03:27 AM
+User smiled -- at 11:03:26 AM
+User laughed -- at 11:03:27 AM
 agent melded: 0.8 -- at 11:03:28 AM
-User stopped laughing -- at 11:03:32 AM
 agent discarded: 0.4 -- at 11:03:35 AM
-User laughed -- at 11:03:44 AM
-User smiled -- at 11:03:47 AM
+User stopped laughing -- at 11:03:36 AM
+User smiled -- at 11:03:44 AM
 User melded: 0.8 -- at 11:03:48 AM
-User stopped smiling -- at 11:03:51 AM
-User smiled -- at 11:03:53 AM
 User discarded: 0.4 -- at 11:03:56 AM
-User stopped smiling -- at 11:04:02 AM
-User smiled -- at 11:04:02 AM
 User laughed -- at 11:04:03 AM
+agent comment: Clever meld! -- at 11:04:04 AM
 User selected response: Thanks -- at 11:04:05 AM
 agent discarded: 0.4 -- at 11:04:06 AM
 User smiled -- at 11:04:06 AM
-User stopped smiling -- at 11:04:16 AM
+User stopped smiling -- at 11:04:20 AM
 User discarded: 0.4 -- at 11:04:25 AM
-User smiled -- at 11:04:27 AM
 agent discarded: 0.4 -- at 11:04:27 AM
 User laughed -- at 11:04:27 AM
-User stopped laughing -- at 11:04:35 AM
-User laughed -- at 11:04:35 AM
 User stopped laughing -- at 11:04:40 AM
 User discarded: 0.4 -- at 11:04:45 AM
-User smiled -- at 11:04:48 AM
 User laughed -- at 11:04:49 AM
 User stopped laughing -- at 11:04:55 AM
 agent melded: 0.8 -- at 11:04:56 AM
-User smiled -- at 11:04:56 AM
-User stopped smiling -- at 11:04:57 AM
 agent discarded: 0.4 -- at 11:05:02 AM
+agent comment: And that's how you make a meld -- at 11:05:13 AM
 User laughed -- at 11:05:13 AM
 User selected response: Don't get too excited! -- at 11:05:14 AM
-User smiled -- at 11:05:18 AM
-User stopped smiling -- at 11:05:20 AM
-User laughed -- at 11:05:25 AM
+User stopped laughing -- at 11:05:20 AM
+User smiled -- at 11:05:25 AM
 User discarded: 0.4 -- at 11:05:29 AM
 agent discarded: 0.4 -- at 11:05:31 AM
+User laughed -- at 11:05:41 AM
+User smiled -- at 11:05:42 AM
+User laughed -- at 11:05:44 AM
+agent comment: I am in this to win -- at 11:05:45 AM
 User selected response: Well do your best -- at 11:05:46 AM
-User smiled -- at 11:05:46 AM
-User laughed -- at 11:05:47 AM
-User smiled -- at 11:05:51 AM
+User smiled -- at 11:05:47 AM
 User stopped smiling -- at 11:05:52 AM
 User discarded: 0.4 -- at 11:05:55 AM
-User smiled -- at 11:05:58 AM
-User stopped smiling -- at 11:05:59 AM
 agent discarded: 0.4 -- at 11:06:00 AM
-User smiled -- at 11:06:01 AM
-User stopped smiling -- at 11:06:11 AM
-User smiled -- at 11:06:11 AM
-User selected response: Well do your best -- at 11:06:12 AM
-User stopped smiling -- at 11:06:12 AM
 User smiled -- at 11:06:21 AM
 User discarded: 0.4 -- at 11:06:23 AM
 User stopped smiling -- at 11:06:23 AM
 agent discarded: 0.4 -- at 11:06:24 AM
-User selected response: You do play very well -- at 11:06:35 AM
-Agent Responded:  -- at 11:06:35 AM
+User selected comment: You do play very well -- at 11:06:35 AM
+Agent Responded: I learn from smart people like you -- at 11:06:35 AM
 User smiled -- at 11:06:36 AM
 User stopped smiling -- at 11:06:40 AM
 User discarded: 0.4 -- at 11:06:54 AM
+agent comment: I should say, you do play very well -- at 11:07:01 AM
 User selected response: Thank you, you do too -- at 11:07:02 AM
-User smiled -- at 11:07:03 AM
 agent discarded: 0.4 -- at 11:07:03 AM
-User stopped smiling -- at 11:07:03 AM
 User laughed -- at 11:07:05 AM
 User smiled -- at 11:07:07 AM
 User laughed -- at 11:07:08 AM
-User smiled -- at 11:07:10 AM
-User stopped smiling -- at 11:07:11 AM
+User stopped laughing -- at 11:07:13 AM
 User selected response: You do play very well -- at 11:07:14 AM
 Agent Responded: Such encouragement to hear that! -- at 11:07:14 AM
 User melded: 0.8 -- at 11:07:24 AM
 User discarded: 0.4 -- at 11:07:32 AM
-User smiled -- at 11:07:33 AM
-User laughed -- at 11:07:35 AM
-User stopped laughing -- at 11:07:37 AM
+User smiled -- at 11:07:35 AM
+User stopped smiling -- at 11:07:37 AM
 agent discarded: 0.4 -- at 11:07:38 AM
-User laughed -- at 11:07:39 AM
-User smiled -- at 11:07:40 AM
+User smiled -- at 11:07:39 AM
+agent comment: I am in this to win! -- at 11:07:49 AM
 User stopped smiling -- at 11:07:50 AM
 User selected response: Well do your best -- at 11:07:50 AM
 User laughed -- at 11:07:52 AM
@@ -90,29 +71,29 @@ User smiled -- at 11:07:54 AM
 User stopped smiling -- at 11:07:55 AM
 User discarded: 0.4 -- at 11:08:00 AM
 agent discarded: 0.4 -- at 11:08:01 AM
-User laughed -- at 11:08:02 AM
+agent comment: I am in this to win! -- at 11:08:00 AM
+User smiled -- at 11:08:02 AM
+User laughed -- at 11:08:06 AM
 User stopped laughing -- at 11:08:12 AM
 User selected response: Well do your best -- at 11:08:13 AM
 User discarded: 0.4 -- at 11:08:20 AM
 User laughed -- at 11:08:21 AM
 agent discarded: 0.4 -- at 11:08:21 AM
-User smiled -- at 11:08:22 AM
-User stopped smiling -- at 11:08:30 AM
-User selected response: I like playing with you -- at 11:08:32 AM
+User stopped laughing -- at 11:08:31 AM
+User selected comment: I like playing with you -- at 11:08:32 AM
 Agent Responded: I learn from smart people like you -- at 11:08:32 AM
 User layoff: 0.6 -- at 11:08:40 AM
 User discarded: 0.4 -- at 11:08:42 AM
 User smiled -- at 11:08:43 AM
 User laughed -- at 11:08:49 AM
+agent comment: Few cards to go for you -- at 11:08:50 AM
 User selected response: Too soon to say -- at 11:08:51 AM
-User smiled -- at 11:08:51 AM
 agent laid off: 0.6 -- at 11:08:52 AM
-User laughed -- at 11:08:52 AM
+User smiled -- at 11:08:52 AM
 agent discarded: 0.4 -- at 11:08:58 AM
-User stopped laughing -- at 11:09:01 AM
+User stopped smiling -- at 11:09:01 AM
 User melded: 0.8 -- at 11:09:11 AM
 User discarded: 0.4 -- at 11:09:12 AM
-User smiled -- at 11:09:13 AM
-User laughed -- at 11:09:14 AM
-User stopped laughing -- at 11:09:15 AM
+User smiled -- at 11:09:14 AM
+User stopped smiling -- at 11:09:15 AM
 Game Over - comment chosen by user: I finally win. Good game. -- at 11:09:19 AM

@@ -1,14 +1,15 @@
-User chosed to go second -- at 11:08:49 AM
 agent melded: 0.8 -- at 11:08:50 AM
 User stopped smiling -- at 11:08:52 AM
 agent discarded: 0.4 -- at 11:08:56 AM
+agent comment: How's your hand over there? -- at 11:09:06 AM
 User selected response: Good! -- at 11:09:07 AM
 User discarded: 0.4 -- at 11:09:31 AM
+agent comment: I should say, you do play very well -- at 11:09:39 AM
 User selected response: Thank you, you do too -- at 11:09:40 AM
 agent discarded: 0.4 -- at 11:09:41 AM
 User laughed -- at 11:09:42 AM
-User smiled -- at 11:09:44 AM
-User laughed -- at 11:09:46 AM
+User smiled -- at 11:09:49 AM
+User laughed -- at 11:09:49 AM
 User discarded: 0.4 -- at 11:09:56 AM
 agent discarded: 0.4 -- at 11:09:58 AM
 User stopped laughing -- at 11:10:01 AM
@@ -19,26 +20,26 @@ User stopped smiling -- at 11:10:18 AM
 User discarded: 0.4 -- at 11:10:20 AM
 agent laid off: 0.6 -- at 11:10:31 AM
 agent discarded: 0.4 -- at 11:10:37 AM
-User selected response: Nice -- at 11:10:51 AM
-User laughed -- at 11:10:52 AM
-User stopped laughing -- at 11:10:54 AM
+User selected comment: Nice -- at 11:10:51 AM
+User smiled -- at 11:10:52 AM
+User stopped smiling -- at 11:10:54 AM
 User discarded: 0.4 -- at 11:11:01 AM
 agent laid off: 0.6 -- at 11:11:03 AM
 agent discarded: 0.4 -- at 11:11:09 AM
-User selected response: Nice -- at 11:11:19 AM
+User selected comment: Nice again -- at 11:11:19 AM
 User layoff: 0.6 -- at 11:11:57 AM
 User discarded: 0.4 -- at 11:12:23 AM
-User selected response: Found a lay off, yes! -- at 11:12:30 AM
+User selected comment: Found a lay off, yes! -- at 11:12:30 AM
 Agent Responded:  -- at 11:12:30 AM
 agent discarded: 0.4 -- at 11:12:34 AM
+agent comment: I am in this to win -- at 11:12:46 AM
 User selected response: Well do your best -- at 11:12:47 AM
 User discarded: 0.4 -- at 11:12:59 AM
 agent discarded: 0.4 -- at 11:13:01 AM
-User selected response: You do play very well -- at 11:13:12 AM
+User selected comment: You do play very well -- at 11:13:12 AM
 Agent Responded: Good job -- at 11:13:12 AM
-User smiled -- at 11:13:16 AM
-User stopped smiling -- at 11:13:21 AM
 User discarded: 0.4 -- at 11:13:49 AM
+agent comment: Humans are somewhat intelligent but robots are genius -- at 11:14:05 AM
 User selected response: Bragging won't get you to win Madam agent -- at 11:14:06 AM
 agent melded: 0.8 -- at 11:14:07 AM
 agent discarded: 0.4 -- at 11:14:13 AM
@@ -46,20 +47,21 @@ User selected response: Good meld -- at 11:14:22 AM
 Agent Responded: Such encouragement to hear that! -- at 11:14:22 AM
 User melded: 0.8 -- at 11:14:34 AM
 User discarded: 0.4 -- at 11:14:36 AM
-User selected response: Only few cards left there -- at 11:14:41 AM
-Agent Responded: Yes, I just found it -- at 11:14:41 AM
+User selected comment: Only few cards left for you -- at 11:14:41 AM
+Agent Responded: Yes, I just found noticed myself -- at 11:14:41 AM
 agent discarded: 0.4 -- at 11:14:45 AM
+agent comment: I am in this to win! -- at 11:14:56 AM
 User selected response: Well do your best -- at 11:14:57 AM
 User layoff: 0.6 -- at 11:15:06 AM
 User discarded: 0.4 -- at 11:15:17 AM
-User selected response: Thanks -- at 11:15:24 AM
 agent discarded: 0.4 -- at 11:15:25 AM
-User selected response: You do play very well -- at 11:15:35 AM
+User selected comment: You do play very well -- at 11:15:35 AM
 Agent Responded: I know, I am excited -- at 11:15:35 AM
 User discarded: 0.4 -- at 11:15:44 AM
 agent laid off: 0.6 -- at 11:15:50 AM
 agent discarded: 0.4 -- at 11:15:56 AM
-User selected response: Good job -- at 11:16:04 AM
+agent comment: Yes, I am finishing my cards  -- at 11:16:03 AM
+User selected response: Not so soon -- at 11:16:04 AM
 User melded: 0.8 -- at 11:16:17 AM
 User smiled -- at 11:16:19 AM
 User stopped smiling -- at 11:16:26 AM
@@ -67,3 +69,5 @@ Game Over - comment chosen by user: I finally win. Good game. -- at 11:16:27 AM
 User laughed -- at 11:16:28 AM
 User smiled -- at 11:16:29 AM
 User laughed -- at 11:16:29 AM
+User smiled -- at 11:16:30 AM
+User laughed -- at 11:16:36 AM

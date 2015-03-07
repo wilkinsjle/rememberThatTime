@@ -1,39 +1,33 @@
-User chosed to go second -- at 2:04:19 PM 
 agent melded: 0.8 -- at 2:04:20 PM 
 agent discarded: 0.4 -- at 2:04:26 PM 
+agent comment: do you have good cards? -- at 2:05:24 PM 
 User selected response: Yes -- at 2:05:24 PM 
 User melded: 0.8 -- at 2:07:34 PM 
-User laughed -- at 2:08:17 PM 
-User stopped laughing -- at 2:08:29 PM 
+User smiled -- at 2:08:17 PM 
+User stopped smiling -- at 2:08:29 PM 
 User smiled -- at 2:08:52 PM 
 User stopped smiling -- at 2:08:59 PM 
 User smiled -- at 2:09:15 PM 
-User stopped smiling -- at 2:09:23 PM 
-User smiled -- at 2:09:24 PM 
 User laughed -- at 2:09:32 PM 
 User stopped laughing -- at 2:09:35 PM 
 User laughed -- at 2:09:37 PM 
-User smiled -- at 2:10:02 PM 
-User stopped smiling -- at 2:10:09 PM 
+User stopped laughing -- at 2:10:09 PM 
 User smiled -- at 2:10:11 PM 
 User laughed -- at 2:10:14 PM 
 User stopped laughing -- at 2:10:20 PM 
 User discarded: 0.4 -- at 2:10:23 PM 
+agent comment: Clever meld! -- at 2:10:36 PM 
 User laughed -- at 2:10:37 PM 
 User selected response: Thanks -- at 2:10:43 PM 
 agent laid off: 0.6 -- at 2:10:44 PM 
 agent discarded: 0.4 -- at 2:10:50 PM 
 User stopped laughing -- at 2:10:58 PM 
-User selected response: Good job on lay off -- at 2:11:15 PM 
-Agent Responded:  -- at 2:11:15 PM 
+User selected comment: Good job on lay off -- at 2:11:15 PM 
+Agent Responded: Thanks -- at 2:11:15 PM 
 User laughed -- at 2:11:28 PM 
-User smiled -- at 2:11:29 PM 
-User stopped smiling -- at 2:11:30 PM 
 User smiled -- at 2:11:34 PM 
 User laughed -- at 2:11:40 PM 
 User smiled -- at 2:11:41 PM 
 User laughed -- at 2:11:42 PM 
 User stopped laughing -- at 2:11:47 PM 
-User smiled -- at 2:12:19 PM 
-User stopped smiling -- at 2:12:19 PM 
 User smiled -- at 2:13:37 PM 

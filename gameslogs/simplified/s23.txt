@@ -1,45 +1,46 @@
-User chosed to go second -- at 1:39:47 PM 
 agent melded: 0.8 -- at 1:39:48 PM 
 agent discarded: 0.4 -- at 1:39:54 PM 
+agent comment: Do you have good cards? -- at 1:40:14 PM 
 User selected response: Not gonna tell you! -- at 1:40:14 PM 
-User smiled -- at 1:42:44 PM 
 User discarded: 0.4 -- at 1:42:45 PM 
-User stopped smiling -- at 1:42:47 PM 
 agent discarded: 0.4 -- at 1:42:55 PM 
 User melded: 0.8 -- at 1:43:19 PM 
 User discarded: 0.4 -- at 1:44:08 PM 
 agent discarded: 0.4 -- at 1:44:15 PM 
-User selected response: You do play very well -- at 1:44:27 PM 
-Agent Responded:  -- at 1:44:27 PM 
+User selected comment: You do play very well -- at 1:44:27 PM 
+Agent Responded: I learn from smart people like you -- at 1:44:27 PM 
 User melded: 0.8 -- at 1:44:51 PM 
 User discarded: 0.4 -- at 1:45:01 PM 
-User selected response: Aha! -- at 1:45:08 PM 
+User selected comment: Aha! -- at 1:45:08 PM 
 agent laid off: 0.6 -- at 1:45:09 PM 
 agent discarded: 0.4 -- at 1:45:15 PM 
 User layoff: 0.6 -- at 1:45:49 PM 
 User discarded: 0.4 -- at 1:46:02 PM 
-User selected response: I am gonna win with these few cards! -- at 1:46:07 PM 
-Agent Responded: Thank you very much, you too -- at 1:46:07 PM 
+User selected comment: Only a few cards left here, gonna win! -- at 1:46:07 PM 
+Agent Responded: Do not be so sure -- at 1:46:07 PM 
 agent discarded: 0.4 -- at 1:46:12 PM 
 User layoff: 0.6 -- at 1:46:34 PM 
-User selected response: I like playing with you -- at 1:46:48 PM 
-Agent Responded: Do not be so sure -- at 1:46:48 PM 
+User selected response: I like playing with you -- at 1:46:47 PM 
+Agent Responded: Then we should play more! -- at 1:46:48 PM 
 User discarded: 0.4 -- at 1:47:00 PM 
+agent comment: Good lay off! -- at 1:47:07 PM 
 User selected response: Well try to learn! -- at 1:47:08 PM 
 agent discarded: 0.4 -- at 1:47:09 PM 
 User discarded: 0.4 -- at 1:47:34 PM 
 agent discarded: 0.4 -- at 1:47:39 PM 
+agent comment: I am in this to win -- at 1:47:50 PM 
 User selected response: I won't let you -- at 1:47:51 PM 
 User discarded: 0.4 -- at 1:48:07 PM 
 agent discarded: 0.4 -- at 1:48:19 PM 
-User selected response: I like playing with you -- at 1:48:29 PM 
+User selected comment: I like playing with you -- at 1:48:29 PM 
 Agent Responded: Thanks, I like it too -- at 1:48:29 PM 
 User discarded: 0.4 -- at 1:48:47 PM 
 agent discarded: 0.4 -- at 1:48:55 PM 
 User discarded: 0.4 -- at 1:49:15 PM 
+agent comment: Humans are somewhat intelligent but robots are genius -- at 1:49:21 PM 
 User selected response: Bragging won't get you to win Madam agent -- at 1:49:21 PM 
 agent discarded: 0.4 -- at 1:49:22 PM 
 User discarded: 0.4 -- at 1:49:50 PM 
 agent melded: 0.8 -- at 1:49:55 PM 
 agent discarded: 0.4 -- at 1:50:01 PM 
-User selected response: Keep at it -- at 1:50:18 PM 
+User selected comment: Keep at it -- at 1:50:18 PM 

@@ -1,54 +1,57 @@
 User stopped laughing -- at 2:02:12 PM 
-User chosed to go second -- at 2:02:19 PM 
 agent melded: 0.8 -- at 2:02:20 PM 
 agent laid off: 0.6 -- at 2:02:26 PM 
 agent discarded: 0.4 -- at 2:02:27 PM 
 User laughed -- at 2:02:36 PM 
+agent comment: do you have good cards? -- at 2:02:35 PM 
 User selected response: Not sure -- at 2:02:36 PM 
 User stopped laughing -- at 2:02:39 PM 
 User laughed -- at 2:02:41 PM 
-User smiled -- at 2:02:42 PM 
 User discarded: 0.4 -- at 2:03:13 PM 
-User laughed -- at 2:03:18 PM 
+User smiled -- at 2:03:18 PM 
+User laughed -- at 2:03:21 PM 
+Agent comment: I should say, you do play very well -- at 2:03:29 PM 
 User selected response: Thank you, you do too -- at 2:03:30 PM 
 agent discarded: 0.4 -- at 2:03:31 PM 
+User smiled -- at 2:03:36 PM 
+User laughed -- at 2:03:42 PM 
 User smiled -- at 2:03:51 PM 
 User laughed -- at 2:04:07 PM 
 User discarded: 0.4 -- at 2:04:19 PM 
 agent discarded: 0.4 -- at 2:04:21 PM 
-User stopped laughing -- at 2:04:34 PM 
 User smiled -- at 2:04:36 PM 
 User melded: 0.8 -- at 2:04:38 PM 
 User discarded: 0.4 -- at 2:05:05 PM 
-User selected response: Here I go, meld! -- at 2:05:13 PM 
+User selected comment: Here I go, meld! -- at 2:05:13 PM 
 Agent Responded:  -- at 2:05:13 PM 
 agent discarded: 0.4 -- at 2:05:17 PM 
 User laughed -- at 2:05:29 PM 
 User stopped laughing -- at 2:05:30 PM 
 User laughed -- at 2:05:32 PM 
-User smiled -- at 2:05:48 PM 
-User laughed -- at 2:05:48 PM 
+User smiled -- at 2:05:47 PM 
 User discarded: 0.4 -- at 2:05:53 PM 
-User smiled -- at 2:05:54 PM 
 agent discarded: 0.4 -- at 2:05:54 PM 
 User laughed -- at 2:05:55 PM 
 User smiled -- at 2:06:05 PM 
 User laughed -- at 2:06:06 PM 
+User smiled -- at 2:06:06 PM 
+agent comment: I am in this to win -- at 2:06:07 PM 
 User selected response: Well do your best -- at 2:06:08 PM 
+User laughed -- at 2:06:08 PM 
+User smiled -- at 2:06:10 PM 
 User discarded: 0.4 -- at 2:06:26 PM 
-User smiled -- at 2:06:30 PM 
 User stopped smiling -- at 2:06:30 PM 
 agent discarded: 0.4 -- at 2:06:33 PM 
 User laughed -- at 2:06:42 PM 
 User smiled -- at 2:06:43 PM 
 User laughed -- at 2:06:45 PM 
+agent comment: I am in this to win -- at 2:06:46 PM 
 User selected response: Well do your best -- at 2:06:47 PM 
 User stopped laughing -- at 2:06:49 PM 
-User laughed -- at 2:06:51 PM 
+User smiled -- at 2:06:51 PM 
 User discarded: 0.4 -- at 2:06:58 PM 
 agent discarded: 0.4 -- at 2:07:00 PM 
-User stopped laughing -- at 2:07:11 PM 
-User smiled -- at 2:07:20 PM 
+User stopped smiling -- at 2:07:11 PM 
 User laughed -- at 2:07:34 PM 
 User discarded: 0.4 -- at 2:07:44 PM 
 User smiled -- at 2:07:46 PM 
@@ -57,38 +60,25 @@ User smiled -- at 2:07:51 PM
 User laughed -- at 2:07:52 PM 
 User smiled -- at 2:07:53 PM 
 User laughed -- at 2:07:54 PM 
+agent comment: Humans are intelligent but robots are geniuses  -- at 2:07:54 PM 
 User selected response: Bragging won't get you to win Madam agent -- at 2:07:55 PM 
 agent discarded: 0.4 -- at 2:07:56 PM 
-User stopped laughing -- at 2:08:05 PM 
-User smiled -- at 2:08:07 PM 
-User stopped smiling -- at 2:08:12 PM 
+User stopped laughing -- at 2:08:12 PM 
 User discarded: 0.4 -- at 2:08:28 PM 
-User selected response: Now did you see that? -- at 2:08:32 PM 
+User selected comment: Now did you see that? -- at 2:08:32 PM 
 Agent Responded: Good job -- at 2:08:32 PM 
-User laughed -- at 2:08:32 PM 
+User smiled -- at 2:08:32 PM 
+User laughed -- at 2:08:36 PM 
 agent discarded: 0.4 -- at 2:08:36 PM 
 User stopped laughing -- at 2:08:36 PM 
 User laughed -- at 2:08:37 PM 
-User smiled -- at 2:08:39 PM 
-User stopped smiling -- at 2:08:41 PM 
-User laughed -- at 2:08:45 PM 
 User discarded: 0.4 -- at 2:09:06 PM 
 agent discarded: 0.4 -- at 2:09:07 PM 
 User smiled -- at 2:09:16 PM 
+agent comment: I am in this to win -- at 2:09:21 PM 
 User selected response: I won't let you -- at 2:09:22 PM 
 User laughed -- at 2:09:22 PM 
-User smiled -- at 2:09:24 PM 
-User laughed -- at 2:09:33 PM 
-User stopped laughing -- at 2:09:33 PM 
-User smiled -- at 2:09:34 PM 
-User laughed -- at 2:09:34 PM 
-User smiled -- at 2:09:36 PM 
-User stopped smiling -- at 2:09:37 PM 
-User smiled -- at 2:09:39 PM 
+User stopped laughing -- at 2:09:37 PM 
 User laughed -- at 2:09:40 PM 
 User stopped laughing -- at 2:09:41 PM 
-User smiled -- at 2:09:47 PM 
 User laughed -- at 2:09:48 PM 
-User stopped laughing -- at 2:09:51 PM 
-User smiled -- at 2:09:53 PM 
-User laughed -- at 2:09:58 PM 

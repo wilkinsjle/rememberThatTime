@@ -1,48 +1,43 @@
-User chosed to go first -- at 1:53:24 PM 
 User smiled -- at 1:53:28 PM 
-User laughed -- at 1:53:28 PM 
-User smiled -- at 1:53:47 PM 
+User laughed -- at 1:53:32 PM 
+User smiled -- at 1:53:33 PM 
+User laughed -- at 1:53:40 PM 
 User melded: 0.8 -- at 1:53:48 PM 
 User layoff: 0.6 -- at 1:53:49 PM 
-User laughed -- at 1:53:52 PM 
 User discarded: 0.4 -- at 1:53:52 PM 
 User stopped laughing -- at 1:53:53 PM 
-User smiled -- at 1:53:53 PM 
-User stopped smiling -- at 1:53:54 PM 
+agent comment: how is your hand? -- at 1:54:00 PM 
 User selected response: Good! -- at 1:54:00 PM 
 agent discarded: 0.4 -- at 1:54:01 PM 
 User smiled -- at 1:54:02 PM 
 User stopped smiling -- at 1:54:03 PM 
-User laughed -- at 1:54:08 PM 
-User stopped laughing -- at 1:54:09 PM 
+User smiled -- at 1:54:08 PM 
+User stopped smiling -- at 1:54:09 PM 
 User smiled -- at 1:54:11 PM 
-User stopped smiling -- at 1:54:14 PM 
-User smiled -- at 1:54:16 PM 
-User stopped smiling -- at 1:54:17 PM 
+User stopped smiling -- at 1:54:15 PM 
+agent comment: That was the best I could do -- at 1:54:18 PM 
 User selected response: But watch me! -- at 1:54:19 PM 
 User laughed -- at 1:54:22 PM 
+User smiled -- at 1:54:23 PM 
+User laughed -- at 1:54:24 PM 
 User discarded: 0.4 -- at 1:54:26 PM 
 User smiled -- at 1:54:26 PM 
 User laughed -- at 1:54:27 PM 
 agent discarded: 0.4 -- at 1:54:28 PM 
-User smiled -- at 1:54:32 PM 
+User smiled -- at 1:54:33 PM 
 User laughed -- at 1:54:34 PM 
+User smiled -- at 1:54:42 PM 
+User laughed -- at 1:54:42 PM 
 User stopped laughing -- at 1:54:45 PM 
 User laughed -- at 1:54:49 PM 
 User stopped laughing -- at 1:54:51 PM 
-User smiled -- at 1:54:52 PM 
-User laughed -- at 1:54:53 PM 
-User stopped laughing -- at 1:54:54 PM 
-User smiled -- at 1:54:54 PM 
+User smiled -- at 1:54:53 PM 
 User melded: 0.8 -- at 1:54:57 PM 
 User laughed -- at 1:54:58 PM 
 User smiled -- at 1:55:01 PM 
-User laughed -- at 1:55:02 PM 
-User smiled -- at 1:55:02 PM 
 User discarded: 0.4 -- at 1:55:05 PM 
+agent comment: Few cards to go for you -- at 1:55:06 PM 
 User stopped smiling -- at 1:55:07 PM 
-User smiled -- at 1:55:08 PM 
-User stopped smiling -- at 1:55:14 PM 
 User selected response: Too soon to say -- at 1:55:14 PM 
 agent discarded: 0.4 -- at 1:55:15 PM 
 User laughed -- at 1:55:16 PM 
@@ -51,8 +46,6 @@ User laughed -- at 1:55:27 PM
 User discarded: 0.4 -- at 1:55:28 PM 
 User stopped laughing -- at 1:55:28 PM 
 agent discarded: 0.4 -- at 1:55:29 PM 
-User smiled -- at 1:55:31 PM 
-User stopped smiling -- at 1:55:32 PM 
 User laughed -- at 1:55:33 PM 
 User smiled -- at 1:55:34 PM 
 User laughed -- at 1:55:35 PM 
@@ -60,6 +53,9 @@ User smiled -- at 1:55:36 PM
 User laughed -- at 1:55:37 PM 
 User smiled -- at 1:55:39 PM 
 User laughed -- at 1:55:39 PM 
+User smiled -- at 1:55:40 PM 
+User laughed -- at 1:55:40 PM 
+agent comment: I am in this to win -- at 1:55:41 PM 
 User selected response: I won't let you -- at 1:55:42 PM 
 User discarded: 0.4 -- at 1:55:43 PM 
 User smiled -- at 1:55:44 PM 
@@ -67,73 +63,55 @@ User laughed -- at 1:55:47 PM
 agent melded: 0.8 -- at 1:55:49 PM 
 User smiled -- at 1:55:50 PM 
 User laughed -- at 1:55:51 PM 
-User smiled -- at 1:55:54 PM 
 agent discarded: 0.4 -- at 1:55:55 PM 
-User laughed -- at 1:55:56 PM 
-User smiled -- at 1:55:57 PM 
-User laughed -- at 1:55:58 PM 
-User smiled -- at 1:56:00 PM 
+agent comment: And that's how you make a meld -- at 1:55:57 PM 
+User smiled -- at 1:55:59 PM 
 User laughed -- at 1:56:01 PM 
 User selected response: Not really madam robot -- at 1:56:04 PM 
-User smiled -- at 1:56:05 PM 
-User laughed -- at 1:56:06 PM 
-User smiled -- at 1:56:10 PM 
-User laughed -- at 1:56:11 PM 
+User smiled -- at 1:56:06 PM 
+User laughed -- at 1:56:09 PM 
 User discarded: 0.4 -- at 1:56:11 PM 
-User smiled -- at 1:56:11 PM 
-User laughed -- at 1:56:12 PM 
 agent discarded: 0.4 -- at 1:56:13 PM 
-User smiled -- at 1:56:15 PM 
-User laughed -- at 1:56:17 PM 
 User smiled -- at 1:56:18 PM 
-User laughed -- at 1:56:20 PM 
-User smiled -- at 1:56:20 PM 
-User selected response: I like playing with you -- at 1:56:23 PM 
-Agent Responded:  -- at 1:56:23 PM 
+User selected comment: I like playing with you -- at 1:56:23 PM 
+Agent Responded: I am very happy to hear that -- at 1:56:23 PM 
 User laughed -- at 1:56:23 PM 
-User smiled -- at 1:56:25 PM 
-User laughed -- at 1:56:26 PM 
+User smiled -- at 1:56:23 PM 
+User laughed -- at 1:56:24 PM 
 User discarded: 0.4 -- at 1:56:31 PM 
+User smiled -- at 1:56:31 PM 
+User laughed -- at 1:56:32 PM 
 User stopped laughing -- at 1:56:34 PM 
+agent comment: Now my turn! -- at 1:56:34 PM 
 User laughed -- at 1:56:35 PM 
-User smiled -- at 1:56:37 PM 
+User smiled -- at 1:56:36 PM 
 User selected response: Well go ahead -- at 1:56:38 PM 
 agent discarded: 0.4 -- at 1:56:39 PM 
-User laughed -- at 1:56:40 PM 
-User smiled -- at 1:56:41 PM 
 User laughed -- at 1:56:43 PM 
+User smiled -- at 1:56:43 PM 
+User laughed -- at 1:56:44 PM 
 User smiled -- at 1:56:45 PM 
-User laughed -- at 1:56:45 PM 
+User laughed -- at 1:56:47 PM 
 User smiled -- at 1:56:50 PM 
 User laughed -- at 1:56:51 PM 
 User layoff: 0.6 -- at 1:56:53 PM 
-User stopped laughing -- at 1:56:56 PM 
+User smiled -- at 1:56:54 PM 
+User stopped smiling -- at 1:56:56 PM 
 User smiled -- at 1:56:59 PM 
 User stopped smiling -- at 1:56:59 PM 
 User laughed -- at 1:57:01 PM 
 User smiled -- at 1:57:03 PM 
 User discarded: 0.4 -- at 1:57:03 PM 
-User stopped smiling -- at 1:57:05 PM 
-User smiled -- at 1:57:07 PM 
-User selected response: Haha, lay off! -- at 1:57:09 PM 
-Agent Responded: Thanks, I like it too -- at 1:57:09 PM 
+User selected comment: Haha, lay off! -- at 1:57:09 PM 
+Agent Responded: Awesome -- at 1:57:09 PM 
 User laughed -- at 1:57:09 PM 
-User stopped laughing -- at 1:57:11 PM 
-User smiled -- at 1:57:12 PM 
 agent discarded: 0.4 -- at 1:57:13 PM 
-User stopped smiling -- at 1:57:17 PM 
+agent comment: That was the best I could do -- at 1:57:16 PM 
+User stopped laughing -- at 1:57:17 PM 
 User smiled -- at 1:57:18 PM 
-User stopped smiling -- at 1:57:18 PM 
-User smiled -- at 1:57:21 PM 
 User selected response: But watch me! -- at 1:57:26 PM 
-User laughed -- at 1:57:30 PM 
-User smiled -- at 1:57:31 PM 
 User laughed -- at 1:57:31 PM 
 User melded: 0.8 -- at 1:57:31 PM 
-User stopped laughing -- at 1:57:32 PM 
-User laughed -- at 1:57:33 PM 
-User smiled -- at 1:57:34 PM 
-User stopped smiling -- at 1:57:35 PM 
+User smiled -- at 1:57:33 PM 
 Game Over - comment chosen by user: I finally win. Good game. -- at 1:57:38 PM 
-User smiled -- at 1:57:42 PM 
-User stopped smiling -- at 1:57:42 PM 
+User stopped smiling -- at 1:57:38 PM 

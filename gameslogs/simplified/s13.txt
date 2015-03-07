@@ -1,59 +1,57 @@
-User smiled -- at 11:31:57 AM
-User laughed -- at 11:31:58 AM
-User stopped laughing -- at 11:32:02 AM
-User laughed -- at 11:32:05 AM
-User chosed to go first -- at 11:32:07 AM
-User stopped laughing -- at 11:32:10 AM
+User stopped smiling -- at 11:32:02 AM
+User smiled -- at 11:32:05 AM
+User stopped smiling -- at 11:32:10 AM
 User discarded: 0.4 -- at 11:32:29 AM
+agent comment: how is your hand? -- at 11:32:48 AM
 User selected response: Good! -- at 11:32:48 AM
 agent melded: 0.8 -- at 11:32:49 AM
 agent melded: 0.8 -- at 11:32:55 AM
 agent discarded: 0.4 -- at 11:32:56 AM
+agent comment: And that's how you make a meld! -- at 11:33:04 AM 
 User selected response: Don't get too excited! -- at 11:33:05 AM
-User laughed -- at 11:33:10 AM
-User stopped laughing -- at 11:33:17 AM
-User laughed -- at 11:33:29 AM
-User smiled -- at 11:33:31 AM
+User smiled -- at 11:33:10 AM
+User stopped smiling -- at 11:33:17 AM
+User smiled -- at 11:33:29 AM
 User stopped smiling -- at 11:33:32 AM
-User smiled -- at 11:33:33 AM
 User laughed -- at 11:33:33 AM
-User stopped laughing -- at 11:33:37 AM
 User melded: 0.8 -- at 11:33:38 AM
+User stopped laughing -- at 11:33:45 AM
 User discarded: 0.4 -- at 11:33:47 AM
 agent laid off: 0.6 -- at 11:33:54 AM
 agent discarded: 0.4 -- at 11:34:00 AM
-User selected response: Good job on lay off -- at 11:34:13 AM
-Agent Responded:  -- at 11:34:13 AM
-User smiled -- at 11:34:26 AM
-User stopped smiling -- at 11:34:30 AM
+User selected comment: Good job on lay off -- at 11:34:13 AM
+Agent Responded: Yes! -- at 11:34:13 AM
 User discarded: 0.4 -- at 11:34:34 AM
 agent discarded: 0.4 -- at 11:34:40 AM
+agent comment: I have Intel inside, you got cheese burger -- at 11:34:55 AM
 User selected response: It was so delicious, you should, oh wait, you can't -- at 11:34:56 AM
 User discarded: 0.4 -- at 11:35:09 AM
 agent discarded: 0.4 -- at 11:35:11 AM
-User selected response: At least I eat! -- at 11:35:27 AM
 User discarded: 0.4 -- at 11:35:43 AM
 agent discarded: 0.4 -- at 11:35:50 AM
+agent comment: Humans are somewhat intelligent but robots are genius -- at 11:36:11 AM
 User selected response: Oh really? tell me, who made you? -- at 11:36:12 AM
 User melded: 0.8 -- at 11:36:26 AM
 User discarded: 0.4 -- at 11:36:34 AM
+agent comment: Clever meld! -- at 11:36:40 AM
 User selected response: Thanks -- at 11:36:41 AM
 agent discarded: 0.4 -- at 11:36:42 AM
 User discarded: 0.4 -- at 11:36:59 AM
+agent comment: Now my turn! -- at 11:37:07 AM
 User selected response: Well go ahead -- at 11:37:08 AM
 agent discarded: 0.4 -- at 11:37:09 AM
-User selected response: You do play very well -- at 11:37:19 AM
+User selected comment: You do play very well -- at 11:37:19 AM
 Agent Responded: Yes! -- at 11:37:19 AM
 User melded: 0.8 -- at 11:37:45 AM
 User discarded: 0.4 -- at 11:37:49 AM
-User selected response: I have a few cards left -- at 11:37:55 AM
-Agent Responded: I learn from smart people like you -- at 11:37:55 AM
+User selected comment: I have only a few cards left -- at 11:37:55 AM
+Agent Responded: I should hurry up then! -- at 11:37:55 AM
 agent discarded: 0.4 -- at 11:37:59 AM
+agent comment: That was the best I could do -- at 11:38:13 AM
 User selected response: It was pretty good -- at 11:38:14 AM
 User discarded: 0.4 -- at 11:38:23 AM
 agent discarded: 0.4 -- at 11:38:24 AM
-User selected response: It was pretty good -- at 11:38:37 AM
 User discarded: 0.4 -- at 11:38:45 AM
 agent discarded: 0.4 -- at 11:38:47 AM
-User selected response: You do play very well -- at 11:38:57 AM
-Agent Responded: I see, nice -- at 11:38:57 AM
+User selected comment: You do play very well -- at 11:38:57 AM
+Agent Responded: Thanks -- at 11:38:57 AM

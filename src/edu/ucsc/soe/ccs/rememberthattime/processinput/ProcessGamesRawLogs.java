@@ -40,7 +40,6 @@ public class ProcessGamesRawLogs {
 
 		br.close();
 
-		//write new line in new file
 	}
 
 	private String createSimplifiedLine(List<String> allLines){
@@ -48,7 +47,13 @@ public class ProcessGamesRawLogs {
 		String output = "", time = "", temp = "", happMood = "";
 		List<String> happMem = new ArrayList<String>();
 
+		boolean onlyOnce = true;
+
 		for(String eachLine : allLines){
+
+			//for now ignore "user chose to go second or first
+			if(eachLine.contains("chosed")) continue;
+
 			if(!eachLine.startsWith("INFO")){
 				time = eachLine.substring(13, 24);
 			}
@@ -62,7 +67,7 @@ public class ProcessGamesRawLogs {
 
 				if(temp.contains("happiness")){
 					int h = Integer.valueOf(temp.split("value: ")[1]);
-					if(h < 20){
+					if(h < 10){
 						if(!happMem.isEmpty())
 							if(happMem.get(happMem.size()-1) == "laugh")
 								happMood = "stopped laughing";
@@ -70,7 +75,7 @@ public class ProcessGamesRawLogs {
 								happMood = "stopped smiling";
 						happMem.add("ser");
 					}
-					else if (h > 60 && h < 80){ // (60, 80) as smile
+					else if (h > 70 && h < 90){ // (60, 80) as smile
 						if(!happMem.isEmpty())
 							if(happMem.get(happMem.size()-1) != "smile")
 								happMood = "smiled";
@@ -78,13 +83,20 @@ public class ProcessGamesRawLogs {
 								happMood = "smiled";
 						happMem.add("smile");
 					}
-					else if (h >= 80){ // >=80 as laugh
+					else if (h >= 90){ // >=80 as laugh
 						if(!happMem.isEmpty())
 							if(happMem.get(happMem.size()-1) != "laugh")
 								happMood = "laughed";
 							else if (happMem.isEmpty())
 								happMood = "laughed";
 						happMem.add("laugh");
+					}
+				}
+				
+				if(onlyOnce){
+					if(eachLine.toLowerCase().trim().contains("user selected")){
+						output += "Agent asked user about their hand" + " -- at " + time + "\n";
+						onlyOnce = false;
 					}
 				}
 

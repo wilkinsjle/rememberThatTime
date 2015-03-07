@@ -1,39 +1,44 @@
-User chosed to go second -- at 4:36:04 PM 
 agent discarded: 0.4 -- at 4:36:05 PM 
 User smiled -- at 4:36:29 PM 
+agent comment: do you have good cards? -- at 4:36:29 PM 
 User selected response: Not really -- at 4:36:30 PM 
 User discarded: 0.4 -- at 4:37:55 PM 
 agent discarded: 0.4 -- at 4:38:04 PM 
 User discarded: 0.4 -- at 4:39:06 PM 
 agent discarded: 0.4 -- at 4:39:08 PM 
-User stopped smiling -- at 4:39:29 PM 
 User discarded: 0.4 -- at 4:40:28 PM 
 agent discarded: 0.4 -- at 4:40:37 PM 
+agent comment: Humans are somewhat intelligent but robots are genius -- at 4:40:49 PM 
+User stopped smiling -- at 4:40:50 PM 
 User selected response: How intelligent can a toaster be anyway? -- at 4:40:51 PM 
 User discarded: 0.4 -- at 4:41:41 PM 
 agent discarded: 0.4 -- at 4:41:43 PM 
+agent comment: That was the best I could do -- at 4:41:57 PM 
 User selected response: But watch me! -- at 4:41:58 PM 
 User discarded: 0.4 -- at 4:42:52 PM 
 agent melded: 0.8 -- at 4:43:01 PM 
 agent discarded: 0.4 -- at 4:43:07 PM 
+agent comment: And that's how you make a meld! -- at 4:43:16 PM 
 User selected response: Don't get too excited! -- at 4:43:17 PM 
 User melded: 0.8 -- at 4:43:46 PM 
 User discarded: 0.4 -- at 4:44:07 PM 
 agent discarded: 0.4 -- at 4:44:15 PM 
 User discarded: 0.4 -- at 4:44:49 PM 
-User selected response: Me too -- at 4:44:57 PM 
+agent comment: These cards are nice, why meld? keep them -- at 4:44:56 PM 
+User selected response: Haha, sure! -- at 4:44:57 PM 
 agent discarded: 0.4 -- at 4:44:58 PM 
-User selected response: You do play very well -- at 4:45:09 PM 
-Agent Responded:  -- at 4:45:09 PM 
+User selected comment: You do play very well -- at 4:45:09 PM 
+Agent Responded: Such an encouragement to hear that -- at 4:45:09 PM 
 User discarded: 0.4 -- at 4:45:38 PM 
 agent discarded: 0.4 -- at 4:45:43 PM 
+agent comment: I have Intel inside, you have a cheese burger -- at 4:45:56 PM 
 User selected response: At least I eat! -- at 4:45:57 PM 
 User discarded: 0.4 -- at 4:46:22 PM 
-User smiled -- at 4:46:23 PM 
 agent discarded: 0.4 -- at 4:46:24 PM 
+agent comment: Humans are somewhat intelligent but robots are genius -- at 4:46:35 PM
+User smiled -- at 4:46:36 PM 
 User selected response: How intelligent can a toaster be anyway? -- at 4:46:37 PM 
 User stopped smiling -- at 4:46:37 PM 
 User discarded: 0.4 -- at 4:47:12 PM 
 agent discarded: 0.4 -- at 4:47:14 PM 
 User laughed -- at 4:47:29 PM 
-User smiled -- at 4:47:31 PM 

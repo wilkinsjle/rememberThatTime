@@ -1,6 +1,3 @@
-User stopped smiling -- at 11:10:43 AM
-User chosed to go second -- at 11:10:52 AM
-User smiled -- at 11:10:53 AM
 agent melded: 0.8 -- at 11:10:53 AM
 User laughed -- at 11:10:54 AM
 agent discarded: 0.4 -- at 11:10:59 AM
@@ -8,71 +5,67 @@ User stopped laughing -- at 11:11:01 AM
 User smiled -- at 11:11:05 AM
 User laughed -- at 11:11:07 AM
 User smiled -- at 11:11:08 AM
+agent comment: how is your hand? -- at 11:11:08 AM
 User selected response: Not sure -- at 11:11:09 AM
 User laughed -- at 11:11:14 AM
+User smiled -- at 11:11:16 AM
 User melded: 0.8 -- at 11:11:23 AM
-User stopped laughing -- at 11:11:29 AM
 User discarded: 0.4 -- at 11:11:31 AM
+User stopped smiling -- at 11:11:34 AM
+agent comment: Clever meld! -- at 11:11:38 AM
 User selected response: Thanks -- at 11:11:39 AM
-User laughed -- at 11:11:40 AM
+User smiled -- at 11:11:40 AM
 agent discarded: 0.4 -- at 11:11:40 AM
-User stopped laughing -- at 11:11:44 AM
-User smiled -- at 11:11:52 AM
+User stopped smiling -- at 11:11:44 AM
 User laughed -- at 11:11:52 AM
 User stopped laughing -- at 11:11:54 AM
 User melded: 0.8 -- at 11:11:55 AM
 User discarded: 0.4 -- at 11:12:02 AM
 User smiled -- at 11:12:08 AM
 agent discarded: 0.4 -- at 11:12:10 AM
+agent comment: My nickname is champion -- at 11:12:19 AM
 User selected response: You do play very well -- at 11:12:20 AM
-Agent Responded:  -- at 11:12:20 AM
 User laughed -- at 11:12:21 AM
-User smiled -- at 11:12:23 AM
+User smiled -- at 11:12:21 AM
 User laughed -- at 11:12:25 AM
-User stopped laughing -- at 11:12:27 AM
+User smiled -- at 11:12:25 AM
+User stopped smiling -- at 11:12:27 AM
 User melded: 0.8 -- at 11:12:33 AM
 User discarded: 0.4 -- at 11:12:35 AM
-User laughed -- at 11:12:37 AM
-User stopped laughing -- at 11:12:41 AM
+User smiled -- at 11:12:37 AM
+User stopped smiling -- at 11:12:41 AM
+agent comment: Few cards to go for you -- at 11:12:42 AM
 User selected response: Too soon to say -- at 11:12:43 AM
 agent discarded: 0.4 -- at 11:12:44 AM
-User laughed -- at 11:12:45 AM
-User stopped laughing -- at 11:12:47 AM
+User smiled -- at 11:12:45 AM
+User stopped smiling -- at 11:12:47 AM
 User smiled -- at 11:12:48 AM
 User discarded: 0.4 -- at 11:13:08 AM
-User stopped smiling -- at 11:13:13 AM
-User smiled -- at 11:13:15 AM
+agent comment: Now my turn! -- at 11:13:16 AM
 User selected response: Show me what you can do! -- at 11:13:17 AM
 User laughed -- at 11:13:17 AM
 User smiled -- at 11:13:18 AM
-User laughed -- at 11:13:18 AM
 agent laid off: 0.6 -- at 11:13:18 AM
-User smiled -- at 11:13:19 AM
 User laughed -- at 11:13:19 AM
-User smiled -- at 11:13:22 AM
+User smiled -- at 11:13:21 AM
 User laughed -- at 11:13:24 AM
 User stopped laughing -- at 11:13:24 AM
 agent discarded: 0.4 -- at 11:13:24 AM
 User smiled -- at 11:13:28 AM
-User selected response: Good job on lay off -- at 11:13:31 AM
-Agent Responded: Thank you very much, you too -- at 11:13:31 AM
-User stopped smiling -- at 11:13:32 AM
-User smiled -- at 11:13:32 AM
+User selected comment: Good job on lay off -- at 11:13:31 AM
+Agent Responded: Thank you very much -- at 11:13:31 AM
 User laughed -- at 11:13:35 AM
-User smiled -- at 11:13:38 AM
+User smiled -- at 11:13:37 AM
 User discarded: 0.4 -- at 11:13:46 AM
 User stopped smiling -- at 11:13:50 AM
-User smiled -- at 11:13:53 AM
+agent comment: Now my turn!  -- at 11:13:54 AM
 User selected response: Good -- at 11:13:55 AM
 agent discarded: 0.4 -- at 11:13:56 AM
-User stopped smiling -- at 11:13:57 AM
 User laughed -- at 11:13:58 AM
 User smiled -- at 11:13:58 AM
 User stopped smiling -- at 11:14:01 AM
 User smiled -- at 11:14:03 AM
-User stopped smiling -- at 11:14:04 AM
-User laughed -- at 11:14:04 AM
-User stopped laughing -- at 11:14:06 AM
+User stopped smiling -- at 11:14:07 AM
 User layoff: 0.6 -- at 11:14:12 AM
 User discarded: 0.4 -- at 11:14:14 AM
 User smiled -- at 11:14:20 AM
