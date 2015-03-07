@@ -1,100 +1,100 @@
 AILI(sub, obj, type, content, context, time)
-Karen
-Karen
-Karen
-user
-user
-user
-user
-user
-user
-user
-user
-user
-user
-Karen
-user
-user
-user
-user
-user
-user
-user
-user
-Karen
-Karen
-user
-user
-Karen
-user
-user
-user
-user
-user
-Karen
-user
-user
-Karen
-user
-Karen
-Karen
-user
-user
-user
-user
-user
-Karen
-user
-Karen
-user
-user
-user
-Karen
-user
-user
-Karen
-user
-Karen
-user
-user
-Karen
-user
-user
-user
-user
-user
-user
-user
-user
-user
-Karen
-user
-Karen
-user
-Karen
-user
-user
-Karen
-user
-Karen
-user
-user
-Karen
-user
-Karen
-Karen
-user
-Karen
-user
-user
-user
-Karen
-user
-Karen
-user
-user
-user
-user
-user
-user
-user
+MeldEventAILI(Karen, card, null, null , rummy, 11:06:37)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:06:43)
+SpeechAILI(Karen, user, EXPRESSIVE, how is your hand?, null, 11:06:51)
+SpeechAILI(user, Karen, EXPRESSIVE, not gonna tell you!, rummy, 11:06:52)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:07:09)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:07:10)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:07:13)
+DiscardEventAILI(user, card, null, null , rummy, 11:07:16)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:07:17)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:07:18)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:07:20)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:07:21)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:07:24)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:07:26)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:07:49)
+MeldEventAILI(user, card, null, null , rummy, 11:07:58)
+LayOffEventAILI(user, card, null, null , rummy, 11:08:04)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:08:08)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:08:09)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:08:15)
+DiscardEventAILI(user, card, null, null , rummy, 11:08:21)
+SpeechAILI(user, Karen, EXPRESSIVE, here i go, meld!, null, 11:08:31)
+SpeechAILI(Karen, user, EXPRESSIVE, good job, rummy, 11:08:31)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:08:35)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:08:46)
+SpeechAILI(user, Karen, EXPRESSIVE, i like playing with you, null, 11:08:47)
+SpeechAILI(Karen, user, EXPRESSIVE, i have to do more melds then, rummy, 11:08:47)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:08:51)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:08:51)
+LayOffEventAILI(user, card, null, null , rummy, 11:08:57)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:09:01)
+DiscardEventAILI(user, card, null, null , rummy, 11:09:06)
+SpeechAILI(Karen, user, EXPRESSIVE, good lay off!, null, 11:09:12)
+SpeechAILI(user, Karen, EXPRESSIVE, thanks, rummy, 11:09:13)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:09:14)
+LayOffEventAILI(Karen, card, null, null , rummy, 11:09:14)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:09:18)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:09:20)
+SpeechAILI(Karen, user, EXPRESSIVE, and that meld goes bigger, null, 11:09:22)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:09:23)
+SpeechAILI(user, Karen, EXPRESSIVE, nice, rummy, 11:09:30)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:09:36)
+DiscardEventAILI(user, card, null, null , rummy, 11:09:47)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:09:50)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:09:53)
+SpeechAILI(user, Karen, EXPRESSIVE, you do play very well, null, 11:10:05)
+SpeechAILI(Karen, user, EXPRESSIVE, then we should play more!, rummy, 11:10:05)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:10:06)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:10:14)
+DiscardEventAILI(user, card, null, null , rummy, 11:10:16)
+SpeechAILI(Karen, user, EXPRESSIVE, i am in this to win, null, 11:10:24)
+SpeechAILI(user, Karen, EXPRESSIVE, well do your best, rummy, 11:10:25)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:10:26)
+MeldEventAILI(Karen, card, null, null , rummy, 11:10:26)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:10:31)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:10:32)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:10:33)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:10:37)
+SpeechAILI(Karen, user, EXPRESSIVE, here i go, meld!, null, 11:10:40)
+SpeechAILI(user, Karen, EXPRESSIVE, good job, rummy, 11:10:41)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:10:52)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:10:58)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:11:01)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:11:02)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:11:12)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:11:13)
+MeldEventAILI(user, card, null, null , rummy, 11:11:14)
+DiscardEventAILI(user, card, null, null , rummy, 11:11:25)
+SpeechAILI(Karen, user, EXPRESSIVE, few cards to go for you, null, 11:11:33)
+SpeechAILI(user, Karen, EXPRESSIVE, i know, rummy, 11:11:34)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:11:35)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:11:36)
+SpeechAILI(Karen, user, EXPRESSIVE, i love playing games, null, 11:11:47)
+SpeechAILI(user, Karen, EXPRESSIVE, me too, rummy, 11:11:48)
+DiscardEventAILI(user, card, null, null , rummy, 11:12)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:12:02)
+SpeechAILI(user, Karen, EXPRESSIVE, i like playing with you, null, 11:12:15)
+SpeechAILI(Karen, user, EXPRESSIVE, i learn from smart people like you, rummy, 11:12:15)
+LayOffEventAILI(user, card, null, null , rummy, 11:12:25)
+DiscardEventAILI(user, card, null, null , rummy, 11:12:34)
+SpeechAILI(Karen, user, EXPRESSIVE, good lay off!, null, 11:12:40)
+SpeechAILI(user, Karen, EXPRESSIVE, thanks, rummy, 11:12:41)
+LayOffEventAILI(Karen, card, null, null , rummy, 11:12:42)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:12:48)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:12:55)
+SpeechAILI(Karen, user, EXPRESSIVE, and that meld goes bigger, null, 11:12:57)
+SpeechAILI(user, Karen, EXPRESSIVE, nice, rummy, 11:12:57)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:12:58)
+DiscardEventAILI(user, card, null, null , rummy, 11:13:10)
+DiscardEventAILI(Karen, card, null, null , rummy, 11:13:15)
+SpeechAILI(user, Karen, EXPRESSIVE, i like playing with you, null, 11:13:25)
+SpeechAILI(Karen, user, EXPRESSIVE, then we should play more!, rummy, 11:13:25)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:13:30)
+LayOffEventAILI(user, card, null, null , rummy, 11:13:35)
+DiscardEventAILI(user, card, null, null , rummy, 11:13:38)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:13:40)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:13:40)
+FacialExpressionAILI(user, null, SMILE, null , null, 11:13:46)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 11:13:48)

@@ -22,8 +22,8 @@ public class LayOffEvent extends ContextSpecificAILInstance {
 	@Override
 	public String getAILString() {
 		return "LayOffEventAILI(" 
-				+ this.getSubject() != null ? this.getSubject().getName() : "null" + ", " 
-				+ this.getObject() != null ? this.getObject().getName() : "null" + ", " 
+				+ (this.getSubject() != null ? this.getSubject().getName() : "null") + ", " 
+				+ (this.getObject() != null ? this.getObject().getName() : "null") + ", " 
 				+ "null" + ", "
 				+ "null "+ ", "
 				+ "rummy" + ", "

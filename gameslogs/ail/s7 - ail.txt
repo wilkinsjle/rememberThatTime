@@ -1,60 +1,60 @@
 AILI(sub, obj, type, content, context, time)
-Karen
-Karen
-Karen
-user
-Karen
-user
-user
-Karen
-user
-Karen
-user
-Karen
-user
-Karen
-Karen
-user
-user
-Karen
-Karen
-user
-user
-user
-user
-Karen
-Karen
-Karen
-user
-user
-Karen
-user
-Karen
-user
-user
-Karen
-user
-Karen
-user
-Karen
-user
-user
-user
-Karen
-Karen
-Karen
-Karen
-user
-user
-Karen
-user
-user
-Karen
-Karen
-user
-Karen
-user
-Karen
-Karen
-game
-user
+MeldEventAILI(Karen, card, null, null , rummy, 16:36:57)
+MeldEventAILI(Karen, card, null, null , rummy, 16:37:04)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:37:06)
+FacialExpressionAILI(user, null, SMILE, null , null, 16:37:17)
+SpeechAILI(Karen, user, EXPRESSIVE, how is your hand?, null, 16:37:18)
+SpeechAILI(user, Karen, EXPRESSIVE, terrible!, rummy, 16:37:19)
+DiscardEventAILI(user, card, null, null , rummy, 16:37:32)
+SpeechAILI(Karen, user, EXPRESSIVE, i am in this to win, null, 16:37:42)
+SpeechAILI(user, Karen, EXPRESSIVE, well do your best, rummy, 16:37:43)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:37:44)
+DiscardEventAILI(user, card, null, null , rummy, 16:38:03)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:38:05)
+DiscardEventAILI(user, card, null, null , rummy, 16:38:40)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:38:47)
+SpeechAILI(Karen, user, EXPRESSIVE, i have intel inside, you got cheese burger, null, 16:39:13)
+SpeechAILI(user, Karen, EXPRESSIVE, don't forget the toppings, i had jalapeno, rummy, 16:39:14)
+DiscardEventAILI(user, card, null, null , rummy, 16:39:34)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:39:36)
+SpeechAILI(Karen, user, EXPRESSIVE, i am in this to win, null, 16:39:48)
+SpeechAILI(user, Karen, EXPRESSIVE, well do your best, rummy, 16:39:49)
+MeldEventAILI(user, card, null, null , rummy, 16:40:11)
+DiscardEventAILI(user, card, null, null , rummy, 16:40:18)
+SpeechAILI(user, Karen, EXPRESSIVE, here i go, meld!, null, 16:40:26)
+SpeechAILI(Karen, user, EXPRESSIVE, , rummy, 16:40:26)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:40:30)
+SpeechAILI(Karen, user, EXPRESSIVE, i love playing games, null, 16:40:43)
+SpeechAILI(user, Karen, EXPRESSIVE, me too, rummy, 16:40:44)
+DiscardEventAILI(user, card, null, null , rummy, 16:40:52)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:40:54)
+SpeechAILI(user, Karen, EXPRESSIVE, you do play very well, null, 16:41:04)
+SpeechAILI(Karen, user, EXPRESSIVE, i have to do more melds then, rummy, 16:41:04)
+DiscardEventAILI(user, card, null, null , rummy, 16:41:22)
+FacialExpressionAILI(user, null, SMILE, null , null, 16:41:27)
+SpeechAILI(Karen, user, EXPRESSIVE, now my turn!, null, 16:41:27)
+SpeechAILI(user, Karen, EXPRESSIVE, show me what you can do!, rummy, 16:41:28)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:41:29)
+SpeechAILI(user, Karen, EXPRESSIVE, you do play very well, null, 16:41:40)
+SpeechAILI(Karen, user, EXPRESSIVE, thank you very much, you too, rummy, 16:41:40)
+MeldEventAILI(user, card, null, null , rummy, 16:41:53)
+DiscardEventAILI(user, card, null, null , rummy, 16:41:56)
+SpeechAILI(user, Karen, EXPRESSIVE, i got good cards!, null, 16:42)
+SpeechAILI(Karen, user, EXPRESSIVE, then i might be just losing!, rummy, 16:42)
+LayOffEventAILI(Karen, card, null, null , rummy, 16:42:04)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:42:10)
+SpeechAILI(Karen, user, EXPRESSIVE, only a few cards left here, haha, null, 16:42:18)
+SpeechAILI(user, Karen, EXPRESSIVE, wait for my moves, rummy, 16:42:19)
+DiscardEventAILI(user, card, null, null , rummy, 16:42:29)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:42:31)
+SpeechAILI(user, Karen, EXPRESSIVE, it is fun to play with you, null, 16:42:43)
+DiscardEventAILI(user, card, null, null , rummy, 16:42:49)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:42:50)
+SpeechAILI(Karen, user, EXPRESSIVE, you play very well, rummy, 16:43:01)
+DiscardEventAILI(user, card, null, null , rummy, 16:43:10)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:43:22)
+DiscardEventAILI(user, card, null, null , rummy, 16:43:39)
+MeldEventAILI(Karen, card, null, null , rummy, 16:43:41)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:43:47)
+GameOverAILI(game, null, null, null , rummy, 16:43:54)
+SpeechAILI(user, user, EXPRESSIVE, good meld, null, 16:43:54)

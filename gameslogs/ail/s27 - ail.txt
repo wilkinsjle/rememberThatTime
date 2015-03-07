@@ -1,43 +1,43 @@
 AILI(sub, obj, type, content, context, time)
-Karen
-user
-Karen
-user
-user
-Karen
-user
-Karen
-user
-Karen
-Karen
-user
-user
-Karen
-Karen
-user
-user
-Karen
-Karen
-Karen
-user
-user
-user
-Karen
-user
-Karen
-user
-Karen
-user
-Karen
-user
-Karen
-Karen
-user
-user
-Karen
-Karen
-user
-user
-user
-Karen
-user
+DiscardEventAILI(Karen, card, null, null , rummy, 16:36:05)
+FacialExpressionAILI(user, null, SMILE, null , null, 16:36:29)
+SpeechAILI(Karen, user, EXPRESSIVE, do you have good cards?, null, 16:36:29)
+SpeechAILI(user, Karen, EXPRESSIVE, not really, rummy, 16:36:30)
+DiscardEventAILI(user, card, null, null , rummy, 16:37:55)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:38:04)
+DiscardEventAILI(user, card, null, null , rummy, 16:39:06)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:39:08)
+DiscardEventAILI(user, card, null, null , rummy, 16:40:28)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:40:37)
+SpeechAILI(Karen, user, EXPRESSIVE, humans are somewhat intelligent but robots are genius, null, 16:40:49)
+SpeechAILI(user, Karen, EXPRESSIVE, how intelligent can a toaster be anyway?, rummy, 16:40:51)
+DiscardEventAILI(user, card, null, null , rummy, 16:41:41)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:41:43)
+SpeechAILI(Karen, user, EXPRESSIVE, that was the best i could do, null, 16:41:57)
+SpeechAILI(user, Karen, EXPRESSIVE, but watch me!, rummy, 16:41:58)
+DiscardEventAILI(user, card, null, null , rummy, 16:42:52)
+MeldEventAILI(Karen, card, null, null , rummy, 16:43:01)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:43:07)
+SpeechAILI(Karen, user, EXPRESSIVE, and that's how you make a meld!, null, 16:43:16)
+SpeechAILI(user, Karen, EXPRESSIVE, don't get too excited!, rummy, 16:43:17)
+MeldEventAILI(user, card, null, null , rummy, 16:43:46)
+DiscardEventAILI(user, card, null, null , rummy, 16:44:07)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:44:15)
+DiscardEventAILI(user, card, null, null , rummy, 16:44:49)
+SpeechAILI(Karen, user, EXPRESSIVE, these cards are nice, why meld? keep them, null, 16:44:56)
+SpeechAILI(user, Karen, EXPRESSIVE, haha, sure!, rummy, 16:44:57)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:44:58)
+SpeechAILI(user, Karen, EXPRESSIVE, you do play very well, null, 16:45:09)
+SpeechAILI(Karen, user, EXPRESSIVE, such an encouragement to hear that, rummy, 16:45:09)
+DiscardEventAILI(user, card, null, null , rummy, 16:45:38)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:45:43)
+SpeechAILI(Karen, user, EXPRESSIVE, i have intel inside, you have a cheese burger, null, 16:45:56)
+SpeechAILI(user, Karen, EXPRESSIVE, at least i eat!, rummy, 16:45:57)
+DiscardEventAILI(user, card, null, null , rummy, 16:46:22)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:46:24)
+SpeechAILI(Karen, user, EXPRESSIVE, humans are somewhat intelligent but robots are genius, null, 16:46:35)
+FacialExpressionAILI(user, null, SMILE, null , null, 16:46:36)
+SpeechAILI(user, Karen, EXPRESSIVE, how intelligent can a toaster be anyway?, rummy, 16:46:37)
+DiscardEventAILI(user, card, null, null , rummy, 16:47:12)
+DiscardEventAILI(Karen, card, null, null , rummy, 16:47:14)
+FacialExpressionAILI(user, null, LAUGHTER, null , null, 16:47:29)
