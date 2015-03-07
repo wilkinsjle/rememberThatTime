@@ -19,13 +19,16 @@ import edu.ucsc.soe.ccs.rememberthattime.ail.meta.CharacterType;
 import edu.ucsc.soe.ccs.rememberthattime.ail.meta.FacialExpressionType;
 import edu.ucsc.soe.ccs.rememberthattime.ail.meta.Gender;
 import edu.ucsc.soe.ccs.rememberthattime.ail.meta.SpeechActType;
-import edu.ucsc.soe.ccs.rememberthattime.ail.rummySpecificAIL.*;
+import edu.ucsc.soe.ccs.rememberthattime.ail.rummyspecificail.*;
+
+//restireictions: file names must be unique, 
 
 public class GenerateAILForRummy {
 
-	Map<String, List<AILInstance>> allFilesAILs;
+	public Map<String, List<AILInstance>> allFilesAILs;
 
 	AILCharacter agent, user;
+	AILProperty game, card;
 
 	public GenerateAILForRummy() {
 
@@ -36,26 +39,39 @@ public class GenerateAILForRummy {
 		user = new AILCharacter(
 				"user", CharacterType.HUMAN, Gender.UNKNOWN);
 
+		game = new AILProperty("game");
+		card = new AILProperty("card");
+
 		processFiles();
 
 	}
 
-	private void processFiles(){
+	public void processFiles(){
+
+		List<AILInstance> AIL;
 		List<File> logFilesList = Arrays.asList(new File("gameslogs/simplified").listFiles());
+
 		for (File file : logFilesList){
+
+			AIL = new ArrayList<AILInstance>();
 			if(file.isHidden()) continue;
 			try {
-				processFile(file);
+				AIL.addAll(processFile(file));
 			} catch (IOException e) {
 				System.out.println("Error opening processed log files.");
 				e.printStackTrace();
 			}
+
+			//putting all AILs for all files into a map
+			allFilesAILs.put(file.getName(), AIL);
+
 		}
+
 	}
 
-	private void processFile(File file) throws IOException{
+	private List<AILInstance> processFile(File file) throws IOException{
 
-		//		List<AILInstance> AIL = new ArrayList<AILInstance>();
+		List<AILInstance> AIL = new ArrayList<AILInstance>();
 
 		new File("gameslogs/ail").mkdir();
 		BufferedReader br = new BufferedReader(new FileReader(file));
@@ -65,16 +81,15 @@ public class GenerateAILForRummy {
 		while((eachLine = br.readLine()) != null)
 			allLines.add(eachLine);
 
-		List<AILInstance> AIL = generateAIL(allLines);
+		AIL.addAll(generateAIL(allLines));
 
 		//each AIL to file
-		Files.write(Paths.get("gameslogs/ail/" + file.getName() 
+		Files.write(Paths.get("gameslogs/ail/" + file.getName().split(".txt")[0]
 				+ " - ail.txt"), toString(AIL).getBytes());
 
-		//putting all AILs for all files into a map
-		allFilesAILs.put(file.getName(), AIL);
-
 		br.close();
+
+		return AIL;
 
 	}
 
@@ -93,7 +108,7 @@ public class GenerateAILForRummy {
 
 			if(eachLine.startsWith("game over")) { 
 				//special case of gameover dealt with here
-				AIL.add(new GameOverEvent(null, null, time, "rummy"));
+				AIL.add(new GameOverEvent(game, null, time, "rummy"));
 				AIL.add(new SpeechAILInstance(
 						eachLine.split("--")[0].split(":")[0].contains("user") ? 
 								this.user : this.agent, potentialObj, 
@@ -119,13 +134,13 @@ public class GenerateAILForRummy {
 								FacialExpressionType.LAUGHTER, eventPart.contains("stop")));
 
 					else if(eventPart.contains("laid off") || eventPart.contains("layoff"))
-						AIL.add(new LayOffEvent(subj, null, time, "rummy"));
+						AIL.add(new LayOffEvent(subj, card, time, "rummy"));
 
 					else if(eventPart.contains("meld"))
-						AIL.add(new MeldEvent(subj, null, time, "rummy"));
+						AIL.add(new MeldEvent(subj, card, time, "rummy"));
 
 					else if(eventPart.contains("discard"))
-						AIL.add(new DiscardEvent(subj, null, time, "rummy"));
+						AIL.add(new DiscardEvent(subj, card, time, "rummy"));
 
 					else if(eventPart.contains("comment"))
 						AIL.add(new SpeechAILInstance(subj, potentialObj, 
@@ -145,10 +160,18 @@ public class GenerateAILForRummy {
 
 	}
 
-
 	private String toString(List<AILInstance> list) {
-		// TODO Auto-generated method stub
-		return "check";
+		/* - TYPE is different in every instance, for example nod or simle for facial expression
+		 * or Speech Act type for speech events. 
+		 * - CONTENT has any content that an ail instance (aili) has
+		 * - CONTEXT is for context specific ailis
+		*/
+		String ailSrting = "AILI(sub, obj, type, content, context, time)\n";
+		
+		for(AILInstance aili : list)
+			ailSrting += aili.getAILString() + "\n";
+		
+		return ailSrting;
 	}
 
 	private String convertTime(String t){

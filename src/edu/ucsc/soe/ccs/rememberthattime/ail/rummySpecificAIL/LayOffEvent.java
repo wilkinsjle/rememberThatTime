@@ -1,17 +1,34 @@
-package edu.ucsc.soe.ccs.rememberthattime.ail.rummySpecificAIL;
+package edu.ucsc.soe.ccs.rememberthattime.ail.rummyspecificail;
 
 
 import java.time.LocalTime;
 
-import edu.ucsc.soe.ccs.rememberthattime.ail.AILCharacter;
+import edu.ucsc.soe.ccs.rememberthattime.ail.AILObject;
+import edu.ucsc.soe.ccs.rememberthattime.ail.AILSubject;
 import edu.ucsc.soe.ccs.rememberthattime.ail.ContextSpecificAILInstance;
 
 public class LayOffEvent extends ContextSpecificAILInstance {
 
-	public LayOffEvent(AILCharacter subject, AILCharacter object, LocalTime time,
+	final String verb = "lay off";
+
+	public LayOffEvent(AILSubject subject, AILObject object, LocalTime time,
 			String context) {
 		super(subject, object, time, context);
-		// TODO Auto-generated constructor stub
+	}
+
+	@Override
+	public String getVerb() { return verb; }
+
+	@Override
+	public String getAILString() {
+		return "LayOffEventAILI(" 
+				+ this.getSubject().getName() + ", " 
+				+ this.getObject().getName() + ", " 
+				+ "null" + ", "
+				+ "null "+ ", "
+				+ "rummy" + ", "
+				+ this.time.toString() 
+				+ ")";
 	}
 
 }
