@@ -57,8 +57,8 @@ public class FacialExpressionAILInstance extends AILInstance{
 	@Override
 	public String getAILString() {
 		return "FacialExpressionAILI(" 
-				+ this.getSubject().getName() + ", " 
-				+ this.getObject().getName() + ", " 
+				+ this.getSubject() != null ? this.getSubject().getName() : "null" + ", " 
+				+ this.getObject() != null ? this.getObject().getName() : "null" + ", " 
 				+ this.facialEpxpressionType.name() + ", "
 				+ "null "+ ", "
 				+ "null" + ", "

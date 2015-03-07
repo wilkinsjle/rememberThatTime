@@ -22,8 +22,8 @@ public class MeldEvent extends ContextSpecificAILInstance {
 	@Override
 	public String getAILString() {
 		return "MeldEventAILI(" 
-				+ this.getSubject().getName() + ", " 
-				+ this.getObject().getName() + ", " 
+				+ this.getSubject() != null ? this.getSubject().getName() : "null" + ", " 
+				+ this.getObject() != null ? this.getObject().getName() : "null" + ", " 
 				+ "null" + ", "
 				+ "null "+ ", "
 				+ "rummy" + ", "
