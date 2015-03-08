@@ -15,7 +15,7 @@ import edu.ucsc.soe.ccs.rememberthattime.nlg.NLGEngine;
 import edu.ucsc.soe.ccs.rememberthattime.processinput.GenerateAILForRummy;
 
 
-public class TellTheFunPart {
+public class TellTheFunParts {
 
 	private static int InterestingPartStartMargin = 2;
 	private static int InterestingPartEndMargin = 2;
