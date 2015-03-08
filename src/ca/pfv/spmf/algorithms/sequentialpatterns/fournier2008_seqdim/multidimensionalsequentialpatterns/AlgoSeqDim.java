@@ -69,7 +69,7 @@ public class AlgoSeqDim {
 	private int databaseSize = 0;
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database  and MDSequence database
 	 * @param algoPrefixSpan  a prefixpsan based algorithm (BIDE, PrefixSpan or Fournier08)
 	 * @param algoDim  an instance of the DIM algorithm
@@ -102,7 +102,7 @@ public class AlgoSeqDim {
 		Sequences sequencesFound = algoPrefixSpan.runAlgorithm(database
 				.getSequenceDatabase());
 
-		// (2) For each frequent sequential pattern found, ç
+		// (2) For each frequent sequential pattern found, ï¿½
 		// form projected MD-Database
 		// and then find MD-patterns within projected databases
 		
@@ -150,11 +150,11 @@ public class AlgoSeqDim {
 		MDPatternsDatabase newContexte = createProjectedDatabase(
 				sequence.getSequencesID(), database.getPatternDatabase());
 
-		// (b) Run the DIM algorithm on the projected database.
+		// (b) EventSpanExtractorBasedOnTrainedModel the DIM algorithm on the projected database.
 		// To do that we need to adjust the minimum support based
 		// on the number of sequences on the projected database as follows
 		double newMinSupp = minsupp * database.size() / newContexte.size();
-		// Run the DIM algorithm
+		// EventSpanExtractorBasedOnTrainedModel the DIM algorithm
 		MDPatterns patterns = algoDim.runAlgorithm(newContexte, newMinSupp);
 
 		// (c) Create MD-Sequences by combining the mdpatterns found

@@ -76,7 +76,7 @@ public class AlgoTSP_nonClosed{
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database : a sequence database
 	 * @param minsupPercent  :  the minimum support as an integer
 	 * @param outputFilePath : the path of the output file to save the result

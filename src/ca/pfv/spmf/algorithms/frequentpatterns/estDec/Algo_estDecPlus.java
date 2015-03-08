@@ -12,9 +12,9 @@ import ca.pfv.spmf.tools.MemoryLogger;
  * This is an implementation of the estDecPlus algorithm 
  * <br/>
  * 
- * Se Jung Shin , Dae Su Lee , Won Suk Lee, “CP-tree: An adaptive synopsis structure 
- * for compressing frequent itemsets over online data streams”, 
- * Information Sciences,Volume 278, 10 September 2014, Pages 559–576<br/>
+ * Se Jung Shin , Dae Su Lee , Won Suk Lee, ï¿½CP-tree: An adaptive synopsis structure 
+ * for compressing frequent itemsets over online data streamsï¿½, 
+ * Information Sciences,Volume 278, 10 September 2014, Pages 559ï¿½576<br/>
  * 
  * This implementation was made by Azadeh Soltani <br/>
  * <br/>
@@ -89,7 +89,7 @@ public class Algo_estDecPlus {
 	}
 
 	/**
-	 * Run the algorithm by loading the transactions from an input file.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm by loading the transactions from an input file.
 	 * 
 	 * @param input   the input file path
 	 * @param output  the output file path for saving the result
@@ -130,7 +130,7 @@ public class Algo_estDecPlus {
 	}
 
 	/**
-	 * Run the algorithm by loading the transactions from an input file.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm by loading the transactions from an input file.
 	 * 
 	 * @param input   the input file path
 	 * @param output  the output file path for saving the result

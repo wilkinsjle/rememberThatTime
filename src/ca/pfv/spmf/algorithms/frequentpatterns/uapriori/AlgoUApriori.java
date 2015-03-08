@@ -61,7 +61,7 @@ public class AlgoUApriori {
 	}
 
 	/**
-	 * Run this algorithm
+	 * EventSpanExtractorBasedOnTrainedModel this algorithm
 	 * @param minsupp  a minimum support threshold
 	 * @param output  the output file path for writing the result
 	 * @throws IOException exception if error reading/writing files

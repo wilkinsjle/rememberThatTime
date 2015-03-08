@@ -117,7 +117,7 @@ public class AlgoCMRules {
 
 	
 	/**
-	 * Run the algorithm with the minsup parameter as a percentage value (double).
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm with the minsup parameter as a percentage value (double).
 	 * @param input input file containing a sequence database.
 	 * @param output the file path for writing the result
 	 * @param absoluteMinSupport   the minsup is a percentage value (ex.: 0.05 =  5 % of all sequences in the database)
@@ -136,7 +136,7 @@ public class AlgoCMRules {
 	}
 
 	/**
-	 * Run the algorithm with the minsup parameter as a number of sequences (integer).
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm with the minsup parameter as a number of sequences (integer).
 	 * @param input input file containing a sequence database.
 	 * @param output the file path for writing the result
 	 * @param relativeSupport   the minsup is a number of sequences (ex.: 5 =  5 sequences of the database)
@@ -446,7 +446,7 @@ public class AlgoCMRules {
 	}
 	
 	/**
-	 * Run the  Agrawal algorithm for generating association rules that is modified
+	 * EventSpanExtractorBasedOnTrainedModel the  Agrawal algorithm for generating association rules that is modified
 	 * to also find sequential rules
 	 * @param patterns  a set of frequent itemsets
 	 * @throws IOException exception if error writing to the output file

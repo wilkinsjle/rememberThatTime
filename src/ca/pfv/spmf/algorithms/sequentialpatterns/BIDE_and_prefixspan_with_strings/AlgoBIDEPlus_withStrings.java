@@ -79,7 +79,7 @@ public class AlgoBIDEPlus_withStrings {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database a sequence database
 	 * @param outputPath an output file path
 	 * @param minsup a minimum support as an integer representing a number of sequences
@@ -357,7 +357,7 @@ public class AlgoBIDEPlus_withStrings {
 	private Map<String, Set<Integer>> findSequencesContainingItems(SequenceDatabase contexte) {
 		// We use a map to store the sequence IDs where an item appear
 		// Key : item   Value :  a set of sequence IDs
-		Map<String, Set<Integer>> mapSequenceID = new HashMap<String, Set<Integer>>(); // pour conserver les ID des séquences: <Id Item, Set d'id de séquences>
+		Map<String, Set<Integer>> mapSequenceID = new HashMap<String, Set<Integer>>(); // pour conserver les ID des sï¿½quences: <Id Item, Set d'id de sï¿½quences>
 		// for each sequence
 		for(Sequence sequence : contexte.getSequences()){
 			// for each itemset
@@ -467,7 +467,7 @@ public class AlgoBIDEPlus_withStrings {
 				if(checkBackScanPruning(newPrefix) == false){
 					// make a recursive call to extend the prefix with this item
 					// and generate other patterns starting with that prefix + item
-					 maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // récursion
+					 maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // rï¿½cursion
 				}	
 				
 				// check the forward extension for the prefix
@@ -531,7 +531,7 @@ public class AlgoBIDEPlus_withStrings {
 	 */
 	private SequentialPattern appendItemToSequence(SequentialPattern prefix, String item) {
 		SequentialPattern newPrefix = prefix.cloneSequence();  // isSuffix
-		newPrefix.addItemset(new Itemset(item));  // créé un nouvel itemset   + decalage
+		newPrefix.addItemset(new Itemset(item));  // crï¿½ï¿½ un nouvel itemset   + decalage
 		return newPrefix;
 	}
 	

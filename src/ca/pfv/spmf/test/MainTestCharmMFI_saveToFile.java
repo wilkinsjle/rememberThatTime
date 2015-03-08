@@ -49,7 +49,7 @@ public class MainTestCharmMFI_saveToFile {
 		// storing itemsets.  Most users don't
 		// need to change this parameter.
 
-		// Run CHARM MFI
+		// EventSpanExtractorBasedOnTrainedModel CHARM MFI
 		AlgoCharmMFI charmMFI = new AlgoCharmMFI();
 		charmMFI.runAlgorithm(output, charm.getClosedItemsets());
 		charmMFI.printStats(database.size()); 

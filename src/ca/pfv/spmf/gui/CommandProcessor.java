@@ -1147,7 +1147,7 @@ public class CommandProcessor {
 			zart.printStatistics();
 
 			System.out.println("STEP 2 : CALCULATING MNR ASSOCIATION RULES");
-			// Run the algorithm to generate MNR rules
+			// EventSpanExtractorBasedOnTrainedModel the algorithm to generate MNR rules
 			AlgoMNRRules algoMNR = new AlgoMNRRules();
 			algoMNR.runAlgorithm(outputFile, minconf, results, database.size());
 			algoMNR.printStatistics();
@@ -1493,7 +1493,7 @@ public class CommandProcessor {
 			AlgoCharm_Bitset charm = new AlgoCharm_Bitset();
 			charm.runAlgorithm(null, database, minsup, false, 10000);
 
-			// Run CHARM MFI
+			// EventSpanExtractorBasedOnTrainedModel CHARM MFI
 			AlgoCharmMFI charmMFI = new AlgoCharmMFI();
 			charmMFI.runAlgorithm(outputFile, charm.getClosedItemsets());
 			charmMFI.printStats(database.size());

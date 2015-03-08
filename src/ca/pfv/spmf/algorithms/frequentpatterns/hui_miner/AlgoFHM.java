@@ -90,7 +90,7 @@ public class AlgoFHM {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param input the input file path
 	 * @param output the output file path
 	 * @param minUtility the minimum utility threshold

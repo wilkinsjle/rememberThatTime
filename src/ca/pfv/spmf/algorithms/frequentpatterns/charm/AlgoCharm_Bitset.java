@@ -96,7 +96,7 @@ public class AlgoCharm_Bitset {
 
 
 	/**
-	 * Run the algorithm and save the output to a file or keep it into memory.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm and save the output to a file or keep it into memory.
 	 * @param database a transaction database
 	 * @param output an output file path for writing the result or if null the result is saved into memory and returned
 	 * @param minsup the minimum support

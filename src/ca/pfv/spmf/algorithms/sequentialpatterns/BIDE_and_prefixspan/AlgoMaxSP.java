@@ -84,7 +84,7 @@ public class AlgoMaxSP {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database a sequence database
 	 * @param outputPath an output file path
 	 * @param minsup a minimum support as an integer representing a number of sequences
@@ -172,7 +172,7 @@ loop1:	for(Entry<Integer, Set<Integer>> entry : mapSequenceID.entrySet()){
 					int successorSupport = 0;
 					
 //					if(!checkBackScanPruning(prefix, entry.getValue())) {
-						successorSupport =  recursion(prefix, projectedContext); // récursion;
+						successorSupport =  recursion(prefix, projectedContext); // rï¿½cursion;
 //					}
 //					else
 //					{
@@ -492,7 +492,7 @@ loop1:	for(Entry<Integer, Set<Integer>> entry : mapSequenceID.entrySet()){
 	private Map<Integer, Set<Integer>> findSequencesContainingItems(SequenceDatabase database) {
 		// We use a map to store the sequence IDs where an item appear
 		// Key : item   Value :  a set of sequence IDs
-	Map<Integer, Set<Integer>> mapSequenceID = new HashMap<Integer, Set<Integer>>(); // pour conserver les ID des séquences: <Id Item, Set d'id de séquences>
+	Map<Integer, Set<Integer>> mapSequenceID = new HashMap<Integer, Set<Integer>>(); // pour conserver les ID des sï¿½quences: <Id Item, Set d'id de sï¿½quences>
 		// for each sequence
 		for(Sequence sequence : database.getSequences()){
 			// for each itemset in that sequence
@@ -649,7 +649,7 @@ loop1:	for(PseudoSequenceBIDE sequence : database){
 					int maxSupportOfSuccessors = 0;
 					
 //					if(!checkBackScanPruning(newPrefix, pair.getSequenceIDs())) {
-						 maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // récursion
+						 maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // rï¿½cursion
 //					}
 					
 					// check the forward extension for the prefix

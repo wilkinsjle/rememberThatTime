@@ -74,7 +74,7 @@ public class AlgoIGB {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param closedPatternsAndGenerators  Closed itemsets and their associated generators.
 	 * @param databaseSize the number of transactions in the transaction database.
 	 * @param outputFilePath the output file path, if the results should be saved to a file.

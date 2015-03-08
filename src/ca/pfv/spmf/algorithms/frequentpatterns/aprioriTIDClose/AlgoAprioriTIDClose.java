@@ -49,7 +49,7 @@ import ca.pfv.spmf.tools.MemoryLogger;
  * 
  * Pasquier, N., Bastide, Y., Taouil, R., & Lakhal, L. (1999). 
  * Discovering frequent closed itemsets for association rules. 
- * In Database Theory—ICDT’99 (pp. 398-416). Springer Berlin Heidelberg.<br/><br/>
+ * In Database Theoryï¿½ICDTï¿½99 (pp. 398-416). Springer Berlin Heidelberg.<br/><br/>
  * 
  * This implementation can save the result to a file or keep
  * it into memory if no output path is provided to the runAlgorithm() method.
@@ -94,7 +94,7 @@ public class AlgoAprioriTIDClose {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param minsupp the minsup threshold
 	 * @param outputFile an output file path, if the result should be saved otherwise
 	 *    leave it null and this method will keep the result into memory and return it.

@@ -28,7 +28,7 @@ import java.util.Set;
 /**
  * This is an implementation of the BIDE+ algorithm by Wang et al. 2007 to be used
  * with the SeqDim algorithm. This implementation is optimized to be used with SeqDim.
- * If you wish to use BIDE+ without SeqDIM, please see the package: <br/>
+ * If you wish to use BIDE+ without SeqDIM, please see the package:ï¿½<br/>
  *   ca.pfv.spmf.sequential_patterns.bide_and_prefixspan.<br/><br/>
  *   
  * BIDE+ is described in: <br/>
@@ -71,7 +71,7 @@ public class AlgoBIDEPlus extends AbstractAlgoPrefixSpan {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database  a sequence database
 	 * @return the sequential patterns found in a Sequences structure.
 	 */
@@ -365,7 +365,7 @@ public class AlgoBIDEPlus extends AbstractAlgoPrefixSpan {
 		Sequence lastSequence = null;
 		// We use a map to store the sequence IDs where an item appear
 		// Key : item   Value :  a set of sequence IDs
-		Map<ItemSimple, Set<Integer>> mapSequenceID = new HashMap<ItemSimple, Set<Integer>>(); // pour conserver les ID des séquences: <Id Item, Set d'id de séquences>
+		Map<ItemSimple, Set<Integer>> mapSequenceID = new HashMap<ItemSimple, Set<Integer>>(); // pour conserver les ID des sï¿½quences: <Id Item, Set d'id de sï¿½quences>
 		
 		
 		// for each sequence
@@ -488,7 +488,7 @@ public class AlgoBIDEPlus extends AbstractAlgoPrefixSpan {
 				if(checkBackScanPruning(newPrefix) == false){
 					// make a recursive call to extend the prefix with this item
 					// and generate other patterns starting with that prefix + item
-					maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // récursion
+					maxSupportOfSuccessors = recursion(newPrefix, projectedContext); // rï¿½cursion
 				}		
 				
 				// check the forward extension for the prefix

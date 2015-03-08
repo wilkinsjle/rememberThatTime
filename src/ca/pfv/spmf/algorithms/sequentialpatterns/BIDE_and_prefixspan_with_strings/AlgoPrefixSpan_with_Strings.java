@@ -81,7 +81,7 @@ public class AlgoPrefixSpan_with_Strings{
 	}
 	
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database : a sequence database
 	 * @param minsup  :  the minimum support as an integer
 	 * @param outputFilePath : the path of the output file to save the result
@@ -223,7 +223,7 @@ public class AlgoPrefixSpan_with_Strings{
 	private Map<String, Set<Integer>> findSequencesContainingItems(SequenceDatabase contexte) {
 		// We use a map to store the sequence IDs where an item appear
 		// Key : item   Value :  a set of sequence IDs
-		Map<String, Set<Integer>> mapSequenceID = new HashMap<String, Set<Integer>>(); // pour conserver les ID des séquences: <Id Item, Set d'id de séquences>
+		Map<String, Set<Integer>> mapSequenceID = new HashMap<String, Set<Integer>>(); // pour conserver les ID des sï¿½quences: <Id Item, Set d'id de sï¿½quences>
 		// for each sequence in the current database
 		for(Sequence sequence : contexte.getSequences()){
 			// for each itemset in this sequence

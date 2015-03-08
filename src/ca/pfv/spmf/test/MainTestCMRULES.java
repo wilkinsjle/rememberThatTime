@@ -17,7 +17,7 @@ public class MainTestCMRULES {
 		// Load database
 		
 		String input = fileToPath("contextPrefixSpan.txt");  // the database
-		String  output = ".//output.txt";  // the path for saving the frequent itemsets found
+		String  output = "mining/testoutput.txt";  // the path for saving the frequent itemsets found
 		double minSup = 0.75;
 		double minConf = 0.50; 
  

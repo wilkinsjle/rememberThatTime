@@ -57,7 +57,7 @@ public class MainTestMNRRules_saveToFile {
 //		}
 		
 		System.out.println("STEP 2 : CALCULATING MNR ASSOCIATION RULES");
-		// Run the algorithm to generate MNR rules
+		// EventSpanExtractorBasedOnTrainedModel the algorithm to generate MNR rules
 		AlgoMNRRules algoMNR = new AlgoMNRRules();
 		algoMNR.runAlgorithm(output, minconf, results, database.size());
 	}

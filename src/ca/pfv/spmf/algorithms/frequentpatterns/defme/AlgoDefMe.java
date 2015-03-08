@@ -88,7 +88,7 @@ public class AlgoDefMe {
 
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param database a transaction database
 	 * @param output an output file path for writing the result or if null the result is saved into memory and returned
 	 * @param minsup the minimum support

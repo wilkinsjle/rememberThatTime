@@ -58,7 +58,7 @@ public class Algo_estDec {
 
 	
 	/**
-	 * Run the algorithm by loading the transactions from an input file.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm by loading the transactions from an input file.
 	 * @param input   the input file path
 	 * @param output  the output file path for saving the result
 	 * @param mins    the minsup threshold as a double value in [0, 1]
@@ -92,7 +92,7 @@ public class Algo_estDec {
 	}
 	
 	/**
-	 * Run the algorithm by loading the transactions from an input file.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm by loading the transactions from an input file.
 	 * @param input   the input file path
 	 * @param output  the output file path for saving the result
 	 * @param mins    the minsup threshold as a double value in [0, 1]

@@ -52,7 +52,7 @@ public class AlgoFHSAR {
 	private int minSuppRelative;
 
 	/**
-	 * Run the FHSAR algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the FHSAR algorithm
 	 * @param input  the file path to a transaction database
 	 * @param inputSAR the file path to a set of sensitive association rules to be hidden
 	 * @param output the output file path for writing the modified transaction database

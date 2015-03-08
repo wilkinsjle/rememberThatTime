@@ -122,7 +122,7 @@ public class AlgoFournierViger08 extends AbstractAlgoPrefixSpan{
 	
 
 	/**
-	 * Run the algorithm and save the result to a file
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm and save the result to a file
 	 * @param database a sequence database
 	 * @param outputFilePath an output file
 	 * @throws IOException throw exception if error creating output file
@@ -142,7 +142,7 @@ public class AlgoFournierViger08 extends AbstractAlgoPrefixSpan{
 }
 	
 	/**
-	 * Run the algorithm and save the result to memory
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm and save the result to memory
 	 * @param database a sequence database
 	 * @return a set of sequential patterns (Sequences)
 	 * @throws IOException 
@@ -1111,7 +1111,7 @@ public class AlgoFournierViger08 extends AbstractAlgoPrefixSpan{
 	private Sequence appendItemToSequence(Sequence prefix, ItemSimple item, long timestamp) {
 		Sequence newPrefix = prefix.cloneSequence();  // isSuffix
 		long decalage = newPrefix.get(newPrefix.size()-1).getTimestamp();
-		newPrefix.addItemset(new Itemset(item, timestamp + decalage));  // créé un nouvel itemset   + decalage
+		newPrefix.addItemset(new Itemset(item, timestamp + decalage));  // crï¿½ï¿½ un nouvel itemset   + decalage
 		return newPrefix;
 	}
 	

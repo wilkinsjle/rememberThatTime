@@ -93,7 +93,7 @@ public class AlgoTRuleGrowth_withStrings {
 	}
 	
 	/**
-	 * Run the algorithm.  
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.  
 	 * @param minSupport  Minsup as a percentage (ex: 0.05 = 5 %)
 	 * @param minConfidence minimum confidence (a value between 0 and 1).
 	 * @param input  the input file path
@@ -116,7 +116,7 @@ public class AlgoTRuleGrowth_withStrings {
 	}
 	
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param relativeMinSupport  minsup as a a relative value (integer)
 	 * @param minConfidence minimum confidence (a value between 0 and 1).
 	 * @param input  the input file path
@@ -297,7 +297,7 @@ public class AlgoTRuleGrowth_withStrings {
 
 	/**
 	 * This method search for items for expanding left side of a rule I --> J 
-	 * with any item c. This results in rules of the form I U {c} --> J. The method makes sure that:
+	 * with any item c. This results in rules of the form I Uï¿½{c} --> J. The method makes sure that:
 	 *   - c  is not already included in I or J
 	 *   - c appear at least minsup time in tidsIJ before last occurence of J
 	 *   - c is lexically bigger than all items in I
@@ -555,7 +555,7 @@ public class AlgoTRuleGrowth_withStrings {
     
 	/**
 	 * This method search for items for expanding left side of a rule I --> J 
-	 * with any item c. This results in rules of the form I --> J U {c}. The method makes sure that:
+	 * with any item c. This results in rules of the form I --> J Uï¿½{c}. The method makes sure that:
 	 *   - c  is not already included in I or J
 	 *   - c appear at least minsup time in tidsIJ after the first occurence of I
 	 *   - c is lexically bigger than all items in J

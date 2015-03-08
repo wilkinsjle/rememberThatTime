@@ -71,7 +71,7 @@ public class AlgoPrefixSpanMDSPM extends AbstractAlgoPrefixSpan {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database a sequence database
 	 * @return a set of sequential patterns (Sequences)
 	 */

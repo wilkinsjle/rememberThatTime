@@ -72,7 +72,7 @@ public class AlgoCharmMFI {
 	}
 
 	/**
-	 * Run the CHARM-MFI algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the CHARM-MFI algorithm.
 	 * @param output an output file path or null if the user want to keep the result in memory.
 	 * @param frequentClosed a set of frequent closed itemsets
 	 * @return the set of maximal itemsets (if the user chose to keep the result in memory.

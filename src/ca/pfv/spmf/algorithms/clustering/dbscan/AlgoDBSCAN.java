@@ -53,10 +53,10 @@ import ca.pfv.spmf.tools.MemoryLogger;
  * The DBScan algorithm was originally published in:
  * <br/><br/>
  * 
- * Ester, Martin; Kriegel, Hans-Peter; Sander, Jörg; Xu, Xiaowei (1996). Simoudis, Evangelos; 
+ * Ester, Martin; Kriegel, Hans-Peter; Sander, Jï¿½rg; Xu, Xiaowei (1996). Simoudis, Evangelos; 
  * Han, Jiawei; Fayyad, Usama M., eds. A density-based algorithm for discovering clusters in 
  * large spatial databases with noise. Proceedings of the Second International Conference on Knowledge
- *  Discovery and Data Mining (KDD-96). AAAI Press. pp. 226–231.
+ *  Discovery and Data Mining (KDD-96). AAAI Press. pp. 226ï¿½231.
  * 
  * @author Philippe Fournier-Viger
  */
@@ -85,7 +85,7 @@ public class AlgoDBSCAN {
 	}
 	
 	/**
-	 * Run the K-Means algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the K-Means algorithm
 	 * @param inputFile an input file path containing a list of vectors of double values
 	 * @param minPts  the minimum number of points (see DBScan article)
 	 * @param epsilon  the epsilon distance (see DBScan article)

@@ -107,7 +107,7 @@ public class AlgoKMeansWithSupport{
 	}
 	
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param items  the values to be clustered
 	 * @return a list of clusters found.
 	 */

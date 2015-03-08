@@ -68,7 +68,7 @@ public class AlgoKMeans {
 	}
 	
 	/**
-	 * Run the K-Means algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the K-Means algorithm
 	 * @param inputFile an input file path containing a list of vectors of double values
 	 * @param k the parameter k
 	 * @param distanceFunction 

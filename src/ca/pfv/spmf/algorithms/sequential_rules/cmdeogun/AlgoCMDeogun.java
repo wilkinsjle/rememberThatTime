@@ -49,8 +49,8 @@ import ca.pfv.spmf.tools.MemoryLogger;
  * and a french description is provided in my Ph.D. thesis:
  * <br/><br/>
  * 
- * Fournier-Viger, P. (2010), Un modèle hybride pour le support à l'apprentissage 
- * dans les domaines procéduraux et mal-définis. Ph.D. Thesis, University of Quebec 
+ * Fournier-Viger, P. (2010), Un modï¿½le hybride pour le support ï¿½ l'apprentissage 
+ * dans les domaines procï¿½duraux et mal-dï¿½finis. Ph.D. Thesis, University of Quebec 
  * in Montreal, Montreal, Canada, 184 pages.
  * 
  * @see Itemset
@@ -103,7 +103,7 @@ public class AlgoCMDeogun {
 	}
 	
 	/**
-	 * Run the algorithm with an absolute minimum support (double).
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm with an absolute minimum support (double).
 	 * @param input input file containing a sequence database.
 	 * @param output the file path for writing the result
 	 * @param absoluteMinSupport   the minsup is a percentage value (ex.: 0.05 =  5 % of all sequences in the database)
@@ -125,7 +125,7 @@ public class AlgoCMDeogun {
 	
 
 	/**
-	 * Run the algorithm with a relative minimum support (integer)
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm with a relative minimum support (integer)
 	 * @param input input file containing a sequence database.
 	 * @param output the file path for writing the result
 	 * @param relativeSupport   the minsup is a number of sequences (ex.: 5 =  5 sequences of the database)

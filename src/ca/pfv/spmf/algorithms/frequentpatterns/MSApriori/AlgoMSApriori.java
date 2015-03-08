@@ -89,7 +89,7 @@ public class AlgoMSApriori {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param input an input file containing a transaction database
 	 * @param output an output file path for writing the result
 	 * @param beta  the parameter Beta for generating MIS values for all items (see paper)

@@ -24,7 +24,7 @@ public class MainTestFPGrowth_saveToMemory {
 
 		// Applying the FPGROWTH algorithmMainTestFPGrowth.java
 		AlgoFPGrowth algo = new AlgoFPGrowth();
-		// Run the algorithm
+		// EventSpanExtractorBasedOnTrainedModel the algorithm
 		// Note that here we use "null" as output file path because we want to keep the results into memory instead of saving to a file
 		Itemsets patterns = algo.runAlgorithm(input, null, minsup);  
 		// show the execution time and other statistics

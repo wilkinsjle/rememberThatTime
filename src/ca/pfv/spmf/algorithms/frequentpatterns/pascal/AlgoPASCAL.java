@@ -86,7 +86,7 @@ public class AlgoPASCAL {
 	}
 
 	/**
-	 * Run the Apriori-HT algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the Apriori-HT algorithm
 	 * 
 	 * @param minsup
 	 *            the minimum support threshold

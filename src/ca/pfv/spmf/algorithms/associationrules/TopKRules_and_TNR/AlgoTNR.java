@@ -79,7 +79,7 @@ public class AlgoTNR {
 	public AlgoTNR() {}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param k the value of k.
 	 * @param minConfidence the minimum confidence threshold.
 	 * @param database the database.

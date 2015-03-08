@@ -104,7 +104,7 @@ public class AlgoDim{
 	}
 	
 	/**
-	 * Run the DIM algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the DIM algorithm
 	 * @param mdPatDatabase an md-pattern database
 	 * @param minsupp a minimum support threshold as a percentage (double)
 	 * @return the md-patterns found

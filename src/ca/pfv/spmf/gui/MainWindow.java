@@ -257,8 +257,8 @@ public class MainWindow extends JFrame {
         comboBox.setBounds(263, 74, 367, 20);
         contentPane.add(comboBox);
 
-        // The button "Run algorithm"
-        buttonRun = new JButton("Run algorithm");
+        // The button "EventSpanExtractorBasedOnTrainedModel algorithm"
+        buttonRun = new JButton("EventSpanExtractorBasedOnTrainedModel algorithm");
         buttonRun.setEnabled(false);
         buttonRun.addActionListener(new ActionListener() {
 
@@ -1248,7 +1248,7 @@ public class MainWindow extends JFrame {
 	}
 
 	/**
-	 * This method is called when the user click the "Run" button of the user interface,
+	 * This method is called when the user click the "EventSpanExtractorBasedOnTrainedModel" button of the user interface,
 	 * to launch the chosen algorithm and thereafter catch exception if one occurs.
 	 */
 	private void processRunAlgorithmCommandFromGUI() {

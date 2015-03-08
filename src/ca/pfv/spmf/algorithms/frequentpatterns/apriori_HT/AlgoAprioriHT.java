@@ -90,7 +90,7 @@ public class AlgoAprioriHT {
 	}
 
 	/**
-	 * Run the Apriori-HT algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the Apriori-HT algorithm
 	 * @param minsup the minimum support threshold
 	 * @param input path to the input file
 	 * @param output path to save the result to an output file

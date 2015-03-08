@@ -88,7 +88,7 @@ public class AlgoMNRRules {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param closedPatternsAndGenerators  Closed itemsets and their associated generators.
 	 * @param databaseSize the number of transactions in the transaction database.
 	 * @param minconf minimum confidence threshold

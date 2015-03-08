@@ -78,7 +78,7 @@ public class AlgoLCM {
     }
 
     /**
-     * Run the algorithm
+     * EventSpanExtractorBasedOnTrainedModel the algorithm
      * @param minimumSupport  the minimum support threshold as percentage value between 0 and 1
      * @param dataset  the dataset
      * @param outputPath  the output file path to save the result or null if to be kept in memory

@@ -37,26 +37,27 @@ public class GenerateAILForRummy {
 		agent = new AILCharacter(
 				"Karen", CharacterType.AGENT, Gender.FEMALE);
 		user = new AILCharacter(
-				"user", CharacterType.HUMAN, Gender.UNKNOWN);
+				"User", CharacterType.HUMAN, Gender.UNKNOWN);
 
 		game = new AILProperty("game");
 		card = new AILProperty("card");
 
-		processFiles();
+//		processFiles(true);
 
 	}
 
-	public void processFiles(){
+	public void processFiles(boolean writeAILsToFile){
 
 		List<AILInstance> AIL;
-		List<File> logFilesList = Arrays.asList(new File("gameslogs/simplified").listFiles());
+		List<File> logFilesList = Arrays.asList(
+				new File("gameslogs/simplified").listFiles());
 
 		for (File file : logFilesList){
 
 			AIL = new ArrayList<AILInstance>();
 			if(file.isHidden()) continue;
 			try {
-				AIL.addAll(processFile(file));
+				AIL.addAll(processFile(file, writeAILsToFile));
 			} catch (IOException e) {
 				System.out.println("Error opening processed log files.");
 				e.printStackTrace();
@@ -69,11 +70,11 @@ public class GenerateAILForRummy {
 
 	}
 
-	private List<AILInstance> processFile(File file) throws IOException{
+	private List<AILInstance> processFile(
+			File file, boolean writeAILsToFile) throws IOException{
 
 		List<AILInstance> AIL = new ArrayList<AILInstance>();
 
-		new File("gameslogs/ail").mkdir();
 		BufferedReader br = new BufferedReader(new FileReader(file));
 		List<String> allLines = new ArrayList<String>();
 		String eachLine = "";
@@ -83,10 +84,13 @@ public class GenerateAILForRummy {
 
 		AIL.addAll(generateAIL(allLines));
 
-		//each AIL to file
-		Files.write(Paths.get("gameslogs/ail/" + file.getName().split(".txt")[0]
-				+ " - ail.txt"), toString(AIL).getBytes());
-
+		if(writeAILsToFile){
+			//each AIL to file
+			new File("gameslogs/ail").mkdir();
+			Files.write(Paths.get("gameslogs/ail/" + file.getName().split(".txt")[0]
+					+ " - ail.txt"), toString(AIL).getBytes());
+		}
+		
 		br.close();
 
 		return AIL;
@@ -165,12 +169,12 @@ public class GenerateAILForRummy {
 		 * or Speech Act type for speech events. 
 		 * - CONTENT has any content that an ail instance (aili) has
 		 * - CONTEXT is for context specific ailis
-		*/
+		 */
 		String ailSrting = "AILI(sub, obj, type, content, context, time)\n";
-		
+
 		for(AILInstance aili : list)
 			ailSrting += aili.getAILString() + "\n";
-		
+
 		return ailSrting;
 	}
 
@@ -187,6 +191,7 @@ public class GenerateAILForRummy {
 		new DecimalFormat("00").format(s);
 	}
 
+	//for test, not a main main
 	public static void main(String[] args) {
 		new GenerateAILForRummy();
 

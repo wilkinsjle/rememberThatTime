@@ -73,7 +73,7 @@ public class AlgoHMine {
 	}
 
 	/** 
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param input the path of the input file  (a transaction database)
 	 * @param output the output file path for writing the result
 	 * @param minsup the minimum support threshold

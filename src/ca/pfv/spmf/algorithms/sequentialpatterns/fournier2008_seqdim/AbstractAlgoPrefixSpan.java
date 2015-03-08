@@ -30,7 +30,7 @@ import ca.pfv.spmf.algorithms.sequentialpatterns.fournier2008_seqdim.multidimens
 public abstract class AbstractAlgoPrefixSpan {
 	
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param database a sequence database
 	 * @return some sequential patterns
 	 * @throws IOException if error writing to output file (if user wants to write results to output file)

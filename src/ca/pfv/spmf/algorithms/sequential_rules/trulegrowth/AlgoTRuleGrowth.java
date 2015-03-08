@@ -79,7 +79,7 @@ public class AlgoTRuleGrowth {
 	}
 	
 	/**
-	 * Run the algorithm.  
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.  
 	 * @param minSupport  Minsup as a percentage (ex: 0.05 = 5 %)
 	 * @param minConfidence minimum confidence (a value between 0 and 1).
 	 * @param input  the input file path
@@ -104,7 +104,7 @@ public class AlgoTRuleGrowth {
 	}
 	
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param relativeMinSupport  the minsup parameter as a a relative value (integer)
 	 * @param minConfidence minimum confidence (a value between 0 and 1).
 	 * @param input  the input file path

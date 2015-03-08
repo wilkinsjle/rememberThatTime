@@ -56,7 +56,7 @@ public class AlgoKMeans_forFournier08 {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param input   a list of items to be clustered
 	 * number of clusters.
 	 * @return a list of clusters

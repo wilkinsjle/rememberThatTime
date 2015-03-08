@@ -90,7 +90,7 @@ public class AlgoVME {
 	}
 
 	/**
-	 * Run the VME algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the VME algorithm.
 	 * @param input path to an input file
 	 * @param output path to be used for writing the output file
 	 * @param threshold  the threshold chosen by the user.

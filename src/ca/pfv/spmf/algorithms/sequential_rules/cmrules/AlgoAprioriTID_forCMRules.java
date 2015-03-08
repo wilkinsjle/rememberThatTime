@@ -73,7 +73,7 @@ public class AlgoAprioriTID_forCMRules {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param minsuppRelative    the minimum support threshold
 	 * @param listFrequentsSize1  the list of frequent itemsets of size 1
 	 * @param mapItemCount  a map of items (key) and their tidset (value).

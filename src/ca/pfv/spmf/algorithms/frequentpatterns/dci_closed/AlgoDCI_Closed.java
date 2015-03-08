@@ -86,7 +86,7 @@ public class AlgoDCI_Closed {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param input the path of an input file (transaction database).
 	 * @param output the path of the output file for writing the result
 	 * @param minsup a minimum support threshold

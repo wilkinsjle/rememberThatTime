@@ -73,7 +73,7 @@ public class AlgoRelim {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param minsupp minimum support threshold
 	 * @param input the file path of the input file
 	 * @param output the file path of the desired output file

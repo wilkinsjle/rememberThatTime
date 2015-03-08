@@ -77,7 +77,7 @@ public class AlgoPrefixSpan{
 	}
 	
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database : a sequence database
 	 * @param minsupRelative  :  the minimum support as a percentage (e.g. 50%) as a value in [0,1]
 	 * @param outputFilePath : the path of the output file to save the result
@@ -107,7 +107,7 @@ public class AlgoPrefixSpan{
 	}
 	
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database : a sequence database
 	 * @param minsupPercent  :  the minimum support as an integer
 	 * @param outputFilePath : the path of the output file to save the result

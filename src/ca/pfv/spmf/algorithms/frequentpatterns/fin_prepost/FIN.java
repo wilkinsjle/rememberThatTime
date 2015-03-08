@@ -97,7 +97,7 @@ public class FIN {
 	private int numOfTrans;
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * 
 	 * @param filename
 	 *            the input file path

@@ -42,7 +42,7 @@ public class MainTestCharmMFI_saveToMemory {
 		// a triangular matrix  for counting support of itemsets of size 2.
 		// For some datasets it should make the algorithm faster.
 		
-		// Run CHARM MFI
+		// EventSpanExtractorBasedOnTrainedModel CHARM MFI
 		AlgoCharmMFI algo2 = new AlgoCharmMFI();
 		algo2.runAlgorithm(null, algo.getClosedItemsets());
 		

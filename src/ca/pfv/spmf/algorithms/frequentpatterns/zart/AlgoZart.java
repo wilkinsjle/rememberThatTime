@@ -75,7 +75,7 @@ public class AlgoZart {
 	}
 	
 	/***
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database  a transaction database
 	 * @param minsupp   the minimum support threshold
 	 * @return  a set of closed itemsets and their associated generator(s)

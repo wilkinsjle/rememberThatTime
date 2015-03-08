@@ -66,7 +66,7 @@ public class AlgoTwoPhase {
 	}
 
 	/**
-	 * Run the Two-phase algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the Two-phase algorithm
 	 * @param database  a transaction database containing utility information.
 	 * @param minUtility the min utility threshold
 	 * @return the set of high utility itemsets

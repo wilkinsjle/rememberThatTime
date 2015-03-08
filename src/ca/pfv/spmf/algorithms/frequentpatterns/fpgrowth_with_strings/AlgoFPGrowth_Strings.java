@@ -70,7 +70,7 @@ public class AlgoFPGrowth_Strings {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param input the file path of an input transaction database.
 	 * @param output the path of the desired output file
 	 * @param minsupp minimum support threshold as a percentage (double)

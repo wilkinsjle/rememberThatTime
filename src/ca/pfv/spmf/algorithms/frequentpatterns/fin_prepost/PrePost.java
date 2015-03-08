@@ -89,7 +89,7 @@ public class PrePost {
 	private int numOfTrans;
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * 
 	 * @param filename
 	 *            the input file path

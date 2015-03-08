@@ -76,7 +76,7 @@ public class AlgoAgrawalFaster94 {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param patterns  a set of frequent itemsets
 	 * @param output an output file path for writing the result or null if the user want this method to return the result
 	 * @param databaseSize  the number of transactions in the database
@@ -95,7 +95,7 @@ public class AlgoAgrawalFaster94 {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param patterns  a set of frequent itemsets
 	 * @param output an output file path for writing the result or null if the user want this method to return the result
 	 * @param databaseSize  the number of transactions in the database
@@ -116,7 +116,7 @@ public class AlgoAgrawalFaster94 {
 	}
 
 	/**
-	 * Run the algorithm for generating association rules from a set of itemsets.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm for generating association rules from a set of itemsets.
 	 * @param patterns the set of itemsets
 	 * @param output the output file path. If null the result is saved in memory and returned by the method.
 	 * @param databaseSize  the number of transactions in the original database

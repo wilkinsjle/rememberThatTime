@@ -22,7 +22,7 @@ public class ResponseEvent extends SpeechAILInstance {
 
 	@Override
 	public String getAILString() {
-		return "SpeechAILI(" 
+		return "ResponseAILI(" 
 				+ (this.getSubject() != null ? this.getSubject().getName() : "null") + ", " 
 				+ (this.getObject() != null ? this.getObject().getName() : "null") + ", " 
 				+ this.speechActType.name() + ", "

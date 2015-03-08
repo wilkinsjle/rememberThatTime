@@ -31,7 +31,7 @@ import ca.pfv.spmf.tools.MemoryLogger;
  * the antecedent and consequent are sequential patterns.  The RuleGen algorithm is described in: 
  * <br/><br/>
  * 
- *    M. J. Zaki, “SPADE: An Efficient Algorithm for Mining Frequent Se-quences,”Machine Learning, vol. 42, no.1-2, pp. 31-60, 2001.
+ *    M. J. Zaki, ï¿½SPADE: An Efficient Algorithm for Mining Frequent Se-quences,ï¿½Machine Learning, vol. 42, no.1-2, pp. 31-60, 2001.
  * <br/><br/>
  * 
  * However, note that instead of using the SPADE algorithm,  we use the PrefixSpan algorithm because at the time
@@ -63,7 +63,7 @@ public class AlgoRuleGen {
 	}
 	
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param minsup  the minimum support threshold
 	 * @param minconf the minimum confidence threshold
 	 * @param input   the input file path

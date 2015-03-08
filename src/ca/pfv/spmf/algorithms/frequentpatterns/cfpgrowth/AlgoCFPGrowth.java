@@ -106,7 +106,7 @@ public class AlgoCFPGrowth {
 	}
 	
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param input the path to an input file containing a transaction database.
 	 * @param output the output file path for saving the result (if null, the result 
 	 *        will be returned by the method instead of being saved).

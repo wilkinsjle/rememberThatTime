@@ -77,7 +77,7 @@ public class AlgoBIDEPlus {
 	}
 
 	/**
-	 * Run the algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm
 	 * @param database a sequence database
 	 * @param outputPath an output file path
 	 * @param minsup a minimum support as an integer representing a number of sequences

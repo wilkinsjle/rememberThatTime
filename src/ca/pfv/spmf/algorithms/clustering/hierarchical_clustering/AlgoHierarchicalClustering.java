@@ -70,7 +70,7 @@ public class AlgoHierarchicalClustering {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param inputFile an input file containing vectors of doubles
 	 * @param maxDistance  the maximum distance allowed for merging two clusters
 	 * @param distanceFunction 

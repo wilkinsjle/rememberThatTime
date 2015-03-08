@@ -22,7 +22,7 @@ public class TellTheStory {
 
 		Map<String, List<String>> stories = new HashMap<String, List<String>>();
 
-		AILmaker.processFiles();
+		AILmaker.processFiles(true);
 
 		//making a map of file name to stories (list of sentences)
 		for(String key : AILmaker.allFilesAILs.keySet())
@@ -34,7 +34,7 @@ public class TellTheStory {
 		for(String storyName : stories.keySet()){
 			try {
 				Files.write(Paths.get("gameslogs/fullstories/" 
-						+ storyName.trim().split(".txt")[0] + ".txt"), 
+						+ storyName.trim().split(".txt")[0] + "-story.txt"), 
 						makeItASingleString(stories.get(storyName)).getBytes());
 			} catch (IOException e) {
 				System.out.println("err in writing stories");
@@ -47,7 +47,6 @@ public class TellTheStory {
 	private static String makeItASingleString(List<String> list){
 
 		String singleString = "";
-
 		List<String> connectors = new ArrayList<String>();
 		connectors.add("Next");
 		connectors.add("Then");
@@ -58,15 +57,15 @@ public class TellTheStory {
 		connectors.add("When that was done");
 
 		Random rand = new Random();
-
 		for (String s : list) 
 			singleString += 
 			s 
 			+ " "
-			+ connectors.get(rand.nextInt(connectors.size() - 1)) 
-			+ ", ";
+			+ (rand.nextBoolean() ? connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
+			;
 
 		return singleString;
 	}
+
 
 }

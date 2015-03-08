@@ -101,7 +101,7 @@ public class AlgoINDIRECT {
 	}
 
 	/**
-	 * Run the algorithm.
+	 * EventSpanExtractorBasedOnTrainedModel the algorithm.
 	 * @param input the input file path
 	 * @param output the output file path 
 	 * @param minsup the minimum support threshold

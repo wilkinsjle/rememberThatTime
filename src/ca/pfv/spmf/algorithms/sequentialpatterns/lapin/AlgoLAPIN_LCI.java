@@ -118,7 +118,7 @@ public class AlgoLAPIN_LCI{
 	}
 	
 	/**
-	 * Run the LAPIN algorithm
+	 * EventSpanExtractorBasedOnTrainedModel the LAPIN algorithm
 	 * @param input the input file path
 	 * @param minsupRel the minsup threshold as a percentage
 	 */
