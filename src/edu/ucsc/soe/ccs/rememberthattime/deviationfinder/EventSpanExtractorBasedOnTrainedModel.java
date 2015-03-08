@@ -13,7 +13,7 @@ import edu.ucsc.soe.ccs.rememberthattime.deviationfinder.cmrules.CMRulesMiner;
 public class EventSpanExtractorBasedOnTrainedModel {
 
 	static final String trainDataLocation = "mining/traindata.txt";
-	static final String modelDataLocation = "mining/model.txt";
+	static final String modelLocation = "mining/model.txt";
 
 	TrainingTestingSetGenerator trainTestSetGenerator;
 	CMRulesMiner miner;
@@ -43,14 +43,14 @@ public class EventSpanExtractorBasedOnTrainedModel {
 		}
 
 		try {// RUNNING MINING ALGORITHM
-			miner.mine(trainDataLocation, modelDataLocation);
+			miner.mine(trainDataLocation, modelLocation);
 		} catch (IOException e) {
 			System.out.println("Err in running mining.");
 			e.printStackTrace();
 		}
 
 		List<StorySpan> rarePatterns = new ArrayList<StorySpan>();
-		try {// finding less repeatitive sequences
+		try {//FINDING LESS REPEATITIVE SEQUENCES
 			rarePatterns.addAll(rareSequenceFinder
 					.extractLeastFrequentSpansFromModelOutput());
 		} catch (IOException e) {
@@ -92,6 +92,9 @@ public class EventSpanExtractorBasedOnTrainedModel {
 					int overlapIndex = stringFromInts(eachAIL.getValue())
 							.indexOf(stringFromInts(wholeSequence));
 					int overlapLength = wholeSequence.size();
+					
+					//removing comma effect on the index
+					overlapIndex -= overlapIndex/2;
 
 					interestingPartsOfAStory.add(
 							new AILUniqueSpanDesignator(overlapIndex, overlapLength));

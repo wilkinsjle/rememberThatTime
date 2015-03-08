@@ -17,7 +17,7 @@ import java.util.Map.Entry;
 public class TrainingTestingSetGenerator {
 
 	//	private final int TEST_SET_SIZE = 5;
-	private final int TRAIN_SET_SIZE = 10;
+	public static final int TRAIN_SET_SIZE = 10;
 
 	List<String> AILFileNames;
 

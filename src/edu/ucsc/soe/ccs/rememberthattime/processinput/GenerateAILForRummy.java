@@ -64,7 +64,7 @@ public class GenerateAILForRummy {
 			}
 
 			//putting all AILs for all files into a map
-			allFilesAILs.put(file.getName(), AIL);
+			allFilesAILs.put(file.getName().split(".txt")[0], AIL);
 
 		}
 

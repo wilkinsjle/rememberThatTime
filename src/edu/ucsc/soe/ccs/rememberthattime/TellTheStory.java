@@ -34,17 +34,20 @@ public class TellTheStory {
 		for(String storyName : stories.keySet()){
 			try {
 				Files.write(Paths.get("gameslogs/fullstories/" 
-						+ storyName.trim().split(".txt")[0] + "-story.txt"), 
+						+ storyName.trim() + " - story.txt"), 
 						makeItASingleString(stories.get(storyName)).getBytes());
 			} catch (IOException e) {
 				System.out.println("err in writing stories");
 				e.printStackTrace(); 
 			}
 		}
+		
+		System.out.println("SUCCESS: AIL and story files generated"
+				+ ", check ail and fullstories folders :) \n");
 
 	}
 
-	private static String makeItASingleString(List<String> list){
+	static String makeItASingleString(List<String> list){
 
 		String singleString = "";
 		List<String> connectors = new ArrayList<String>();
@@ -57,12 +60,16 @@ public class TellTheStory {
 		connectors.add("When that was done");
 
 		Random rand = new Random();
-		for (String s : list) 
+		int i = 0;
+		for (String s : list){
 			singleString += 
 			s 
 			+ " "
-			+ (rand.nextBoolean() ? connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
+			+ ((rand.nextBoolean() && (i != list.size() - 1)) ? 
+					connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
 			;
+			i++;
+		}
 
 		return singleString;
 	}

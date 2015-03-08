@@ -17,7 +17,7 @@ public class RareSequenceFinder {
 		List<StorySpan> storySpans = new ArrayList<StorySpan>();
 
 		BufferedReader br = new BufferedReader(
-				new FileReader(EventSpanExtractorBasedOnTrainedModel.modelDataLocation));
+				new FileReader(EventSpanExtractorBasedOnTrainedModel.modelLocation));
 
 		String eachLine = "";
 		List<String> allLines = new ArrayList<String>();

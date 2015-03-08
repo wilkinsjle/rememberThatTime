@@ -88,9 +88,6 @@ public class NLGEngine {
 
 		String sentence = realiser.realiseSentence(p);
 
-		//test TODO remove
-		System.out.println(sentence);
-
 		return sentence;
 	}
 

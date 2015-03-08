@@ -3,11 +3,19 @@ package edu.ucsc.soe.ccs.rememberthattime.deviationfinder;
 public class AILUniqueSpanDesignator {
 	
 	int startingpoint;
-	int endingpoint;
+	int length;
 	
 	public AILUniqueSpanDesignator(int startingpoint, int endingpoint) {
 		this.startingpoint = startingpoint;
-		this.endingpoint = endingpoint;
+		this.length = endingpoint;
+	}
+	
+	public int getStartingpoint() {
+		return startingpoint;
+	}
+
+	public int getEndingpoint() {
+		return startingpoint + length;
 	}
 
 }
