@@ -59,8 +59,9 @@ public class EventSpanExtractorBasedOnTrainedModel {
 		}
 		//------------------------------------------------
 
-		//sorting story spans based on first set size, then second set's
+		//SORTING STORY SPANS based on first set size, then second set's
 		Collections.sort(rarePatterns);
+		Collections.reverse(rarePatterns);
 
 		//FINDING RARE SPANS OF ALL TEST SET INSTANCES
 		return findMatchingPatternsInTestSet(rarePatterns);
