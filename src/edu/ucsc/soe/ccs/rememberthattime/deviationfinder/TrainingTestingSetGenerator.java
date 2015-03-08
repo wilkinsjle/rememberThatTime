@@ -13,11 +13,13 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Random;
 
 public class TrainingTestingSetGenerator {
 
 	//	private final int TEST_SET_SIZE = 5;
 	public static final int TRAIN_SET_SIZE = 10;
+	public static final long CONSISTENT_RANDOM_SEED = 12345;
 
 	List<String> AILFileNames;
 
@@ -51,7 +53,8 @@ public class TrainingTestingSetGenerator {
 		e.printStackTrace();}
 
 		//shuffling file names and choosing test and train sets
-		Collections.shuffle(AILFileNames);
+		//Shuffling with a seed to get consistent results
+		Collections.shuffle(AILFileNames, new Random(CONSISTENT_RANDOM_SEED));
 
 		populateTrainAndTestSets();
 
