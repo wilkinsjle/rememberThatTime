@@ -66,8 +66,8 @@ public class TellTheStory {
 		} else {
 			singleString += "During " + AILmaker.getAgent().getName() + " and "
 					+ AILmaker.getUser().getName() + "'s " 
-					+ "rummy game," /*this should be an activityName() from a class*/ 
-					+ "this happened: ";
+					+ "rummy game" /*this should be an activityName() from a class*/ 
+					+ ", this happened: ";
 
 		}
 
