@@ -59,7 +59,7 @@ public class TellTheFunParts {
 			//write all story spans in a single string
 			for(List<String> eachSpan : allInterestinSpansStories)
 				allInterestingStories += 
-				TellTheStory.makeItASingleString(eachSpan) +
+				TellTheStory.makeItASingleString(eachSpan, AILmaker, true) +
 				"\n\n---------------------------------\n\n";
 
 			//write it to file

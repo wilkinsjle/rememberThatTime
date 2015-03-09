@@ -190,6 +190,10 @@ public class GenerateAILForRummy {
 		new DecimalFormat("00").format(m) + ":" + 
 		new DecimalFormat("00").format(s);
 	}
+	
+	//temp, make characters a list in a Story class? TODO
+	public AILCharacter getAgent(){ return this.agent; }
+	public AILCharacter getUser(){ return this.user; }
 
 	//for test, not a main main
 	public static void main(String[] args) {
