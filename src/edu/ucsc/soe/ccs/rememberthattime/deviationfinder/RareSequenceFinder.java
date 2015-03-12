@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class RareSequenceFinder {
-	
+
 	private static final double CONFIDENCE_THRESHOLD = 0.9;
-	//	private static final double SUPPORT_THRESHOLD = 0.9;
+	private static final double SUPPORT_THRESHOLD = 9;
 
 	public List<StorySpan> extractLeastFrequentSpansFromModelOutput() 
 			throws IOException{
@@ -25,8 +25,9 @@ public class RareSequenceFinder {
 			allLines.add(eachLine);
 
 		for(String line : allLines){
-			if(Double.valueOf(line.split("#CONF:")[1].trim()) 
-					<= CONFIDENCE_THRESHOLD){
+			if(Double.valueOf(line.split("#CONF:")[1].trim()) <= CONFIDENCE_THRESHOLD 
+					&& (Integer.valueOf(line.split("#CONF:")[0].split("#SUP:")[1].trim()) 
+							<= SUPPORT_THRESHOLD)){
 
 				List<Integer> list1 = new ArrayList<Integer>();
 				List<Integer> list2 = new ArrayList<Integer>();
@@ -42,7 +43,7 @@ public class RareSequenceFinder {
 				storySpans.add(new StorySpan(list1, list2));
 			}
 		}
-		
+
 		br.close();
 		return storySpans;
 	}
