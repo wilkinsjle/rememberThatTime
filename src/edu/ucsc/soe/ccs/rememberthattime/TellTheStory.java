@@ -34,22 +34,43 @@ public class TellTheStory {
 		for(String storyName : stories.keySet()){
 			try {
 				Files.write(Paths.get("gameslogs/fullstories/" 
-						+ storyName.trim() + " - story.txt"), 
-						makeItASingleString(stories.get(storyName)).getBytes());
+						+ storyName.trim() + " - story.txt"), makeItASingleString(
+								stories.get(storyName), AILmaker, false).getBytes());
 			} catch (IOException e) {
 				System.out.println("err in writing stories");
 				e.printStackTrace(); 
 			}
 		}
-		
+
 		System.out.println("SUCCESS: AIL and story files generated"
 				+ ", check ail and fullstories folders :) \n");
 
 	}
 
-	static String makeItASingleString(List<String> list){
+	static String makeItASingleString(List<String> list
+			, GenerateAILForRummy AILmaker, boolean span){
 
 		String singleString = "";
+
+		if(!span){
+			singleString += "There once was "
+					+ ((AILmaker.getAgent().getType().toString().toLowerCase().startsWith("a")) ? "an " : "a ")
+					+ AILmaker.getAgent().getType().toString().toLowerCase()
+					+ " named " + AILmaker.getAgent().getName() + " who was " 
+					+ "playing rummy" /*this should be an activityDesciption() from a class*/ 
+					+ " with " 
+					+ ((AILmaker.getUser().getType().toString().toLowerCase().startsWith("a")) ? "an " : "a ") 
+					+ AILmaker.getUser().getType().toString().toLowerCase() 
+					+ " named " 
+					+ AILmaker.getUser().getName().toLowerCase() + ". "; 
+		} else {
+			singleString += "During " + AILmaker.getAgent().getName() + " and "
+					+ AILmaker.getUser().getName() + "'s " 
+					+ "rummy game" /*this should be an activityName() from a class*/ 
+					+ ", this happened: ";
+
+		}
+
 		List<String> connectors = new ArrayList<String>();
 		connectors.add("Next");
 		connectors.add("Then");
@@ -63,11 +84,11 @@ public class TellTheStory {
 		int i = 0;
 		for (String s : list){
 			singleString += 
-			s 
-			+ " "
-			+ ((rand.nextBoolean() && (i != list.size() - 1)) ? 
-					connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
-			;
+					s 
+					+ " "
+					+ ((rand.nextBoolean() && (i != list.size() - 1)) ? 
+							connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
+							;
 			i++;
 		}
 
