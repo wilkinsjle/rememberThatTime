@@ -7,6 +7,7 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
+import java.util.Random;
 import java.util.Set;
 
 import edu.ucsc.soe.ccs.rememberthattime.ail.AILInstance;
@@ -26,9 +27,11 @@ public class TellTheFunParts {
 				new EventSpanExtractorBasedOnTrainedModel().
 				findInterestingStorySpans();
 
-		String allInterestingStories;
-		List<List<AILInstance>> allInterestinSpans ;
-		List<List<String>> allInterestinSpansStories ;
+		String allInterestingStories, allRandomStories;
+		List<List<AILInstance>> allInterestinSpans;
+		List<List<AILInstance>> randomSpansofSameLength;
+		List<List<String>> allInterestingSpansStories;
+		List<List<String>> allRandomSpansStories;
 
 		GenerateAILForRummy AILmaker = new GenerateAILForRummy();
 		AILmaker.processFiles(false);
@@ -44,28 +47,45 @@ public class TellTheFunParts {
 		for(String eachFile : filesWithInterestingParts){
 
 			allInterestingStories = "";
+			allRandomStories = "";
 			allInterestinSpans = new ArrayList<List<AILInstance>>();
-			allInterestinSpansStories = new ArrayList<List<String>>();
+			randomSpansofSameLength = new ArrayList<List<AILInstance>>();
+			allInterestingSpansStories = new ArrayList<List<String>>();
+			allRandomSpansStories = new ArrayList<List<String>>();
 
 			//getting a list of lists of aili for each file: interesting spans
-			for (AILUniqueSpanDesignator eachSpan : allInterestingParts.get(eachFile))
+			for (AILUniqueSpanDesignator eachSpan : allInterestingParts.get(eachFile)){
 				allInterestinSpans.add(extractSpan(
 						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan));
+				randomSpansofSameLength.add(getRandomSpan(
+						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan.getLength()));			
+			}
 
-			//making a list of stories (each a list of sentences)
+			//making a list of stories for interesting and random parts (each a list of sentences)
 			for(List<AILInstance> eachSpan : allInterestinSpans)
-				allInterestinSpansStories.add(nlg.generateStoryFromAIL(eachSpan));
+				allInterestingSpansStories.add(nlg.generateStoryFromAIL(eachSpan));
+			for(List<AILInstance> eachSpan : randomSpansofSameLength)
+				allRandomSpansStories.add(nlg.generateStoryFromAIL(eachSpan));
 
-			//write all story spans in a single string
-			for(List<String> eachSpan : allInterestinSpansStories)
+			//write all story spans in a single string for interesting and random parts
+			for(List<String> eachSpan : allInterestingSpansStories){
 				allInterestingStories += 
-				TellTheStory.makeItASingleString(eachSpan, AILmaker, true) +
-				"\n\n---------------------------------\n\n";
+						TellTheStory.makeItASingleString(eachSpan, AILmaker, true) +
+						"\n\n---------------------------------\n\n";
+			}
+			for(List<String> eachSpan : allRandomSpansStories){
+				allRandomStories += 
+						TellTheStory.makeItASingleString(eachSpan, AILmaker, true) +
+						"\n\n---------------------------------\n\n";
+			}
 
-			//write it to file
-			try { Files.write(Paths.get("gameslogs/interesting/" 
-					+ eachFile + " - interesting spans.txt"), 
-					allInterestingStories.getBytes());
+			try { //write them to file
+				Files.write(Paths.get("gameslogs/interesting/" 
+						+ eachFile + " - interesting spans.txt"), 
+						allInterestingStories.getBytes());
+				Files.write(Paths.get("gameslogs/interesting/" 
+						+ eachFile + " - random spans.txt"), 
+						allRandomStories.getBytes());
 			} catch (IOException e) {e.printStackTrace();}
 
 		}
@@ -78,6 +98,11 @@ public class TellTheFunParts {
 				+ "printed out interesting parts found in remaining"
 				+ " test set stories (if any) \nlook in into interesting folder :) \n");
 
+	}
+
+	private static List<AILInstance> getRandomSpan(List<AILInstance> ail, int length) {
+		int rand = new Random().nextInt(ail.size() - length);
+		return new ArrayList<AILInstance>(ail.subList(rand, rand + length));
 	}
 
 	private static List<AILInstance> extractSpan (
