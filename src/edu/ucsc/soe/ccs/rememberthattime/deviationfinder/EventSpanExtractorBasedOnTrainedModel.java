@@ -93,7 +93,7 @@ public class EventSpanExtractorBasedOnTrainedModel {
 					int overlapIndex = stringFromInts(eachAIL.getValue())
 							.indexOf(stringFromInts(wholeSequence));
 					int overlapLength = wholeSequence.size();
-					
+
 					//removing comma effect on the index
 					overlapIndex -= overlapIndex/2;
 
@@ -107,7 +107,7 @@ public class EventSpanExtractorBasedOnTrainedModel {
 		}
 
 		return interestingPartsForAllStories;
-		
+
 	}
 
 	private static String stringFromInts(List<Integer> list){

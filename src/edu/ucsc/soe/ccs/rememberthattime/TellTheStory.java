@@ -78,7 +78,6 @@ public class TellTheStory {
 		connectors.add("After that");
 		connectors.add("After which");
 		connectors.add("Subsequently");
-		connectors.add("When that was done");
 
 		Random rand = new Random();
 		int i = 0;
@@ -87,7 +86,7 @@ public class TellTheStory {
 					s 
 					+ " "
 					+ ((rand.nextBoolean() && (i != list.size() - 1)) ? 
-							connectors.get(rand.nextInt(connectors.size() - 1)) + ", " : "") 
+							connectors.get(rand.nextInt(connectors.size())) + ", " : "") 
 							;
 			i++;
 		}
