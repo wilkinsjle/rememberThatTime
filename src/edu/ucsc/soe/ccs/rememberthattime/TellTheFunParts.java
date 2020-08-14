@@ -24,8 +24,7 @@ public class TellTheFunParts {
 	public static void main(String[] args) {
 
 		Map<String, List<AILUniqueSpanDesignator>> allInterestingParts = 
-				new EventSpanExtractorBasedOnTrainedModel().
-				findInterestingStorySpans();
+				new EventSpanExtractorBasedOnTrainedModel().findInterestingStorySpans();
 
 		String allInterestingStories, allRandomStories;
 		List<List<AILInstance>> allInterestinSpans;
