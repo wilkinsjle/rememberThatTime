@@ -107,26 +107,35 @@ public class TrainingTestingSetGenerator {
 			for(String eachAILIType : ailListEventNamesOnly.get(eachKey)){
 
 				if(eachAILIType.trim()
-						.contains("FacialExpressionAILI"))
+						.contains("SpeechGreet"))
 					i = 1;
 				else if(eachAILIType.trim()
-						.contains("SpeechAILI"))
+						.contains("SpeechPositive"))
 					i = 2;
 				else if(eachAILIType.trim()
-						.contains("ResponseAILI"))
+						.contains("SpeechNegative"))
 					i = 3;
 				else if(eachAILIType.trim()
-						.contains("DiscardEventAILI"))
+						.contains("ThoughtPositive"))
 					i = 4;
 				else if(eachAILIType.trim()
-						.contains("MeldEventAILI"))
+						.contains("ThoughtNegative"))
 					i = 5;
 				else if(eachAILIType.trim()
-						.contains("LayOffEventAILI"))
+						.contains("ThoughtConflict"))
 					i = 6;
 				else if(eachAILIType.trim()
-						.contains("GameOverAILI"))
+						.contains("SpeechProposal"))
 					i = 7;
+				else if(eachAILIType.trim()
+						.contains("SpeechRejection"))
+					i = 8;
+				else if(eachAILIType.trim()
+						.contains("SpeechDrop"))
+					i = 9;
+				else if(eachAILIType.trim()
+						.contains("SpeechAccept"))
+					i = 10;
 				else
 					throw new IllegalArgumentException();
 
@@ -158,7 +167,7 @@ public class TrainingTestingSetGenerator {
 
 	private void loadAILsFromFile() {
 		List<File> logFilesList = Arrays.asList(
-				new File("gameslogs/ail").listFiles());
+				new File("agentMapsGamelogs/ail").listFiles());
 		for (File file : logFilesList){
 			if(file.isHidden()) continue;
 			AILFileNames.add(file.getName().split(" - ")[0].trim());

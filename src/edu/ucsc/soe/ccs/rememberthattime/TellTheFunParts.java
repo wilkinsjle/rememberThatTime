@@ -44,6 +44,7 @@ public class TellTheFunParts {
 
 		//looping over each of such files
 		for(String eachFile : filesWithInterestingParts){
+			System.out.println(eachFile); // PASS
 
 			allInterestingStories = "";
 			allRandomStories = "";
@@ -52,19 +53,24 @@ public class TellTheFunParts {
 			allInterestingSpansStories = new ArrayList<List<String>>();
 			allRandomSpansStories = new ArrayList<List<String>>();
 
+			System.out.println(allInterestingParts); //output: {s12.txt=[], s13.txt=[], s5.txt=[], s7.txt=[], s9.txt=[]}
+
 			//getting a list of lists of aili for each file: interesting spans
 			for (AILUniqueSpanDesignator eachSpan : allInterestingParts.get(eachFile)){
+				System.out.println("fail, need to work out what this part of the code is doing");
 				allInterestinSpans.add(extractSpan(
 						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan));
 				randomSpansofSameLength.add(getRandomSpan(
-						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan.getLength()));			
+						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan.getLength()));
 			}
 
 			//making a list of stories for interesting and random parts (each a list of sentences)
 			for(List<AILInstance> eachSpan : allInterestinSpans)
 				allInterestingSpansStories.add(nlg.generateStoryFromAIL(eachSpan));
+				//System.out.println("looped over all interesting spans");
 			for(List<AILInstance> eachSpan : randomSpansofSameLength)
 				allRandomSpansStories.add(nlg.generateStoryFromAIL(eachSpan));
+				//System.out.println("looped over random spans of same length");
 
 			//write all story spans in a single string for interesting and random parts
 			for(List<String> eachSpan : allInterestingSpansStories){
