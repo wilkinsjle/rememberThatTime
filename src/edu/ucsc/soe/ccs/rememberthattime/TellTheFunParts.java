@@ -26,6 +26,8 @@ public class TellTheFunParts {
 		Map<String, List<AILUniqueSpanDesignator>> allInterestingParts = 
 				new EventSpanExtractorBasedOnTrainedModel().findInterestingStorySpans();
 
+		//System.out.println("all interesting parts" + allInterestingParts);
+
 		String allInterestingStories, allRandomStories;
 		List<List<AILInstance>> allInterestinSpans;
 		List<List<AILInstance>> randomSpansofSameLength;
@@ -41,10 +43,11 @@ public class TellTheFunParts {
 
 		//finding the files that have had interesting parts found in them
 		Set<String> filesWithInterestingParts = allInterestingParts.keySet();
+		// allInterestingParts in generating correct keys, but incorrect values
 
 		//looping over each of such files
 		for(String eachFile : filesWithInterestingParts){
-			System.out.println(eachFile); // PASS
+			//System.out.println(eachFile); // PASS
 
 			allInterestingStories = "";
 			allRandomStories = "";
@@ -53,7 +56,6 @@ public class TellTheFunParts {
 			allInterestingSpansStories = new ArrayList<List<String>>();
 			allRandomSpansStories = new ArrayList<List<String>>();
 
-			System.out.println(allInterestingParts); //output: {s12.txt=[], s13.txt=[], s5.txt=[], s7.txt=[], s9.txt=[]}
 
 			//getting a list of lists of aili for each file: interesting spans
 			for (AILUniqueSpanDesignator eachSpan : allInterestingParts.get(eachFile)){
@@ -96,7 +98,7 @@ public class TellTheFunParts {
 		}
 
 		System.out.println("-------------------------------\n"
-				+ "SUCCESS: Model created from " + 
+				+ "SUCCESS: Model created from " +
 				TrainingTestingSetGenerator.TRAIN_SET_SIZE + 
 				" randomly selected training set stories; \n"
 				+ "extracted interesting story spans;\n"

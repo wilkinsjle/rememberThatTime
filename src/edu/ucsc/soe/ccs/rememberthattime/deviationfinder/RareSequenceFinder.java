@@ -8,7 +8,7 @@ import java.util.List;
 
 public class RareSequenceFinder {
 
-	private static final double CONFIDENCE_THRESHOLD = 0.9;
+	private static final double CONFIDENCE_THRESHOLD = 1.0;
 	private static final double SUPPORT_THRESHOLD = 9;
 
 	public List<StorySpan> extractLeastFrequentSpansFromModelOutput() 
@@ -24,7 +24,9 @@ public class RareSequenceFinder {
 		while((eachLine = br.readLine()) != null)
 			allLines.add(eachLine);
 
+
 		for(String line : allLines){
+
 			if(Double.valueOf(line.split("#CONF:")[1].trim()) <= CONFIDENCE_THRESHOLD 
 					&& (Integer.valueOf(line.split("#CONF:")[0].split("#SUP:")[1].trim()) 
 							<= SUPPORT_THRESHOLD)){
