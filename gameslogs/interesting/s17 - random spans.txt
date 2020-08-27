@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 During Karen and User's rummy game, this happened: User discarded card. Then, Karen told User clever meld!. User laughed. After which, User responded to Karen thanks. 
 
 ---------------------------------
@@ -39,6 +40,49 @@ During Karen and User's rummy game, this happened: User stopped laughing. User d
 ---------------------------------
 
 During Karen and User's rummy game, this happened: User smiled. User laughed. 
+=======
+During Karen and User's rummy game, this happened: User stopped laughing. Afterwards, User smiled. Then, User laughed. Subsequently, User stopped laughing. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User laughed. After that, User stopped laughing. User laughed. User stopped laughing. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User stopped laughing. Subsequently, User discarded card. Karen told User clever meld!. User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User melded card. After which, User smiled. Afterwards, User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen told User clever meld!. User laughed. Then, User responded to Karen thanks. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen melded card. Karen discarded card. Karen told User do you have good cards?. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen told User do you have good cards?. Subsequently, User responded to Karen yes. User melded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User laughed. Then, User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User smiled. User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen discarded card. User stopped laughing. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User told Karen good job on lay off. Karen responded to User thanks. 
+>>>>>>> Stashed changes
 
 ---------------------------------
 

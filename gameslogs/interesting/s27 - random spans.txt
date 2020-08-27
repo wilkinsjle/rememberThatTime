@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 During Karen and User's rummy game, this happened: User discarded card. Karen discarded card. Afterwards, User discarded card. Subsequently, Karen told User these cards are nice, why meld? keep them. 
 
 ---------------------------------
@@ -15,10 +16,29 @@ During Karen and User's rummy game, this happened: User discarded card. Karen di
 ---------------------------------
 
 During Karen and User's rummy game, this happened: Karen melded card. Karen discarded card. 
+=======
+During Karen and User's rummy game, this happened: Karen discarded card. Next, User told Karen you do play very well. Subsequently, Karen responded to User such an encouragement to hear that. After that, User discarded card. 
 
 ---------------------------------
 
-During Karen and User's rummy game, this happened: Karen discarded card. User discarded card. 
+During Karen and User's rummy game, this happened: Karen discarded card. Karen told User that was the best i could do. After that, User responded to Karen but watch me!. Subsequently, User discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. Karen told User these cards are nice, why meld? keep them. User responded to Karen haha, sure!. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen told User and that's how you make a meld!. User responded to Karen don't get too excited!. User melded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. Karen discarded card. 
+>>>>>>> Stashed changes
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. Next, Karen discarded card. 
 
 ---------------------------------
 

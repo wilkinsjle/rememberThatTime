@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 During Karen and User's rummy game, this happened: User melded card. After that, User laid off card. User discarded card. Then, User stopped laughing. Karen told User how is your hand?. After that, User responded to Karen good!. Next, Karen discarded card. User smiled. 
 
 ---------------------------------
@@ -43,6 +44,53 @@ During Karen and User's rummy game, this happened: User smiled. Subsequently, Ka
 ---------------------------------
 
 During Karen and User's rummy game, this happened: User laughed. Karen discarded card. After that, Karen told User and that's how you make a meld. User smiled. Subsequently, User laughed. After which, User responded to Karen not really madam robot. 
+=======
+During Karen and User's rummy game, this happened: User melded card. User laid off card. User discarded card. Next, User stopped laughing. Karen told User how is your hand?. User responded to Karen good!. Karen discarded card. After which, User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User smiled. User discarded card. After which, User told Karen haha, lay off!. Then, Karen responded to User awesome. Afterwards, User laughed. After that, Karen discarded card. Karen told User that was the best i could do. Next, User stopped laughing. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. User stopped laughing. Karen told User how is your hand?. User responded to Karen good!. Subsequently, Karen discarded card. After which, User smiled. User smiled. Subsequently, User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User stopped laughing. User smiled. Then, User responded to Karen but watch me!. Afterwards, User laughed. User melded card. User smiled. After that, Game ended. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. User told Karen haha, lay off!. Next, Karen responded to User awesome. User laughed. Karen discarded card. Karen told User that was the best i could do. User stopped laughing. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User stopped laughing. Karen told User how is your hand?. User responded to Karen good!. Subsequently, Karen discarded card. After that, User smiled. After that, User smiled. Next, User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User melded card. User laid off card. User discarded card. Subsequently, User stopped laughing. Then, Karen told User how is your hand?. Then, User responded to Karen good!. Karen discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User smiled. Subsequently, User smiled. Karen told User that was the best i could do. User responded to Karen but watch me!. User laughed. User smiled. Next, User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User stopped laughing. User smiled. User melded card. User laughed. Subsequently, User smiled. User discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User melded card. Then, User laid off card. Then, User discarded card. User stopped laughing. Karen told User how is your hand?. After that, User responded to Karen good!. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User smiled. Karen told User that was the best i could do. User responded to Karen but watch me!. Afterwards, User laughed. User smiled. User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User laughed. After that, Karen discarded card. After which, Karen told User and that's how you make a meld. After that, User smiled. Then, User laughed. After which, User responded to Karen not really madam robot. 
+>>>>>>> Stashed changes
 
 ---------------------------------
 

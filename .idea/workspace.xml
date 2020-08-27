@@ -1,0 +1,1002 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a5ff3753-079e-4be2-a7a5-f6b4f11210f7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s1 - interesting spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s1 - interesting spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s1 - random spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s1 - random spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s17 - interesting spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s17 - interesting spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s17 - random spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s17 - random spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s27 - interesting spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s27 - interesting spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s27 - random spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s27 - random spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s29 - interesting spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s29 - interesting spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gameslogs/interesting/s29 - random spans.txt" beforeDir="false" afterPath="$PROJECT_DIR$/gameslogs/interesting/s29 - random spans.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mining/model.txt" beforeDir="false" afterPath="$PROJECT_DIR$/mining/model.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/ArraysAlgos$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/ArraysAlgos.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/IGB/AlgoIGB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/Indirect/AlgoINDIRECT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/Indirect/AlgoINDIRECT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/MNRRules/AlgoMNRRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/AlgoTNR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/AlgoTopKRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/Database$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/Database.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/RuleG.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/TopKRules_and_TNR/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/agrawal94_association_rules/AlgoAgrawalFaster94$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/agrawal94_association_rules/AlgoAgrawalFaster94.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/agrawal94_association_rules/AssocRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/agrawal94_association_rules/AssocRules$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/agrawal94_association_rules/AssocRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/closedrules/AlgoClosedRules$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/closedrules/AlgoClosedRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/fhsar/AlgoFHSAR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/fhsar/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/associationrules/fhsar/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/classifiers/decisiontree/id3/AlgoID3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/classifiers/decisiontree/id3/ClassNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/classifiers/decisiontree/id3/DecisionNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/classifiers/decisiontree/id3/DecisionTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/classifiers/decisiontree/id3/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/dbscan/AlgoDBSCAN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/dbscan/DoubleArrayDBS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceCorrelation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceCosine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceEuclidian.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceJaccard.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/distanceFunctions/DistanceManathan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/hierarchical_clustering/AlgoHierarchicalClustering.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/kmeans/AlgoBisectingKMeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/kmeans/AlgoKMeans.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/PorterStemmer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/Record.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/SimilarRecords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/StopWordAnalyzer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/TextCluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/clustering/text_clusterer/TextClusterAlgo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/MSApriori/AlgoMSApriori$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/MSApriori/AlgoMSApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori/AlgoApriori$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori/AlgoApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTID/AlgoAprioriTID$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTID/AlgoAprioriTID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTID/AlgoAprioriTID_Bitset$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTID/AlgoAprioriTID_Bitset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTIDClose/AlgoAprioriTIDClose$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/aprioriTIDClose/AlgoAprioriTIDClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/AlgoAprioriHT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/AlgoAprioriHT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/ItemsetHashTree$InnerNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/ItemsetHashTree$LeafNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/ItemsetHashTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_HT/ItemsetHashTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_close/AlgoAprioriClose$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_close/AlgoAprioriClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_inverse/AlgoAprioriInverse$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_inverse/AlgoAprioriInverse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_rare/AlgoAprioriRare$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/apriori_rare/AlgoAprioriRare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/cfpgrowth/AlgoCFPGrowth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/cfpgrowth/AlgoCFPGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/cfpgrowth/MISNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/cfpgrowth/MISTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/AlgoCharmMFI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/AlgoCharm_Bitset$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/AlgoCharm_Bitset$BitSetSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/AlgoCharm_Bitset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/AlgoDCharm_Bitset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/charm/HashTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/clostream/AlgoCloSteam.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/dci_closed/AlgoDCI_Closed$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/dci_closed/AlgoDCI_Closed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/dci_closed_optimized/AlgoDCI_Closed_Optimized$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/dci_closed_optimized/AlgoDCI_Closed_Optimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/dci_closed_optimized/BitMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/defme/AlgoDefMe$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/defme/AlgoDefMe$BitSetSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/defme/AlgoDefMe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoDEclat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoDEclat_Bitset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoEclat$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoEclat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoEclat_Bitset$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoEclat_Bitset$BitSetSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/eclat/AlgoEclat_Bitset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/Algo_estDec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/Algo_estDecPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/CPTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/CPTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/MainTest_estDec_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/ParentNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/estNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/estDec/estTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN$IntegerByRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN$Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN$NodeListTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN$PPCTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/FIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost$IntegerByRef.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost$Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost$NodeListTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost$PPCTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fin_prepost/PrePost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth/AlgoFPGrowth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth/AlgoFPGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth/FPNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth/FPTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth/FPTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth_with_strings/AlgoFPGrowth_Strings$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth_with_strings/AlgoFPGrowth_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth_with_strings/FPNode_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth_with_strings/FPTree_Strings$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/fpgrowth_with_strings/FPTree_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hmine/AlgoHMine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoFHM$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoFHM$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoFHM$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoFHM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoHUIMiner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoHUIMiner$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoHUIMiner$Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/AlgoHUIMiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/Element.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/hui_miner/UtilityList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/AbstractItemsetTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/AssociationRuleIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/HashTableIT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/ItemsetTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/ItemsetTreeNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/itemsettree/MemoryEfficientItemsetTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/AlgoLCM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/Dataset$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/Dataset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/MainTestLCMFreq_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/MainTestLCMMax_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/MainTestLCMMax_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/MainTestLCM_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/lcm/Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/pascal/AlgoPASCAL$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/pascal/AlgoPASCAL.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/pascal/ItemsetPascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/relim/AlgoRelim$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/relim/AlgoRelim$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/relim/AlgoRelim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/relim/DatabaseStructureRelim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/two_phase/AlgoTwoPhase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/two_phase/ItemsetTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/two_phase/ItemsetsTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/two_phase/TransactionTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/two_phase/UtilityTransactionDatabaseTP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/uapriori/AlgoUApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/uapriori/ItemUApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/uapriori/ItemsetUApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/uapriori/ItemsetsUApriori.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/uapriori/UncertainTransactionDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoIHUP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoIHUP$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoIHUP$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoIHUP$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoIHUP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoUPGrowth$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoUPGrowth$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoUPGrowth$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoUPGrowth$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/AlgoUPGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/IHUPTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/IHUPTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/UPNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/UPTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowth_ihup/UPTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/AlgoUPGrowthPlus$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/AlgoUPGrowthPlus$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/AlgoUPGrowthPlus$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/AlgoUPGrowthPlus$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/AlgoUPGrowthPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/UPNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/UPTree$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/upgrowthplus/UPTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/vme/AlgoVME$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/vme/AlgoVME.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/zart/AlgoZart.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/zart/TCTableCandidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/zart/TFTableFrequent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/frequentpatterns/zart/TZTableClosed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmdeogun/AlgoCMDeogun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmdeogun/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmdeogun/Rules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmrules/AlgoAprioriTID_forCMRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmrules/AlgoCMRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmrules/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/cmrules/Rules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegen/AlgoRuleGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/AlgoERMiner$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/AlgoERMiner$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/AlgoERMiner$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/AlgoERMiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/AlgoRULEGROWTH.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/ExpandLeftStore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/LeftEquivalenceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/LeftRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/Occurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/RightEquivalenceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/RightRule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/rulegrowth/SparseMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/topseqrules_and_tns/AlgoTNS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/topseqrules_and_tns/AlgoTopSeqRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/topseqrules_and_tns/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/trulegrowth/AlgoTRuleGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/trulegrowth/Occurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/trulegrowth_with_strings/AlgoTRuleGrowth_withStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/trulegrowth_with_strings/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequential_rules/trulegrowth_with_strings/Occurence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoBIDEPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoFEAT$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoFEAT$PairSequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoFEAT$ProjectionEnum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoFEAT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoFSGP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoMaxSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoPrefixSpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/AlgoTSP_nonClosed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/PairBIDE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/PseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/PseudoSequenceBIDE$Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/PseudoSequenceBIDE$PseudoSequencePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/PseudoSequenceBIDE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/SequentialPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan/SequentialPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/AlgoBIDEPlus_withStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/AlgoPrefixSpan_with_Strings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/PairBIDE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/PseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/PseudoSequenceBIDE$Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/PseudoSequenceBIDE$PseudoSequencePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/PseudoSequenceBIDE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/SequentialPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/BIDE_and_prefixspan_with_strings/SequentialPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/AlgoCM_ClaSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/AlgoClaSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/FrequentPatternEnumeration_ClaSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/ItemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/RemoveStatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/Sequences$patternComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/abstracciones/Abstraction_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/abstracciones/Abstraction_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/abstracciones/ItemAbstractionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/comparatorTimestamps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/creators/AbstractionCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/creators/AbstractionCreator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/creators/ItemAbstractionPairCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/database/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/itemComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/patterns/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/dataStructures/patterns/PatternCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/idlists/IDList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/idlists/IDListStandard_Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/idlists/Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/idlists/creators/IdListCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/idlists/creators/IdListCreatorStandard_Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/savers/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/savers/SaverIntoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/savers/SaverIntoMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/tries/ShowTrie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/tries/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clasp_AGP/tries/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/AlgoCloSpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/RecursionCloSpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/ItemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/PseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/PseudoSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/RemoveStatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Sequences$patternComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/abstractions/Abstraction_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/abstractions/Abstraction_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/abstractions/ItemAbstractionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/creators/AbstractionCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/creators/AbstractionCreator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/creators/ItemAbstractionPairCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/patterns/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/patterns/PatternCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/trie/Trie.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/items/trie/TrieNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/savers/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/savers/SaverIntoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/clospan_AGP/savers/SaverIntoMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/AbstractAlgoPrefixSpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/AlgoBIDEPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/AlgoFournierViger08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/AlgoPrefixSpanMDSPM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/ItemSimple.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/ItemValued.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/PseudoSequence$Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/PseudoSequence$PseudoSequencePair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/PseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/PseudoSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/TestPseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/kmeans_for_fournier08/AlgoKMeansWithSupport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/kmeans_for_fournier08/AlgoKMeans_forFournier08.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/kmeans_for_fournier08/Cluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalpatterns/AlgoDim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalpatterns/MDPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalpatterns/MDPatterns.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalpatterns/MDPatternsDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalsequentialpatterns/AlgoSeqDim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalsequentialpatterns/MDSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalsequentialpatterns/MDSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/fournier2008_seqdim/multidimensionalsequentialpatterns/MDSequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/goKrimp/AlgoGoKrimp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/goKrimp/DataReader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/goKrimp/Event.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/goKrimp/MyPattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/goKrimp/SignTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/AlgoGSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/CandidateGeneration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/SupportCounting.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/CandidateInSequenceFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/ItemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/RemoveStatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/abstractions/Abstraction_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/abstractions/Abstraction_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/abstractions/ItemAbstractionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/creators/AbstractionCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/creators/AbstractionCreator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/creators/ItemAbstractionPairCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/itemComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/patterns/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/gsp_AGP/items/patterns/PatternCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/AlgoLAPIN_LCI$Position.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/AlgoLAPIN_LCI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/IEPositionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/PairWithList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/PositionVector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/SEPositionList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/lapin/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/AlgoPrefixSpan_AGP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/RecursionPrefixSpan_AGP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/ItemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/Pair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/PseudoSequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/PseudoSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/RemoveStatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/abstractions/Abstraction_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/abstractions/Abstraction_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/abstractions/ItemAbstractionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/creators/AbstractionCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/creators/AbstractionCreator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/creators/ItemAbstractionPairCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/patterns/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/items/patterns/PatternCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/savers/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/savers/SaverIntoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/prefixSpan_AGP/savers/SaverIntoMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/AlgoCMSPADE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/AlgoSPADE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/AlgoSPAM_AGP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/EquivalenceClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/FrequentPatternEnumeration.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/FrequentPatternEnumerationFacade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/FrequentPatternEnumeration_SPAM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/candidatePatternsGeneration/CandidateGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/candidatePatternsGeneration/CandidateGenerator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/ItemFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/RemoveStatics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/Sequences.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/abstractions/Abstraction_Generic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/abstractions/Abstraction_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/abstractions/ItemAbstractionPair.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/comparatorTimestamps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/creators/AbstractionCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/creators/AbstractionCreator_Qualitative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/creators/ItemAbstractionPairCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/database/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/itemComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/patterns/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/dataStructures/patterns/PatternCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/IDList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/IDListBitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/IDListFatBitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/IDListStandard_Map.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/creators/IdListCreator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/creators/IdListCreator_Bitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/creators/IdListCreator_FatBitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/idLists/creators/IdListCreator_StandardMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/savers/Saver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/savers/SaverIntoFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spade_spam_AGP/savers/SaverIntoMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoCMSPAM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoSPAM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoTKS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoVGEN$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoVGEN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoVMSP$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/AlgoVMSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/Bitmap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/Candidate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/PatternVGEN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/PatternVMSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/Prefix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/PrefixVGEN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sequentialpatterns/spam/PrefixVMSP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sort/MainTestSelect.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sort/MainTestSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sort/Select.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/algorithms/sort/Sort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/binarytree/BinaryTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/binarytree/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/binarytree/MainBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/KDNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/KDTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/KNNPoint.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/MainTestKDTree_KNearestNeighbors.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/MainTestKDTree_NearestNeighboor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/kdtree/MainTestKDTree_allPointsWithinEpsilonRadius.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/redblacktree/MainRedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/redblacktree/RedBlackTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/redblacktree/RedBlackTree$RedBlackTreeIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/redblacktree/RedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/triangularmatrix/AbstractTriangularMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/triangularmatrix/SparseTriangularMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/datastructures/triangularmatrix/TriangularMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/CommandProcessor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow$TextAreaOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/MainWindow.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/PathsManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/gui/ResetPaths.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_array_integers/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_array_integers/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_list_integers/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_list_integers/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_list_strings/Sequence.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_list_strings/SequenceDatabase$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/sequence_database_list_strings/SequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/input/transaction_database_list_integers/TransactionDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/AbstractItemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/AbstractOrderedItemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/cluster/Cluster.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/cluster/ClusterWithMean.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/cluster/DoubleArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_count/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_count/Itemsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_tids/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_tids/Itemsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_tids_bitset/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_array_integers_with_tids_bitset/Itemsets.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/itemset_list_integers_without_support/Itemset.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/rule_itemset_array_integer_with_count/Rule.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/rule_itemset_array_integer_with_count/Rules$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/patterns/rule_itemset_array_integer_with_count/Rules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_CFPGrowth_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_CFPGrowth_saveToFile_withLift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_CFPGrowth_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_CFPGrowth_saveToMemory_with_lift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_FPGrowth_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_FPGrowth_saveToFile_withLift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_FPGrowth_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllAssociationRules_FPGrowth_saveToMemory_with_lift.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAllPerfectlySporadicAssociationRules_Apriori_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriClose_saveToFIle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriClose_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriHT_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriInverse_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriInverse_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriRare_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriRare_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriTID.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriTIDClose.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriTID_bitset_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestAprioriTID_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestApriori_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestApriori_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestBIDEPlus_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestBIDEPlus_saveToFile_withStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestBIDEPlus_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestBisectingKMeans_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCFPGrowth_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCFPGrowth_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMClaSP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMClaSP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMDEO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMRULES.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMSPADE_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMSPADE_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCMSPAM_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCharmMFI_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCharmMFI_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCharm_bitset_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCharm_bitset_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestClaSP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestClaSP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCloSpan_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCloSpan_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestCloStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestClosedAssociationRules_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestClosedAssociationRules_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestConvertSeqDBToTransDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestConvertSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestConvertTransDBtoSeqDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestConvertTransactionDatabaseCSVtoSPMF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDBSCAN_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDBSCAN_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDCI_Closed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDCI_Closed_Optimized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDCharm_bitset_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDCharm_bitset_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDEclat_bitset_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDEclat_bitset_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDEclat_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDEclat_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDefMe_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestDefMe_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestERMiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestEclat_bitset_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestEclat_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestEclat_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFEAT_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFEAT_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFHM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFHSAR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFIN.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFPGrowth_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFPGrowth_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFPGrowth_strings_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFSGP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFSGP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestFixTransactionDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGSP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGSP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGenerateSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGenerateSequenceDatabaseStats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGenerateSequenceDatabaseWithTimeStamps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGenerateTransactionDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGenerateTransactionDatabaseStats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGoKrimp_printResultToConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestGoKrimp_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestHMine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestHUIMiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestHierarchicalClustering_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestHierarchicalClustering_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestID3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestIGB_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestIGB_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestIHUP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestIndirectRules_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestItemsetTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestKMeans_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestKMeans_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestLAPIN_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestLCMFreq_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestLCMFreq_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestLCM_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestLCM_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMNRRules_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMNRRules_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMSApriori_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMaxSP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMaxSP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMemoryEfficientItemsetTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMultiDimSequentialPatternMining.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestMultiDimSequentialPatternMiningClosed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPascal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrePost.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_AGP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_AGP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_PostProcessingStepForClosedMining_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_PostProcessingStepForClosedMining_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_WithStrings_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestPrefixSpan_withString_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestRelim.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestRuleGen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestRuleGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_BitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_BitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_EntryList_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_EntryList_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_FatBitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_FatBitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_BitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_BitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_EntryList_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_EntryList_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_FatBitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPADE_AGP_Parallelized_FatBitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_BitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_BitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_EntryList_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_EntryList_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_FatBitMap_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_FatBitMap_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_PostProcessingStepForClosedMining_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_AGP_PostProcessingStepForClosedMining_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSPAM_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining1_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining1_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining2_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining2_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining3_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining3_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestSequentialPatternMining4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTKS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTNR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTNS.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTRuleGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTRuleGrowth_withStrings.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTSP_nonClosed.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTextClusterer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTopKRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTopSeqRules.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTransactionDatabaseUtilityGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTwoPhaseAlgorithm_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestTwoPhaseAlgorithm_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestUApriori_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestUPGrowth.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestUPGrowthPlus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestVGEN_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestVGEN_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestVME.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestVMSP_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestVMSP_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestZart_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTestZart_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTest_estDecPlus_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTest_estDecPlus_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTest_estDec_saveToFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/test/MainTest_estDec_saveToMemory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/MemoryLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_converter/Formats.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_converter/MainTestConvertTransactionDatabaseARFFtoSPMF.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_converter/SequenceDatabaseConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_converter/TransactionDatabaseConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_generator/AddTimeStampsToSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_generator/MainTestAddTimeStampsToSequenceDatabase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_generator/SequenceDatabaseGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_generator/TransactionDatabaseGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_generator/TransactionDatasetUtilityGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_stats/SequenceStatsGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/dataset_stats/TransactionStatsGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/other_dataset_tools/FixTransactionDatabaseTool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/resultConverter/MainTestResultConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/ca/pfv/spmf/tools/resultConverter/ResultConverter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/TellTheFunParts.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/TellTheFunParts.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/TellTheStory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/AILCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/AILInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/AILObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/AILProperty.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/AILSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/ContextSpecificAILInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/FacialExpressionAILInstance$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/FacialExpressionAILInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/SpeechAILInstance.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/meta/CharacterType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/meta/FacialExpressionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/meta/Gender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/meta/SpeechActType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/DiscardEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/DrawEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/GameOverEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/LayOffEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/MeldEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/ail/rummyspecificail/ResponseEvent.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/AILUniqueSpanDesignator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/RareSequenceFinder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/StorySpan.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/TrainingTestingSetGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/cmrules/CMRulesMiner.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/nlg/NLGEngine.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/processinput/GenerateAILForRummy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/rememberThatTime/edu/ucsc/soe/ccs/rememberthattime/processinput/ProcessGamesRawLogs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/TellTheFunParts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1056">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/RareSequenceFinder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/StorySpan.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/TrainingTestingSetGenerator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1193">
+              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/AILUniqueSpanDesignator.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1375" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rememberThatTime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rememberThatTime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rememberThatTime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rememberThatTime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rememberThatTime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rememberThatTime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rememberthattime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rememberThatTime" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rememberThatTime" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rememberthattime" type="462c0819:PsiDirectoryNode" />
+              <item name="deviationfinder" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598508853232" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="TellTheFunParts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ucsc.soe.ccs.rememberthattime.TellTheFunParts" />
+      <module name="rememberThatTime" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ucsc.soe.ccs.rememberthattime.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TellTheFunParts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/code/learning/applied-scala" value="PREVIEW" />
+        <entry key="$USER_HOME$/code/learning/intro-to-scala" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a5ff3753-079e-4be2-a7a5-f6b4f11210f7" name="Default Changelist" comment="" />
+      <created>1598508663661</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598508663661</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1375" height="877" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981245" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Version Control" visible="true" weight="0.3297362" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/RareSequenceFinder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/StorySpan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/TrainingTestingSetGenerator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1193">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/EventSpanExtractorBasedOnTrainedModel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1056">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/TellTheFunParts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="48" column="50" selection-start-line="48" selection-start-column="50" selection-end-line="48" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ucsc/soe/ccs/rememberthattime/deviationfinder/AILUniqueSpanDesignator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

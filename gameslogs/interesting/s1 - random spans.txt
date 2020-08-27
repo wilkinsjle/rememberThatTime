@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 During Karen and User's rummy game, this happened: User smiled. Afterwards, User discarded card. Karen laid off card. Karen discarded card. 
 
 ---------------------------------
@@ -35,6 +36,45 @@ During Karen and User's rummy game, this happened: Karen told User i am in this 
 ---------------------------------
 
 During Karen and User's rummy game, this happened: Karen told User i am in this to win!. Next, User responded to Karen well do your best. 
+=======
+During Karen and User's rummy game, this happened: Karen discarded card. User told Karen you do play very well. Karen responded to User good job. User discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen discarded card. User stopped laughing. Subsequently, User melded card. User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen melded card. Karen discarded card. Afterwards, User responded to Karen good meld. Then, Karen responded to User such encouragement to hear that!. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User responded to Karen well do your best. User discarded card. Next, Karen discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User smiled. After that, User discarded card. Karen laid off card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen responded to User. Afterwards, Karen discarded card. Karen told User i am in this to win. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User melded card. Next, User discarded card. User told Karen only few cards left for you. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User responded to Karen well do your best. User laid off card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User told Karen found a lay off, yes!. Karen responded to User. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User responded to Karen well do your best. Next, User laid off card. 
+>>>>>>> Stashed changes
 
 ---------------------------------
 

@@ -79,6 +79,9 @@ public class EventSpanExtractorBasedOnTrainedModel {
 		for(Entry<String, List<Integer>> eachAIL 
 				: trainTestSetGenerator.TestSet.entrySet()){
 
+			System.out.println("______________________________________");
+			System.out.println("AIL: " + stringFromInts(eachAIL.getValue()));
+
 			interestingPartsOfAStory = new ArrayList<AILUniqueSpanDesignator>();
 
 			for(StorySpan rarePattern : rarePatterns){
@@ -87,8 +90,13 @@ public class EventSpanExtractorBasedOnTrainedModel {
 				wholeSequence.addAll(rarePattern.preconditions);
 				wholeSequence.addAll(rarePattern.leadingTo);
 
+				System.out.println("Preconditions: " + stringFromInts(rarePattern.preconditions));
+				System.out.println("LeadingTo: " + stringFromInts(rarePattern.leadingTo));
+
 				if(stringFromInts(eachAIL.getValue()).contains(
 						stringFromInts(wholeSequence))){
+
+					System.out.println("********************************** Contains Passed ***");
 
 					int overlapIndex = stringFromInts(eachAIL.getValue())
 							.indexOf(stringFromInts(wholeSequence));

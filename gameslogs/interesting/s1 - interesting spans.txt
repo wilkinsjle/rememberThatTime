@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 During Karen and User's rummy game, this happened: Karen laid off card. Subsequently, Karen discarded card. User told Karen nice. Next, User smiled. User discarded card. Karen laid off card. Then, Karen discarded card. Subsequently, User told Karen nice again. 
 
 ---------------------------------
@@ -35,6 +36,45 @@ During Karen and User's rummy game, this happened: Karen told User i should say,
 ---------------------------------
 
 During Karen and User's rummy game, this happened: Karen laid off card. Karen discarded card. User told Karen nice. User smiled. User discarded card. Karen laid off card. 
+=======
+During Karen and User's rummy game, this happened: Karen laid off card. Karen discarded card. After that, User told Karen nice. User smiled. User discarded card. After that, Karen laid off card. Karen discarded card. Subsequently, User told Karen nice again. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen laid off card. Subsequently, Karen discarded card. Afterwards, Karen told User yes, i am finishing my cards. After which, User responded to Karen not so soon. User melded card. Next, User smiled. Game ended. User told Karen i finally win. good game.. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User responded to Karen good!. User discarded card. Karen told User i should say, you do play very well. After which, User responded to Karen thank you, you do too. Karen discarded card. User laughed. User smiled. Next, User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User laughed. After that, User discarded card. Subsequently, Karen discarded card. User stopped laughing. User melded card. Then, User laughed. User smiled. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen discarded card. Karen told User yes, i am finishing my cards. Subsequently, User responded to Karen not so soon. User melded card. User smiled. Subsequently, Game ended. User told Karen i finally win. good game.. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: User discarded card. Karen told User i should say, you do play very well. User responded to Karen thank you, you do too. Karen discarded card. After that, User laughed. Subsequently, User smiled. User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen laid off card. Karen discarded card. Next, User told Karen nice. User smiled. User discarded card. Karen laid off card. Then, Karen discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen discarded card. After that, User stopped laughing. Then, User melded card. User laughed. Subsequently, User smiled. Then, User discarded card. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen told User i should say, you do play very well. User responded to Karen thank you, you do too. Karen discarded card. Next, User laughed. Subsequently, User smiled. User laughed. 
+
+---------------------------------
+
+During Karen and User's rummy game, this happened: Karen laid off card. Karen discarded card. User told Karen nice. After that, User smiled. Afterwards, User discarded card. Next, Karen laid off card. 
+>>>>>>> Stashed changes
 
 ---------------------------------
 
