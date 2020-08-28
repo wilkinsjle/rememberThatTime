@@ -93,10 +93,15 @@ public class EventSpanExtractorBasedOnTrainedModel {
 				System.out.println("Preconditions: " + stringFromInts(rarePattern.preconditions));
 				System.out.println("LeadingTo: " + stringFromInts(rarePattern.leadingTo));
 
+				System.out.println(stringFromInts(wholeSequence));
+
+				// `(wholeSequence)` is our preconditions + postconditions
+				// `eachAIL.getValue()` is what we are looking in, the story trace
+
 				if(stringFromInts(eachAIL.getValue()).contains(
 						stringFromInts(wholeSequence))){
 
-					System.out.println("********************************** Contains Passed ***");
+					System.out.println("*************** Contains Passed ***************");
 
 					int overlapIndex = stringFromInts(eachAIL.getValue())
 							.indexOf(stringFromInts(wholeSequence));
@@ -123,6 +128,61 @@ public class EventSpanExtractorBasedOnTrainedModel {
 		for(int each : list)
 			output += each + ",";
 		return output;
+	}
+
+	// Find instances of myPreconditions appearing, ignoring events in between:
+	private int searchForPreConditions(List<Integer> preConditions, List<Integer> storyTrace){
+
+		boolean continueSearch = true;
+
+		int indexBeginPostConditionSearch = 0;
+
+		for (int i=0; i<preConditions.size() && continueSearch; i++) {
+
+			for (int j = 0; j < storyTrace.size(); j++) {
+
+				if (preConditions.get(i) == storyTrace.get(j)) {
+
+					// System.out.println("found a match for: " + preConditions.get(i));
+
+					indexBeginPostConditionSearch = j;
+
+					break;
+				}
+
+				if (j == storyTrace.size() - 1) {
+					continueSearch = false;
+				}
+			}
+		}
+
+		return indexBeginPostConditionSearch;
+	}
+
+	// Find instances of myPreconditions appearing, ignoring events in between:
+	private boolean searchForPostConditions(List<Integer> postConditions, List<Integer> storyTrace, int index){
+
+		for (int i=0; i<postConditions.size(); i++) {
+
+			for (int j=index+1; j < storyTrace.size(); j++) {
+
+				//System.out.println("searching Entire Trace at: " + j);
+
+				if (postConditions.get(i) == storyTrace.get(j)) {
+
+					// System.out.println("found a match for: " + myPostconditions[i]);
+
+					break; // move to next integer in storyTrace
+				}
+
+				if (j == storyTrace.size() - 1) {
+
+					return false;
+				}
+			}
+		}
+
+		return true;
 	}
 
 }
