@@ -59,7 +59,7 @@ public class TellTheFunParts {
 
 			//getting a list of lists of aili for each file: interesting spans
 			for (AILUniqueSpanDesignator eachSpan : allInterestingParts.get(eachFile)){
-				System.out.println("fail, need to work out what this part of the code is doing");
+//				System.out.println("fail, need to work out what this part of the code is doing");
 				allInterestinSpans.add(extractSpan(
 						AILmaker.allFilesAILs.get(eachFile.trim()), eachSpan));
 				randomSpansofSameLength.add(getRandomSpan(

@@ -98,21 +98,41 @@ public class EventSpanExtractorBasedOnTrainedModel {
 				// `(wholeSequence)` is our preconditions + postconditions
 				// `eachAIL.getValue()` is what we are looking in, the story trace
 
-				if(stringFromInts(eachAIL.getValue()).contains(
-						stringFromInts(wholeSequence))){
+				int result = searchForPreConditions(rarePattern.preconditions, eachAIL.getValue());
 
-					System.out.println("*************** Contains Passed ***************");
+				if(result!=0){
+					if (searchForPostConditions(rarePattern.leadingTo, eachAIL.getValue(), result)){
+						System.out.println("*************** Match Found ***************");
 
-					int overlapIndex = stringFromInts(eachAIL.getValue())
+						int overlapIndex = stringFromInts(eachAIL.getValue())
 							.indexOf(stringFromInts(wholeSequence));
-					int overlapLength = wholeSequence.size();
+						int overlapLength = wholeSequence.size();
 
-					//removing comma effect on the index
-					overlapIndex -= overlapIndex/2;
+						//removing comma effect on the index
+						overlapIndex -= overlapIndex/2;
 
-					interestingPartsOfAStory.add(
+						interestingPartsOfAStory.add(
 							new AILUniqueSpanDesignator(overlapIndex, overlapLength));
+					}
 				}
+
+
+//
+//				if(stringFromInts(eachAIL.getValue()).contains(
+//						stringFromInts(wholeSequence))){
+//
+//					System.out.println("*************** Match Found ***************");
+//
+//					int overlapIndex = stringFromInts(eachAIL.getValue())
+//							.indexOf(stringFromInts(wholeSequence));
+//					int overlapLength = wholeSequence.size();
+//
+//					//removing comma effect on the index
+//					overlapIndex -= overlapIndex/2;
+//
+//					interestingPartsOfAStory.add(
+//							new AILUniqueSpanDesignator(overlapIndex, overlapLength));
+//				}
 			}
 
 			interestingPartsForAllStories.put(
